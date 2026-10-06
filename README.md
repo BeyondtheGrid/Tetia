@@ -29,6 +29,7 @@ You can also just tell Claude in plain words; it knows to run these.
 | Path | What it is |
 |---|---|
 | `SETUP.md` | One-time setup for each computer |
+| `setup/claude-code-autosetup.md` | The same setup, as instructions for Claude Code to run |
 | `CLAUDE.md` | Claude's standing instructions (loads automatically) |
 | `director-preferences.md` | How you want posts written. Edit it anytime |
 | `character/bible.md` | Tetia's master canon |

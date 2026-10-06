@@ -2,6 +2,8 @@
 
 Tetia was designed in a separate chat. That chat built this repo; **from now on, all of her writing and record-keeping happens in Claude Code sessions opened on this repo.** Follow these steps once on each computer.
 
+**Prefer to let Claude do it?** Give `setup/claude-code-autosetup.md` to a Claude Code session on the computer and it will run steps 1 to 6 for you, asking when it needs you.
+
 ---
 
 ## Before you start (once)
