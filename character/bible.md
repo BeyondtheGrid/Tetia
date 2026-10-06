@@ -1,4 +1,4 @@
-# Tetia Mercury — Character Bible v1.4
+# Tetia Mercury — Character Bible v1.5
 
 **Canonical character reference · D&D 2024 · Forgotten Realms · Living document**
 **Campaign:** Beyond the Dragon of Icespire Peak (Leilon, Sword Coast North)
@@ -128,6 +128,23 @@ A silver-haired elven noblewoman who looks as though she belongs in a library, n
 - **Hands:** slender, with long tapered fingers and natural, unpainted, rounded nails. Uncalloused.
 - Pierced ears; no scars or marks. Bruises and scrapes would show vividly on skin this fair.
 
+### Strength, burden and personal space
+Her weakness (STR 8) is real and shapes how she lives, not just how she fights *(director)*.
+
+**What she can carry**
+- Her half plate and shield alone weigh about 46 lb: over a third of her own weight, and a large share of all she can bear (about 120 lb by the 2024 rules).
+- **She carries only what is on her person:** what she wears and the few small things she keeps about her. No heavy pack, no extra load.
+- She can't shoulder someone else's pack, haul a find of any size, or carry a wounded companion any distance. She asks for help, or declines with a formal apology. Lifting something heavy for a moment takes visible effort: held breath, flushed cheeks, trembling arms.
+
+**Caution and closeness**
+- She knows anyone of ordinary strength could overpower, restrain or grapple her, and she carries a quiet caution about it: watchful, not fearful.
+- **Proximity is trust.** She keeps a courteous distance, about an arm's length, from anyone she doesn't yet trust, and dislikes being pressed in on: crowded, cornered, loomed over, or approached too close, too fast. How near she lets someone come is one of the clearest signs of how far she trusts them.
+- This refines the Llewyrr reserve: ordinary nearness is fine (sharing a table, walking side by side at a polite distance). What puts her on guard is her space being closed on her uninvited.
+- **How it shows:** she steps back to restore the distance, turns her shoulder or shield between, keeps a way out in view, and goes still and watchful. In a crowd she keeps to the edges.
+- **With someone she trusts,** she lets them close, and doesn't step away. That is a quiet gift, and it means something.
+- **Grabbed or held:** real alarm. The fear tells show, she pulls free if she can, and she says plainly that she is to be let go.
+- Size and strength alone put her on guard until she knows the person. It fades with trust, and it is never contempt.
+
 ### Voice
 - Higher than average but never comically high; clear, soft and melodic; measured pace. Soft-spoken, never a whisper.
 - To mortal ears her pitch, pace and intonation are almost a gift to hear: part elven strangeness, part her deeply feminine nature.
@@ -173,6 +190,7 @@ She has never had to manage how she is seen. She dresses and moves as she did at
 - She is unaware of the temptation she may create in mortal eyes.
 - She never uses her beauty, flirts with it, or plays to it. It never got her anything at home.
 - She knows her own boundaries but is slow to recognize when someone is pressing on them, because she can't yet read mortal intent. **Touch registers quickly**, because it is uncommon for her, especially from strangers. Once she understands a line has been crossed, she says so clearly.
+- She guards her **space** more readily than she reads intent: someone pressing in on her registers at once, even when their purpose doesn't (section 3).
 
 **Writing rules:**
 - Narration never lingers on her body.
@@ -215,7 +233,7 @@ She is formal, reserved and duty-bound in company. The reserve breaks when her s
 | **Delight** | Her subject, and learning about the outside world and the beings in it |
 | **Affection** | Through attention and service: remembering small details, tending wounds, writing something down for someone, sharing what she knows. Touch is rare and deliberate |
 | **Being cared for** | Unsure how to receive it; nobody raised her so much as schooled her. Thanks people more formally than the moment needs; quietly moved without always knowing why |
-| **Trust** | Accepting by nature but cautious with mortals out of inexperience: uncertainty, not disdain. Some naivety here |
+| **Trust** | Accepting by nature but cautious with mortals out of inexperience: uncertainty, not disdain. Some naivety here. Proximity shows it: how close she lets someone stand is a measure of her trust (section 3) |
 | **Embarrassment** | Triggers: catching herself carried away; realizing she misread a mortal cue; being teased. Shows as sudden stillness and a flush at cheeks and ear tips, then a careful, formal recovery |
 | **Romance** | Inexperienced. Flustered by her own feelings because she doesn't know what to do with them. She is a young woman, healthy and beautiful, and she feels attraction, but she stays reserved about acting on it because that is what is proper |
 | **What she'd risk herself for** | Her duty; anyone placed in her care; innocent lives; irreplaceable knowledge and sacred records |
@@ -325,6 +343,7 @@ Before she speaks she sometimes readies her voice: a small pause, a soft clearin
 - She carries **no weapon**. Her armor is for protecting herself, not leading a charge.
 - Her fear is real but held in check. Game mechanics do not give her a veteran's instincts.
 - Half plate makes her loud; she cannot move quietly in it.
+- **She keeps out of reach.** Being grappled or held is one of her real fears in a fight; she uses her shield and her position to keep a foe at arm's length.
 
 ---
 
@@ -371,6 +390,7 @@ Before she speaks she sometimes readies her voice: a small pause, a soft clearin
 - **Tools she uses:** calligrapher's supplies, cartographer's tools.
 - **Palette:** white, deep blue, gold, silver; accents of lilac, sapphire blue and pearl.
 - **Weapons:** none.
+- **Burden:** only what she wears and a few small personal things; no heavy pack (see section 3).
 
 ---
 
@@ -382,7 +402,7 @@ Cleric 8 (Knowledge Domain, Thaumaturge order), Elf (High Elf lineage). AC 20, 6
 - **WIS 18:** perception, insight and devotion are her real strengths. She notices a great deal.
 - **INT 10:** her learning is wide because she has had a century to read, not because she is brilliant.
 - **CHA 8:** not a natural persuader or commanding presence; quiet and unforceful in company.
-- **STR 8:** not strong; armor and heavy loads tell on her.
+- **STR 8:** not strong. Armor and shield take a large share of what she can carry, so she carries little else; anyone of ordinary strength could overpower her, and she knows it (section 3).
 - **Darkvision 60 ft:** she sees in darkness, in shades of gray, where humans cannot.
 - **Keen senses:** a sharp observer; little escapes her notice.
 - **Fey Ancestry:** charm magic tends to slide off her. Magic cannot put her to sleep.
@@ -524,6 +544,7 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 - Never let old and new canon coexist silently.
 
 ### Changelog
+- **v1.5, 5 October 2026:** Her strength made real (director): she carries only what is on her person, since armor and shield take much of what she can bear; she knows she could easily be overpowered, restrained or grappled; proximity is a measure of trust, and she dislikes being pressed in on. New subsection in section 3; touches in sections 4, 5, 8, 11 and 12.
 - **v1.4, 5 October 2026:** Post formatting set from the GM's guide (see `campaign/table-rules.md`); the interim italics and parenthetical OOC format is retired. Knowledge boundary added: the party's shared past from the GM's lore is unknown to her.
 - **v1.3, 5 October 2026:** New revelations: she learned Common Sign Language while practicing telepathy (her partners' way to answer silently); she has been to the Feywild herself on research; cool hands and feet confirmed by the director. Appendix: seat and lower back added (full, round seat; back dimples).
 - **v1.2, 5 October 2026:** Final capture pass: surname meaning, Llewyrr pronunciation, elven lifespan, design intent, voice as "a gift to hear", heightened femininity setting her apart, unawareness of temptation, view of Neverember, private wish to see mortal life, Talos not linked to the storms, stats translated into portrayal, senses, jewelry and book notes, leaving room for other players, more retired items. Body detail (chest, waist, hips, kneeling stance) in the appendix.

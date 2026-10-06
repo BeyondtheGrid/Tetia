@@ -84,10 +84,11 @@ Passive Perception 17, passive Insight 17, passive Investigation 10.
 ## Equipment
 
 - Half Plate +1 (40 lb.)
-- Shield
+- Shield (6 lb. in the 2024 rules)
 - Amulet of the Devout +1 (attuned; her holy symbol and spellcasting focus)
 - 110 gp
 - **No weapon.** Her only listed attack is an unarmed strike.
+- **Carrying capacity:** about 120 lb. (Strength 8 × 15, 2024 rules). Armor and shield alone are about 46 lb., so the director rules she carries only what is on her person. See `bible.md` section 3.
 
 ## Spells
 
@@ -111,3 +112,4 @@ These appear on her available list. If she prepares one, paste its text here, be
 ## Changelog
 
 - 2026-10-05: Created from the D&D Beyond export.
+- 2026-10-05: Added carrying capacity and shield weight; burden rule from the director.

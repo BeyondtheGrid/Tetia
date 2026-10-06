@@ -1,5 +1,6 @@
 # Tetia Mercury — Bible Appendix v1.3
 
+*v1.4 (5 October 2026): burden and personal space added (carrying, crowding, being grabbed).*
 *v1.3 (5 October 2026): seat and lower back added (shape, back dimples, sitting and kneeling).*
 *v1.2 (5 October 2026): cool hands confirmed; Feywild visits and the origin of her sign language added.*
 
@@ -148,6 +149,7 @@ Where this appendix and `bible.md` disagree, `bible.md` wins.
 ### Exertion
 - Quick, shallow breath; color in her cheeks; hair working loose *(derived)*.
 - Long marches in half plate tell on her (STR 8): aching shoulders, shortened breath, and later sore feet *(director, derived)*.
+- **Carrying:** her armor and shield are already most of the load she can manage. Anything more (a pack, a chest, a person) means held breath, flushed cheeks, trembling arms, and soon setting it down *(director, derived)*.
 
 ### Fear
 - Color drains from her already pale skin, as if porcelain could whiten further; her lips lose their pink *(director)*.
@@ -194,6 +196,7 @@ See `bible.md`, section 8: scaled to spell level and accumulating through the da
 - **Smiling:** a reserved smile, one corner of the mouth drawn up as if without her permission. A full smile is rare, and her hand rises to cover it *(director)*.
 - **Laughing:** restrained; she covers her mouth, and a small laugh sometimes escapes because she is young *(director)*.
 - **In danger:** shield raised, planted between the threat and others *(director)*.
+- **Personal space:** keeps about an arm's length from anyone she doesn't yet trust; steps back when someone closes in uninvited; keeps to the edges of a crowd; keeps a way out in view. Lets trusted people close without stepping away *(director)*.
 
 ---
 
@@ -241,6 +244,11 @@ See `bible.md`, section 8: scaled to spell level and accumulating through the da
 | An insult | She takes it literally and considers whether it is true. Cruelty toward others angers her more than insults to herself |
 | Sarcasm | Often missed the first time; understood a beat later |
 | An unwanted touch | Registers quickly *(director)*; she steps back and names the boundary plainly once she understands it |
+| Someone crowds or looms over her | She steps back to restore an arm's length, turns her shoulder or shield between, and goes still and watchful *(director)* |
+| Grabbed, held or restrained | Real alarm: color drains, she pulls free if she can, and says plainly that she is to be let go *(director, derived)* |
+| Asked to carry something heavy | A formal apology that she cannot, or a visible struggle for a few steps before setting it down *(director, derived)* |
+| A crowded market or tavern | Keeps to the edges and the walls; watchful, a little tense, more formal *(director, derived)* |
+| A trusted companion stands close | She lets them, and doesn't step away; a quiet sign of trust *(director)* |
 | Someone injured or in pain | Immediate, calm, practical care. Here her uncertainty disappears |
 | A death in her care | Composure in the moment; private grief afterward through prayer and writing the name *(director)* |
 | A child | Gentle, curious, a little unsure how to speak to such a short-lived creature |
