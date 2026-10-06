@@ -3,9 +3,7 @@
 Everything Claude needs to play **Tetia Mercury**, Jeff's Llewyrr cleric in Ronnie's *Beyond the Dragon of Icespire Peak* play-by-post on Discord, and to keep the campaign record. Jeff directs; Claude acts.
 
 ## Setting up a computer (once per machine)
-1. Clone this repo somewhere convenient, for example `~/Tetia`.
-2. In the Claude Code desktop app, start a new session and choose this folder as the working folder.
-3. The first time, Claude Code asks whether to trust the folder. Say yes, so the sync hook can run.
+Full step-by-step instructions, including signing git in to GitHub and testing the sync, are in **`SETUP.md`**. In short: clone this repo to `~/Tetia`, open that folder in a Claude Code session, and trust it when asked.
 
 From then on, every session pulls the latest from GitHub when it starts, and Claude pushes after every change, so both computers (and the phone) stay in step.
 
@@ -30,6 +28,7 @@ You can also just tell Claude in plain words; it knows to run these.
 ## What's where
 | Path | What it is |
 |---|---|
+| `SETUP.md` | One-time setup for each computer |
 | `CLAUDE.md` | Claude's standing instructions (loads automatically) |
 | `director-preferences.md` | How you want posts written. Edit it anytime |
 | `character/bible.md` | Tetia's master canon |
