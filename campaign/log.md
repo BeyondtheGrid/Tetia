@@ -73,3 +73,12 @@ Sessions are weeks of real-world posting (the GM began on 27 July 2025). Session
 
 ## Running log
 New entries go here, newest last, from session 63 on (mark any that come before Tetia's arrival). Note the session, what happened, and anything that changes Tetia (injuries, bonds, promises, discoveries, changed beliefs), and update `character/bible.md` and `current-state.md` to match.
+
+- **19 September – 5 October 2026, sessions 60–63 (before Tetia's arrival).** From the chat (`chat/2026-09-tower-investigation.md`), adding to the recaps above:
+  - Pip joined after Joren's interview; Tate and Zeftina were wary of her timing.
+  - In Elira's warehouse, Grond signed "Get ready" in Common Sign Language. The watcher showed itself: tall, thin, wrong, with too many fingers and starry darkness behind it. When the disc pulsed, thunder rolled from a clear sky. Elira said the voice wasn't the one she'd heard in the tower, and that she found the disc on the floor upstairs.
+  - The party didn't show Professor Vey the disc. Vey, researching for the Order of the Many-Starred Cloak, hasn't entered the tower.
+  - **Tate left the party** as they left the archives, leaving a note in Zeftina's pastry basket.
+  - At the tower, Gallio demanded the tower be cleared; Kai talked him down; Gallio let them in and "headed toward his study."
+  - In the entry hall the party examined the eight soldiers' packs (blue-and-silver shield; one held three healing potions, five healer's kits and 123 gold) and left them untouched.
+  - After the servant's chamber and kitchen, the north door opened on **Gallio's study, with Gallio inside**, deciphering Thalivar's notes. The party is now questioning how he got there.
