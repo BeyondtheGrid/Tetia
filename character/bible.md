@@ -1,4 +1,4 @@
-# Tetia Mercury — Character Bible v1.5
+# Tetia Mercury — Character Bible v1.6
 
 **Canonical character reference · D&D 2024 · Forgotten Realms · Living document**
 **Campaign:** Beyond the Dragon of Icespire Peak (Leilon, Sword Coast North)
@@ -133,7 +133,7 @@ Her weakness (STR 8) is real and shapes how she lives, not just how she fights *
 
 **What she can carry**
 - Her half plate and shield alone weigh about 46 lb: over a third of her own weight, and a large share of all she can bear (about 120 lb by the 2024 rules).
-- **She carries only what is on her person:** what she wears and the few small things she keeps about her. No heavy pack, no extra load.
+- **She carries only what is on her person:** what she wears and the few small things she keeps about her (her journal, her writing and mapmaking kits, her crystal). No heavy pack, no extra load.
 - She can't shoulder someone else's pack, haul a find of any size, or carry a wounded companion any distance. She asks for help, or declines with a formal apology. Lifting something heavy for a moment takes visible effort: held breath, flushed cheeks, trembling arms.
 
 **Caution and closeness**
@@ -143,6 +143,7 @@ Her weakness (STR 8) is real and shapes how she lives, not just how she fights *
 - **How it shows:** she steps back to restore the distance, turns her shoulder or shield between, keeps a way out in view, and goes still and watchful. In a crowd she keeps to the edges.
 - **With someone she trusts,** she lets them close, and doesn't step away. That is a quiet gift, and it means something.
 - **Grabbed or held:** real alarm. The fear tells show, she pulls free if she can, and she says plainly that she is to be let go.
+- **When someone needs protecting, protectiveness wins.** She still steps between the threat and the person at risk, into reach she would otherwise avoid, and the fear shows while she does it. That is where her courage is real.
 - Size and strength alone put her on guard until she knows the person. It fades with trust, and it is never contempt.
 
 ### Voice
@@ -343,7 +344,7 @@ Before she speaks she sometimes readies her voice: a small pause, a soft clearin
 - She carries **no weapon**. Her armor is for protecting herself, not leading a charge.
 - Her fear is real but held in check. Game mechanics do not give her a veteran's instincts.
 - Half plate makes her loud; she cannot move quietly in it.
-- **She keeps out of reach.** Being grappled or held is one of her real fears in a fight; she uses her shield and her position to keep a foe at arm's length.
+- **She keeps out of reach.** Being grappled or held is one of her real fears in a fight; she uses her shield and her position to keep a foe at arm's length. When someone needs protecting, she steps in anyway (section 3).
 
 ---
 
@@ -544,6 +545,7 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 - Never let old and new canon coexist silently.
 
 ### Changelog
+- **v1.6, 5 October 2026:** Review of the strength rules: protecting others overrides her caution about reach (she steps in, afraid); what she carries on her person named. Her starting stance and first impressions of each party member added to `campaign/party.md`.
 - **v1.5, 5 October 2026:** Her strength made real (director): she carries only what is on her person, since armor and shield take much of what she can bear; she knows she could easily be overpowered, restrained or grappled; proximity is a measure of trust, and she dislikes being pressed in on. New subsection in section 3; touches in sections 4, 5, 8, 11 and 12.
 - **v1.4, 5 October 2026:** Post formatting set from the GM's guide (see `campaign/table-rules.md`); the interim italics and parenthetical OOC format is retired. Knowledge boundary added: the party's shared past from the GM's lore is unknown to her.
 - **v1.3, 5 October 2026:** New revelations: she learned Common Sign Language while practicing telepathy (her partners' way to answer silently); she has been to the Feywild herself on research; cool hands and feet confirmed by the director. Appendix: seat and lower back added (full, round seat; back dimples).

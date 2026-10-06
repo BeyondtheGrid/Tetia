@@ -21,6 +21,15 @@ Use this to match chat, OOC talk and dice rolls to the right character. Story po
 | AceMcGarrity (Kieran Thalorr) | Kieran Thalorr | AceMcGarrity | Kieran Thalorr |
 | Kai | Kai Vancroft | Kai | Kai Vancroft |
 
+## Tetia joining the party: her starting stance
+How Tetia is likely to carry herself with these five at first, worked out from her canon (`character/bible.md`, especially sections 3, 4, 5 and 14). **A starting point, not a script:** what actually happens in play overrides it, and none of it decides how the others feel about her.
+- **A newcomer to a bonded group.** She knows none of their names, history or deeds. She observes first, asks many questions, answers few about home, and records each of them in her journal.
+- **Formal from the start:** full names and courtesy titles, and she asks how each would like to be addressed. Moving to a first name is a step she asks permission for.
+- **Arm's length.** She keeps a courteous distance from all of them until trust is earned. Who she lets stand close, and when, is how her trust shows.
+- **Size and strength put her on guard** until she knows the person; it is never contempt. Small folk don't trigger it, and she takes care not to loom over them herself, knowing how it feels.
+- **Healer's eye:** she notices wounds, fatigue and old injuries at once. Courtesy keeps her from asking about them uninvited, but she will offer care.
+- **Mortals are new to her.** She has rarely met humans, and she judges people by conduct, not by kind or look.
+
 ---
 
 ## Pippa "Pip" Morgrin
@@ -57,6 +66,13 @@ Use this to match chat, OOC talk and dice rolls to the right character. Story po
 
 ### Open
 - **Instrument:** the art shows a lute; the recap has her playing a flute. She may carry both.
+
+### Tetia's first impressions (starting point until play decides)
+- **Familiar ground:** gnomes live in Karador among the fey, so a forest gnome is one of the most familiar kinds of people Tetia could meet on the Sword Coast. Pip may put her at ease sooner than anyone else.
+- **What catches her eye:** the music. A performer's warmth and drama are foreign to Llewyrr reserve, and Tetia will watch it with open fascination.
+- **Closeness:** small and plainly friendly, Pip doesn't trigger her wariness of size. Tetia is careful not to loom; she may kneel to speak with her.
+- **Likely friction, gentle:** Pip collects stories, and Tetia asks many questions but answers few about home. Pip may also be the one to tease out her rare, covered laugh, and to fluster her doing it.
+- **Curiosity:** if she learns of the melody that disturbed the watcher, she will want to hear it and understand it.
 
 ### What Tetia knows of her
 Nothing yet.
@@ -113,6 +129,14 @@ None yet.
 ### Open
 - The meaning of the sigil on his shield.
 
+### Tetia's first impressions (starting point until play decides)
+- **The most imposing of the five,** and so the one her caution about strength applies to most. Tetia keeps her arm's length from him longest. If he moves toward her quickly or stands over her, she steps back and goes still. She is wary of his strength, not of him, and it is never contempt.
+- **What she knows of orcs is from books,** and mainland history is not her strength. She judges by conduct, and she will be watching his.
+- **What catches her eye:** the battered blackened armor (many fights survived) and the pale branching sigil on his shield, which a scholar who sketches her own house's tree would want to understand.
+- **Speech:** his blunt, short sentences meet her full, formal ones. She may take his bluntness literally.
+- **Common ground she could discover:** like her, he plants himself between danger and those behind him. If he ever names **Luthic**, she may recognize the Cave Mother, a goddess of hearth, healing and home, and her curiosity and respect would show.
+- **Trust, when it comes,** will mean the most here: letting the biggest of them stand close without stepping away.
+
 ### What Tetia knows of him
 Nothing yet.
 
@@ -167,6 +191,15 @@ None yet.
 
 ### Open
 - The worn dagger, the one thing that doesn't match the rest of her look. Its story is the player's to tell.
+
+### Tetia's first impressions (starting point until play decides)
+- **A kindred sense of order.** Precise, composed, structured and carrying a spellbook: Tetia is likely to recognize a fellow scholar quickly, and to feel at ease with her calculation and structure.
+- **What catches her eye:** the faint geometric lines on her skin in certain light; the softly ticking pendant (elven ears catch it); the clockwork pattern on her cloak. With her arcane learning, Tetia may sense magic of order and pattern behind them. What she makes of it is for play.
+- **Her mission sharpens her attention:** magic laced with storm, like the bronze lightning Zeftina casts, would catch the eye of someone sent to study storms. Interest and observation, not suspicion.
+- **A small mirror:** Zeftina wears white, dark blue and gold, much like Tetia's own colors. She may notice and remark on it.
+- **Closeness:** small and composed, Zeftina doesn't trigger her wariness of size. Tetia takes care not to loom.
+- **A likely path to warmth:** Zeftina offers pastries, and Tetia has a sweet tooth. Her delight would be hard to keep dignified.
+- **The disc** Zeftina carries is exactly the kind of thing Tetia studies. Once she learns of it, she will want to examine it, and will ask first.
 
 ### What Tetia knows of her
 Nothing yet.
@@ -234,6 +267,13 @@ Facts only, for the writer's awareness; what comes of them is for play to decide
 - Which archfey blessed him.
 - What Tetia knows of Eberron, if anything, and of the Harpers.
 
+### Tetia's first impressions (starting point until play decides)
+- **At first sight:** a hooded, guarded human man with a bow. He reads as a wilderness scout who keeps his face in shadow, and Tetia, cautious with mortals, keeps her courteous distance and watches.
+- **Then the fey shows:** when his magic stirs (illusions of flowers and fairies dancing through his arrows), she recognizes the Feywild at once. That is her own field, and her reserve may break into open, scholarly interest before she catches herself.
+- **Kalashtar are unknown in Faerûn,** so she takes him for human. Only if he speaks mind to mind, or tells her, would she learn otherwise. She speaks mind to mind herself, so that would be rare common ground, and fascinating to her.
+- **Possible friction later:** she doesn't lie, and he may bend the truth when it's useful. She would have to see that before it affected her trust.
+- **Closeness:** an ordinary human build, so no special wariness; ordinary caution with a stranger.
+
 ### What Tetia knows of him
 Nothing yet.
 
@@ -281,6 +321,14 @@ None yet.
 
 ### Open
 - What happened in the fight that cost him his eye and set him on his oath. He may share it in play; until he does, Tetia knows nothing of it.
+
+### Tetia's first impressions (starting point until play decides)
+- **Her healer's eye goes to the eye patch first.** A recent wound on someone so young. Courtesy keeps her from asking; she may quietly offer care, once.
+- **His youth strikes her:** by her reckoning he has barely begun. She sees the elven blood in his ears and knows half-elves live longer than humans but far shorter than elves. Mortal lifespans quietly unsettle her.
+- **His reserve she understands.** Quiet, rigid and keeping to himself, he is the closest to Llewyrr reserve of the five. She is likely to respect his silences and not press.
+- **Closeness:** much her own height, so he doesn't loom. Ordinary caution with a stranger.
+- **What she may notice in a fight:** shield up, immovable, standing between danger and others, as she tries to.
+- **Possible friction later:** if she learns his oath is one of vengeance, it will sit uneasily with her mercy and her sense of the Balance. That is for play.
 
 ### What Tetia knows of him
 Nothing yet.

@@ -1,4 +1,4 @@
-# Tetia Mercury — Bible Appendix v1.3
+# Tetia Mercury — Bible Appendix v1.4
 
 *v1.4 (5 October 2026): burden and personal space added (carrying, crowding, being grabbed).*
 *v1.3 (5 October 2026): seat and lower back added (shape, back dimples, sitting and kneeling).*
