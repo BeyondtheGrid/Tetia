@@ -14,12 +14,12 @@
 | Sergeant Yorrum | Drills the town watch at the front gate | Short of soldiers; unofficially let the party find the lost patrol: "Bring them home" | 55–60 |
 | Breltora Red-Eye | Female half-orc stonemason | Friend of Vaster Jessup; told Zeftina of the missing patrol | 55–60 |
 | Vaster (Vester) Jessup | Private, led the lost patrol | Rescued from the lizardfolk with his patrol | 55–60 |
-| Gallio Elibro | Wizard, ranking member of the Order of the Many-Starred Cloak | Oversees Neverwinter's reconstruction of Thalivar's Tower. Offered gold, magical help, knowledge or perhaps an item from the Order's vaults. Tense with the party; wants anything tied to Thalivar's experiments reported before it's disturbed | 60–62 |
-| Professor Alric Vey | Middle-aged human scholar; dark traveling robes, spectacles, ink-stained fingers | Came to Leilon with Gallio. Found the Point of Contact and Far Threshold records and the missing chamber; warned against activating anything | 61–62 |
+| Gallio Elibro | Wizard, ranking member of the Order of the Many-Starred Cloak | Oversees Neverwinter's reconstruction of Thalivar's Tower. Offered gold, magical help, knowledge or perhaps an item from the Order's vaults. Angry when the workers walked off again; Kai talked him down. Wants anything tied to Thalivar's experiments reported before it's disturbed, and warned: "If you hear a voice, make sure it isn't speaking to you from somewhere it shouldn't be." **Now found inside the tower** in a study, deciphering Thalivar's coded notes ("POINT OF CONTACT"; "The boundary is not a wall. It is a threshold."), guarded about what he knows. The party suspects him | 60–63 |
+| Professor Alric Vey | Middle-aged human scholar; dark traveling robes, narrow spectacles, ink-stained gloves; very polite, pays in advance | Came to Leilon with Gallio; researching the tower for the Order of the Many-Starred Cloak; said to be an expert in old magical artifacts. Found the Point of Contact and Far Threshold records, the missing chamber, and a carved symbol in the archive wall. Hasn't entered the tower. Excited by his findings, which made Kieran wary; the party didn't show him the disc. "Come find me before you activate anything." Thanked Zeftina for reminding him to eat | 61–62 |
 | Merris Thorne | Stonemason, former tower worker | Lives in a modest stone cottage at the edge of town. Heard footsteps and movement behind solid stone; quit | 60 |
 | Joren Vask | Carpenter, former tower worker; lean, weathered human man in his late thirties | Heard a voice call his name and a woman whisper; "The tower is watching us." Called the party strange; accepted Zeftina's Danish | 60 |
-| Elira Fenwick | Salvage worker, former tower worker | Took the disc from the tower and was haunted by it; hid armed with a hammer in a harbor warehouse. Zeftina took the disc and gave her a pastry | 61 |
-| The archivist | Elderly woman in the records office at Town Hall | Directed the party to Vey in the archives below | 61 |
+| Elira Fenwick | Salvage worker, former tower worker; a human woman in her early forties, worn work clothes, tool belt, dark hair pulled back | Found the disc "on the floor upstairs" in the tower and took it, thinking it scrap; was haunted by it. Said the watcher's voice was not the one she heard in the tower. Gave the disc to Zeftina; told the party of the scholar. "You're welcome here anytime. If that thing does come back, I'll send word." | 61 |
+| The archivist | Elderly human woman, spectacles low on her nose, in the records office beside Town Hall | Let Vey into the archives; told the party he'd used the phrase "a permanent point of contact." Was waiting on her lunch; Zeftina gave her a pastry | 61 |
 | The baker | Runs the local bakery | Zeftina's pastry supplier; pointed the party toward Vey | 61 |
 | Silla Scalesweep | Young halfling musician | Met at the Wayside Inn, heading to Leilon to work at the fishery | 42 |
 
@@ -60,7 +60,7 @@
 | Velleen | Master thief with kobold raiders: an agile human woman in dark leathers, fighting with twin blades. "Nothing personal. Business is business." | Killed by Grond | 53–54 |
 | The geomancer | Cult leader opening an underground breach | Slain by Kieran | 32–33 |
 | Cryovain | The white dragon of Icespire Peak | Slain | 40–41 |
-| The watcher | Unseen entity tied to Thalivar's Tower and the disc | Active. Wants the disc returned to the tower | 61 |
+| The watcher | Entity tied to Thalivar's Tower and the disc: tall, thin, humanoid but wrong, too many fingers; a woman's voice; a vision of starry darkness behind it | Active. "I am the one who watched. The one who listened." Wants the disc returned to the tower, or "the window will open elsewhere." Disturbed by the melody that Thalivar used to call it | 61 |
 
 ## Former companions
 Characters who traveled with the party before Tetia's time. Whether any are still around is open.
@@ -78,7 +78,7 @@ Characters who traveled with the party before Tetia's time. Whether any are stil
 | Belrick | Human warrior skilled in blade and magic | 27–33 |
 | Samvell | Dwarf monk | 28–45 |
 | Daz | Female orc cleric, met outside Dragon Barrow. Turned back a spirit; fought with spirit guardians and a silence spell; recognized as one of Phandalin's heroes. **No longer in the party**, as far as the director knows | 35–52 |
-| Tate Brixton | "A grim and driven hunter marked by blood and purpose": a blood hunter who cuts his arm to activate the Crimson Rite and transforms into a wolf-like beast (called a werewolf), struggling to control it. **No longer in the party**, as far as the director knows | 41–60 |
+| Tate Brixton | "A grim and driven hunter marked by blood and purpose": a blood hunter who cuts his arm to activate the Crimson Rite and transforms into a wolf-like beast (called a werewolf), struggling to control it. Haunted by an alchemist's melody from "Brixton Tower," where he was experimented on. **Left the party on 30 September 2026**, leaving a note in Zeftina's pastry basket. Player: Jimmie | 41–62 |
 
 ---
 

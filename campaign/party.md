@@ -15,7 +15,7 @@ Use this to match chat, OOC talk and dice rolls to the right character. Story po
 | Discord display name (OOC) | Posts in story as | Player | Character |
 |---|---|---|---|
 | Ronnie (DM) | Dungeon Master; NPCs under their own names (e.g. "Kobold") | Ronnie | The GM |
-| Jess (Pippa 'Pip' Morgrin) | Not yet seen | Jess | Pippa "Pip" Morgrin |
+| Jess (Pippa 'Pip' Morgrin) | Pippa 'Pip' Morgrin | Jess | Pippa "Pip" Morgrin |
 | El Papa Oso (Grond) [SPG] | Grond the Oakfell | El Papa Oso | Grond of the Oakfell |
 | AlicenWrites-Zeftina [BITS] | Zeftina Bronzefellow | AlicenWrites | Zeftina Bronzefellow |
 | AceMcGarrity (Kieran Thalorr) | Kieran Thalorr | AceMcGarrity | Kieran Thalorr |
@@ -64,8 +64,12 @@ How Tetia is likely to carry herself with these five at first, worked out from h
 - **Joined:** session 60. She had recently arrived in Leilon, performing around town and collecting stories for a new ballad.
 - Heard a strange melody near Thalivar's Tower several nights before; in the warehouse she played it **on her flute**, and it disturbed the watcher.
 
-### Open
-- **Instrument:** the art shows a lute; the recap has her playing a flute. She may carry both.
+### In the chat (September–October 2026)
+- **Joined** when the party met her in Leilon; she had heard the strange melody passing the tower late one night. Tate and Zeftina were both a little wary of her timing.
+- **Carries both a flute and a lute.** She plays the flute for tunes and inspiration (a cheerful welcome tune, a suspenseful little tune while Kieran checked for traps, a bold fanfare before the tower) and plucks the lute to steady an ally.
+- **Sharp eye:** spotted the carved circular symbol in the archive wall, the clean line in the dust on one of the soldiers' packs, and the repeated symbol and "POINT OF CONTACT" in Gallio's notes.
+- **Speech:** bright, playful and theatrical ("rumors with receipts"; "my phantom orchestra"), with an edge when she suspects someone is hiding something: she asked Gallio pointedly why he would withhold information from the people helping him.
+
 
 ### Tetia's first impressions (starting point until play decides)
 - **Familiar ground:** gnomes live in Karador among the fey, so a forest gnome is one of the most familiar kinds of people Tetia could meet on the Sword Coast. Pip may put her at ease sooner than anyone else.
@@ -126,6 +130,7 @@ None yet.
 - **Fights with:** an enchanted battleaxe and his shield, which he uses to bash, knock down and shove foes. Charges in bursts of speed; shakes off his wounds mid-fight.
 - **Speech:** terse and gruff. "Get away from them!" "Your turn!" "Stay down." "Where do you think you're going?" To the captured kobold: "No. Just your life. So... start talking."
 - **In the swamp (September 2026):** after the Rot Trolls fell, he cut off all three heads and kicked them away from the bodies. "Just being thorough."
+- **At the tower (September–October 2026):** **he knows Common Sign Language** and used it to signal the party ("Get ready") in Elira's warehouse. He sets his battleaxe alight with oil and a tinderbox against things that hate light, and stood between the party and the watcher. Volunteered to open the soldiers' pack first ("I don't die easy"). Openly sarcastic with Gallio. "If I die I'm going to be pissed."
 
 ### Open
 - The meaning of the sigil on his shield.
@@ -135,7 +140,7 @@ None yet.
 - **What she knows of orcs is from books,** and mainland history is not her strength. She judges by conduct, and she will be watching his.
 - **What catches her eye:** the battered blackened armor (many fights survived) and the pale branching sigil on his shield, which a scholar who sketches her own house's tree would want to understand.
 - **Speech:** his blunt, short sentences meet her full, formal ones. She may take his bluntness literally.
-- **Common ground she could discover:** like her, he plants himself between danger and those behind him. If he ever names **Luthic**, she may recognize the Cave Mother, a goddess of hearth, healing and home, and her curiosity and respect would show.
+- **Common ground she could discover:** he knows **Common Sign Language**, as she does; it may be the first way they can speak quietly. Like her, he plants himself between danger and those behind him. If he ever names **Luthic**, she may recognize the Cave Mother, a goddess of hearth, healing and home, and her curiosity and respect would show.
 - **Trust, when it comes,** will mean the most here: letting the biggest of them stand close without stepping away.
 
 ### What Tetia knows of him
@@ -184,6 +189,7 @@ None yet.
 - Made the party's house in Leilon into a home. Fond of pastries: she offers Danishes and buys them by the batch.
 - Negotiated with the lizardfolk alongside Kieran, bowed to Chief Hissain, and offered to check on the tribe.
 - **She took the disc** from Elira, protected herself with a warding spell, and lit four globes of light between the party and the watcher. The watcher spoke directly to her: "At last."
+- **At the tower (October 2026):** she now **carries the disc wrapped in her pack** and has shown it to no one. Leads the party's conversations with NPCs, buys pastries for everyone (and an extra gold for the baker), and warded Kieran with a bronze, gear-like protective aura before he checked for traps. Prefers caution: she and Kieran refused to take anything from the soldiers' packs.
 
 ### In the chat (August 2026)
 - **Magic:** her fireball begins as a small bright bead that bursts into flame; her bolts leave flickers of **bronze-colored lightning**.
@@ -264,6 +270,7 @@ Facts only, for the writer's awareness; what comes of them is for play to decide
 - **Moves by vanishing into mist** and reappearing elsewhere. Carries rope.
 - **Speech:** quick and practical. Calls out to allies ("On your six, Tate!") and offers enemies a way out ("It's not too late to run and live!"). Threatened the kobold in Draconic.
 - **In the swamp (September 2026):** carried a shield briefly, then stowed it for his bow; finished the last Rot Troll with two arrows at once, one in each eye: "Night night." Afterward he gathered his arrows and asked Chief Hissain whether his people would be safe now.
+- **At the tower (September–October 2026):** cautious and suspicious of motives. He wanted to test Professor Vey's character before showing him the disc, refused to take anything from the soldiers' packs ("What if it's some sort of test the tower is giving us?"), checks for traps, threatened Gallio as he passed ("I will be lumping you in with any threats in the tower"), and now has his hand near his rapier in Gallio's study. Privately, a link to another world frightens him: as a kalashtar he carries the spirit of a quori from Dal Quor, the plane of dreams, and he fears a gate to somewhere like it.
 
 ### Open
 - Which archfey blessed him.
@@ -316,6 +323,7 @@ None yet.
 - Holds the line: against Tide Knights, the water elemental, and the Rot Trolls, who targeted him repeatedly. Suffered a wraith's life drain at the Wayside Inn.
 - Recognized as one of Phandalin's heroes.
 - Asked the key question about the disc: if it was all the watcher needed, why hadn't it come through in two centuries?
+- **At the tower (September–October 2026):** the party's tactician: talked Gallio down from his impatience, proposed clearing the ground floor before going up, and argued for leaving the soldiers' packs untouched. Dry humor: "Someone always takes something." "Anyone getting the feeling we should be paid more for this?" Admits he isn't the silver-tongued one.
 
 ### In the chat (August 2026)
 - **Fights with:** a longsword and a polished steel shield, in a breastplate. Blocks blow after blow; the GM called him "as immovable as a stone wall."
