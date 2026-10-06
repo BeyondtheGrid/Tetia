@@ -125,6 +125,7 @@ None yet.
 ### In the chat (August 2026)
 - **Fights with:** an enchanted battleaxe and his shield, which he uses to bash, knock down and shove foes. Charges in bursts of speed; shakes off his wounds mid-fight.
 - **Speech:** terse and gruff. "Get away from them!" "Your turn!" "Stay down." "Where do you think you're going?" To the captured kobold: "No. Just your life. So... start talking."
+- **In the swamp (September 2026):** after the Rot Trolls fell, he cut off all three heads and kicked them away from the bodies. "Just being thorough."
 
 ### Open
 - The meaning of the sigil on his shield.
@@ -262,6 +263,7 @@ Facts only, for the writer's awareness; what comes of them is for play to decide
 - **Fights with:** a longbow, two arrows a turn. He marks a target first; tiny illusions of **flowers and fairies** dance through his arrows when he infuses them with fey magic.
 - **Moves by vanishing into mist** and reappearing elsewhere. Carries rope.
 - **Speech:** quick and practical. Calls out to allies ("On your six, Tate!") and offers enemies a way out ("It's not too late to run and live!"). Threatened the kobold in Draconic.
+- **In the swamp (September 2026):** carried a shield briefly, then stowed it for his bow; finished the last Rot Troll with two arrows at once, one in each eye: "Night night." Afterward he gathered his arrows and asked Chief Hissain whether his people would be safe now.
 
 ### Open
 - Which archfey blessed him.

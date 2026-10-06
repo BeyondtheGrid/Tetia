@@ -46,9 +46,9 @@
 | Backes Dunfiel | Innkeeper of the Wayside Inn | Weary but steadfast | 42 |
 | Cooragh | At the Wayside Inn | Her legendary pork pie "nearly proved deadlier than the undead" | 42 |
 | Tarbin Tul | Wandering bard | Full of songs and unsettling rumors about Leilon | 42 |
-| Chief Hissain | Leader of a moving lizardfolk village in the Mere of Dead Men | Tall and imposing, with a larger bodyguard. Allied with the party against the Rot Trolls; his people will welcome them. Speaks Draconic | 55–60 |
+| Chief Hissain | Leader of a moving lizardfolk village in the Mere of Dead Men | Tall and imposing, with a larger bodyguard; carries a staff. Speaks Draconic. Kept his word and freed the prisoners: "You have done what you promised. You stood with us." More Rot Trolls still stalk the Mere, so the tribe moves on; the party is welcome beside them | 55–60 |
 | The Stone-Cold Reavers | Mercenaries after the dragon's hoard | Allied against Cryovain, then betrayed the party and were driven off. **Syleen** was killed by the dragon | 38–41 |
-| Skrik | Kobold | Surrendered to Kieran after the wagon ambush, stammering in Draconic: "Skrik surrender!" Only did "what Boss Velleen say"; offered to tell everything (and asked for his spear back). Traveled with the party as a prisoner. Current whereabouts not stated | 53–54 |
+| Skrik | Kobold | Surrendered to Kieran after the wagon ambush, stammering in Draconic: "Skrik surrender!" Only did "what Boss Velleen say"; offered to tell everything (and asked for his spear back). Traveled with the party as a prisoner, and was still with them in the Mere of Dead Men in early September 2026 (the third Rot Troll emerged near him; Kieran ran to protect him). Current whereabouts not stated | 53–60 |
 
 ## Enemies: the Cult of Talos and others
 
