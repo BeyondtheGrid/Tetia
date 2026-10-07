@@ -1,7 +1,7 @@
 ---
 name: write-post
 description: Draft Tetia Mercury's next in-character Discord post from the director's scene context and goals. Use whenever the director asks for a post, reply, turn or response for Tetia, or pastes new GM or player posts and says what she does.
-argument-hint: "[pasted scene, what Tetia does, results, length]"
+argument-hint: "then paste the scene and your goals, in any format"
 ---
 
 # Write Tetia's next post

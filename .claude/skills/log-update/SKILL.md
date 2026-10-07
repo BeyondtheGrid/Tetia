@@ -1,7 +1,7 @@
 ---
 name: log-update
 description: Update the campaign record after Tetia's post goes up, or when new Discord chat, a GM recap, GM lore or news about Tetia arrives. Archives her post, files chat, updates current state, the log, party, NPCs, her spell slots and her canon, then commits and pushes. Use when the director says he posted, pastes new chat or a recap, or says something happened to her (a rest, an injury, a new item).
-argument-hint: "[what's new: posted text, chat, recap, rest, injury...]"
+argument-hint: "then say or paste what's new, in any format"
 ---
 
 # Update the campaign record
