@@ -52,7 +52,7 @@ In the Claude desktop app, start a new Claude Code session on your computer and 
 ### 6. Check that it loaded
 In that session:
 - Type `/`. You should see **write-post** and **log-update** in the list.
-- Ask: *"Where does the campaign stand, and what is Tetia's spell-slot status?"* It should answer from `campaign/current-state.md` straight away: where the party is in Thalivar's Tower, whether Tetia is in play, and how many spell slots she has used.
+- Ask: *"Where does the campaign stand, and who is Tetia with?"* It should answer from `campaign/current-state.md` straight away: where the party is in Thalivar's Tower, what has just happened, and which of the party she knows by name.
 - Ask: *"Which agents do you have for this project?"* It should name **continuity-check**.
 - No "SYNC WARNING" should appear at the start.
 
@@ -69,11 +69,10 @@ Start a Claude Code session on the web or in the Claude app and pick the **Beyon
 
 ---
 
-## First things to do in the new setup
-1. **File the latest chat.** Run `/log-update` and paste the Discord chat from Thalivar's Tower since the session 62 recap, so the current state is up to date before Tetia's first post.
-2. **Send Ronnie the backstory** (`character/backstory-for-gm.md`, two messages). When you've sent it, tell Claude so it records it.
-3. **When Ronnie places Tetia in the scene,** run `/write-post` and paste his post plus your goals for her entrance.
-4. **When convenient, ask Ronnie** whether he has a preferred format for telepathy, and the campaign year. Tell Claude the answers.
+## Still to do
+1. **Send Ronnie the backstory** (`character/backstory-for-gm.md`, two messages), if you haven't. When you've sent it, tell Claude so it records it.
+2. **When convenient, ask Ronnie** whether he has a preferred format for telepathy, and the campaign year. Tell Claude the answers.
+3. **Fill the gap in the chat record** if you can: the posts between 5 October, 1:44 PM and 7 October, 9:45 AM (how the talk with Gallio ended). Give them to `/log-update`.
 
 Day-to-day use is in `README.md`.
 

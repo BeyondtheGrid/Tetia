@@ -1,12 +1,14 @@
 ---
 name: log-update
-description: Update the campaign record after Tetia's post goes up, or when new Discord chat, a GM recap, GM lore or news about Tetia arrives. Archives her post, files chat, updates current state, the log, party, NPCs, her spell slots and her canon, then commits and pushes. Use when the director says he posted, pastes new chat or a recap, or says something happened to her (a rest, an injury, a new item).
+description: Record a milestone in the campaign record, or file a GM recap, GM lore post, a batch of Discord chat, or news about Tetia (a new item, a lasting injury, a level-up). Use when a scene ends or something lasting happens, when the director pastes a recap, lore or chat to file, or asks to update the record. Routine posts are filed by /write-post.
 argument-hint: "then say or paste what's new, in any format"
 ---
 
 # Update the campaign record
 
-Keep the repo an accurate, current record so any future session, on any device, can pick up where this one left off.
+Routine turns are handled by `/write-post`, which files each scene's posts and refreshes `campaign/current-state.md`. This skill does the bigger, rarer work: **milestones**, and anything that doesn't come with a post. Keep **one home per fact** (see `CLAUDE.md`, Keeping the record): move facts to their home, don't copy them.
+
+**Tetia comes first.** The most important thing this skill touches is her canon. Change the bible and appendix carefully, only for lasting changes, and never let them drift from what happened in play.
 
 New information for this update (may be empty if it's in the conversation instead):
 
@@ -14,42 +16,34 @@ $ARGUMENTS
 
 ## 1. Work out what's new
 From the director's message and the conversation:
-- **Tetia's post as actually posted.** If he edited your draft, his version is the record.
-- **New Discord chat**, including anything waiting in `campaign/chat/inbox.md`.
-- **A GM recap** or **GM lore post**.
-- **Mechanical news from the director:** spells she cast (and their levels), Channel Divinity or other limited features used, damage or healing, conditions, a short or long rest, items gained or lost, a level-up.
-- **Story developments:** where the party is, what happened, who she met, what she learned, promises, bonds, discoveries.
+- **A milestone:** a scene ends; a fight is decided; a bond, promise or falling-out; a discovery that changes Tetia's picture of the world; a lasting injury; a new item; a level-up.
+- **A GM recap**, a **GM lore post**, or a **batch of chat** to file.
+- **Posts `/write-post` didn't file:** check the end of the scene file and the newest archive entry.
+
+Never record her hit points, spell slots, exhaustion or other mechanics; the director tracks those.
 
 ## 2. File the exact text first
-Never paraphrase into these files; paste exactly.
-- **Her post:** append to `posts/archive.md` with the date, the session number and a one-line scene label.
-- **Chat:** move the contents of `campaign/chat/inbox.md`, and any newly pasted chat, into the right file in `campaign/chat/`, one file per scene or week named `YYYY-MM-<short-scene-name>.md`, in posting order. Then empty the inbox. Don't duplicate posts that are already filed.
+Never paraphrase into these files.
+- **Her posts:** `/write-post` adds each draft to `posts/archive.md` marked `· PENDING` and confirms it the next turn. Confirm any pending entry the director's paste or word settles (if he changed the post, match its words, keep the post format's markup, and remove the mark), and add any of her posts that are missing.
+- **Chat:** into the right file in `campaign/chat/`, one file per scene named `YYYY-MM-<short-scene-name>.md`, in posting order. A new scene file starts when the GM moves the party to a new place or a new day, or the director says so; update the pointer in `current-state.md`. Check only the end of a file for duplicates.
 - **GM recap:** append to `campaign/gm-recaps.md` in the same format as the others.
 - **GM lore post:** append to `campaign/gm-lore.md`.
 
-## 3. Update the working files
-- **`campaign/current-state.md`:** where and when; the party; the scene; what the party knows; open threads; and **Tetia's section**: spell slots used by level, limited features used, HP if the director gives it, conditions, injuries, and what she now knows. Update the "last updated" line.
-  - **Short rest:** restores one use of Channel Divinity.
-  - **Long rest:** resets all spell slots and all limited features. Note when it happened.
-  - Use only what the director tells you about mechanics. Never infer a slot, a result or a rest from the fiction.
-- **`campaign/log.md`:** add a running-log entry: date, session, what happened in a few lines, and anything that changes Tetia. Events before she enters play go in the running log too, marked as before her arrival.
-- **`campaign/party.md`:** under each PC, what Tetia has now learned about them and any change in their relationship with her. Add new details players reveal (appearance, abilities, history) to their entries.
-- **`campaign/npcs.md`:** new NPCs and places; status changes; and under each, what Tetia knows of them.
+## 3. At a milestone
+- **`campaign/log.md`:** one entry under "Since Tetia arrived", written like the GM's recaps from the scene file since the last milestone: a short paragraph on what happened and what changed for Tetia, not post by post. If the party learned something, update "What the party knows" there; update "Open threads".
+- **Her canon** (`character/bible.md`, `character/bible-appendix.md`), lasting changes only:
+  - What she has learned of the world moves from "Learned since" in `current-state.md` into bible section 14, and what her posts have settled moves from "Settled in play" into sections 15 and 18. Then those lines come off current-state.
+  - Bonds, promises, changed beliefs, lasting injuries, new gear or abilities go in the relevant bible sections, with a dated line in section 15.
+  - Follow the bible's change control (section 19): **one version bump per milestone**, bundling everything from it, with one changelog line. Never let old and new canon coexist silently.
+  - Brainstorming, possibilities and your own guesses never go into canon. If something is unclear, ask the director.
+- **People:** a dated line under "With Tetia (milestones)" in the party member's file (`campaign/party/<name>.md`) for anything lasting between them; new details a player reveals (appearance, abilities, history) in that file. For an NPC, move what she knows from "People she has met" in `current-state.md` to a line under their entry in `campaign/npcs.md` (add the entry if they're new). The roster in `current-state.md` keeps what she knows of each party member *now*.
+- **Trim `current-state.md`:** drop recent beats the log entry now covers; keep the setting until the scene changes, then start the new scene's setting and file pointer. Update the "Last updated" line.
+- **Level-up or new item:** from what the director gives you, update `character/sheet-notes.md`; the class and level in bible sections 1 and 12; and the "highest spell level" row of the strain table in bible section 8.
 
-**Where knowledge goes:** what Tetia knows about a *person* goes in `party.md` or `npcs.md`; what she knows about the *world* (the cult, the storms, Leilon, the tower's nature) goes in bible section 14; what is happening *right now* goes in `current-state.md`.
-
-## 4. Update her canon, carefully
-Change `character/bible.md` or `character/bible-appendix.md` only for **lasting** changes: an injury or scar, a bond, a promise, a changed belief, something she learns that alters her worldview, new gear or abilities, a level-up.
-- Follow the bible's change control (section 19): bump the version, add a changelog line, and never let old and new canon coexist silently.
-- Moving knowledge from "does not know" to "knows" in section 14 when she learns it in play (for example, the Cult of Talos behind the storms) is a normal update. Do it.
-- A temporary state (tired, wet, a scratch) goes in `current-state.md`, not the bible.
-- **Level-up or new item:** from what the director gives you, update `character/sheet-notes.md`; the class and level in bible sections 1 and 12; the "highest spell level" row of the strain table in bible section 8; and the maximums in the resource table in `current-state.md`.
-- Brainstorming, possibilities and your own guesses never go into canon. If something is unclear, ask the director.
-
-## 5. Commit and push
+## 4. Commit and push
 - Check with `git status` that only the intended files changed.
-- Commit with a short, plain message, for example "Log session 63: Tetia meets the party at the tower".
+- Commit with a short, plain message, for example "Log session 64: the party takes Tetia in".
 - Push to `main` exactly as `CLAUDE.md` (Git) describes, including when the session is on another branch. Never force-push. If something still fails, tell the director plainly.
 
-## 6. Report
-Two or three lines to the director: what was recorded, where her spell slots stand, and anything that needs his decision.
+## 5. Report
+Two or three lines to the director: what was recorded, any change to her canon (with the new bible version), and anything that needs his decision.

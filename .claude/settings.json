@@ -18,6 +18,15 @@
             "command": "git pull --ff-only --quiet origin main 2>/dev/null || echo 'SYNC WARNING: could not pull the latest from GitHub (origin main). The files may be out of date, or there are local changes. Tell the director before writing anything.'"
           }
         ]
+      },
+      {
+        "matcher": "clear",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "git pull --ff-only --quiet origin main 2>/dev/null || echo 'SYNC WARNING: could not pull the latest from GitHub (origin main). The files may be out of date, or there are local changes. Tell the director before writing anything.'"
+          }
+        ]
       }
     ]
   },

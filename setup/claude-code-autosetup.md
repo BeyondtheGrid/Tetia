@@ -84,7 +84,7 @@ Then tell him plainly: **this session can't load the project, because it wasn't 
 2. **Trust the folder** when asked, so the sync hook can run.
 3. **Check it in the new session:**
    - Typing `/` lists **write-post** and **log-update**.
-   - *"Where does the campaign stand, and what is Tetia's spell-slot status?"* gets where the party is in Thalivar's Tower, whether Tetia is in play, and how many spell slots she has used.
+   - *"Where does the campaign stand, and who is Tetia with?"* gets where the party is in Thalivar's Tower, what has just happened, and which of the party she knows by name.
    - *"Which agents do you have for this project?"* names **continuity-check**.
    - No "SYNC WARNING" appears at the start.
 4. **Test the round trip.**

@@ -1,12 +1,12 @@
 # Tetia's Posts
 
-Every story post Tetia has made, exactly as posted, oldest first. `/log-update` adds each one after the director posts it; `/write-post` reads the latest ones so she never repeats herself.
+Every story post Tetia has made, with its markup, oldest first. `/write-post` adds each draft as it hands it over, marked `· PENDING`, and confirms it the next turn against what was actually posted (`/log-update` catches any it missed). It reads her last few before drafting so she never repeats herself.
 
 Format for each entry:
 
 ```
 ## YYYY-MM-DD · Session NN · short scene label
-(the post, exactly as posted)
+(the post, exactly as posted; " · PENDING" ends the heading until confirmed)
 ```
 
 ---

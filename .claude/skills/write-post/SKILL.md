@@ -1,42 +1,66 @@
 ---
 name: write-post
-description: Draft Tetia Mercury's next in-character Discord post from the director's scene context and goals. Use whenever the director asks for a post, reply, turn or response for Tetia, or pastes new GM or player posts and says what she does.
+description: Draft Tetia Mercury's next in-character Discord post from the director's pasted scene and goals, filing the new posts and refreshing the here and now first. Use whenever the director asks for a post, reply, turn or response for Tetia, or pastes new GM or player posts and says what she does.
 argument-hint: "then paste the scene and your goals, in any format"
 ---
 
 # Write Tetia's next post
 
-The director has given you a scene and his goals for Tetia's post. Your job is one finished, paste-ready Discord post that is true to her, the lore and the campaign, and checked before he sees it.
+**Tetia comes first.** The post must be true to her personality, voice, body and lore: the bible and appendix, already loaded in full. Everything else in this skill serves that. The scene tells you what she is responding to; the record keeps her consistent from post to post.
 
 Director's input for this post (may be empty if it's in the conversation instead):
 
 $ARGUMENTS
 
-## 1. Gather the inputs
+## 1. Read the request
 From the director's message and the conversation, identify:
-- **The scene:** the pasted GM and player posts since Tetia last acted. If none were pasted, use `campaign/current-state.md`.
-- **What Tetia does:** the director's goals, beats and intent.
-- **Mechanics, if any:** the spell or ability and its **level**, and the **results** (hit or miss, the creature's save made or failed, her own save made or failed, damage taken). Never invent a result.
+- **The scene:** the Discord posts he pasted, ideally starting from Tetia's own last post as it appeared on Discord.
+- **What Tetia does:** his goals, beats and intent.
+- **Mechanics, if any:** the spell or ability, its **level**, and the **results** (hit or miss, the creature's save made or failed, her own save made or failed, damage taken). He tracks her hit points, spell slots and exhaustion himself and says how worn she is when it matters. Never invent a result, and never track mechanics.
   - If he names something she rolls for (an attack, a spell with a save, a check) but gives no result, **ask** for it before drafting.
-  - What follows from a result is the GM's: write that the creature fails its save and reels, not how the fight ends. Narrate a kill only if the director says the creature dies.
+  - What follows from a result is the GM's: write that the creature fails its save and reels, not how the fight ends. Narrate a kill only if he says the creature dies.
 - **Length:** what he asked for. If he didn't say: combat 50 to 100 words; out of combat around 120 to 250; always well under 2,000 characters.
 
-Ask **one** short question only if something essential is missing (for example, a spell is named with no result and the post can't be written without it). Otherwise proceed, and state any assumption in one line after the draft.
+Ask **one** short question only if something essential is missing. Otherwise proceed, and state any assumption in one line after the draft.
 
-## 2. Save the scene
-Append any newly pasted Discord posts, exactly as given, to `campaign/chat/inbox.md` under a dated heading. Don't rewrite or tidy them. `/log-update` files them properly later. Commit and push the inbox right away (see `CLAUDE.md`, Git) so the scene isn't stranded on this device.
+## 2. File the new posts (exact text, no summaries)
+Skip this step if nothing new was pasted.
+- **Every pasted post**, Tetia's included, is appended exactly as given, in order, to the scene file named in `campaign/current-state.md`. Check only the last part of that file for duplicates; never re-read the whole file.
+  - **A new scene file** starts when the GM moves the party to a new place or a new day, or the director says a new scene has begun: create `campaign/chat/YYYY-MM-<short-scene-name>.md` and update the pointer in current-state.
+- **Her last post** is already the newest entry in `posts/archive.md`, marked `· PENDING` (the draft handed over last turn, with its markup). Confirm it against the paste:
+  - Posted as drafted: remove the `· PENDING` mark.
+  - He changed it: update the entry's words to match what was posted, keep the post format's markup (copying from Discord strips bold and underscores), and remove the mark.
+  - Not in the paste: leave it pending, and ask in one line after the draft whether it went up as written.
+  - No pending entry, but her post is in the paste: archive it, restoring the format's markup.
 
-## 3. Load what this post needs
-Already in context: the director's preferences, the bible, the appendix, the table rules and the current state. Also read:
-- `campaign/party.md`: every PC present in the scene.
-- `campaign/npcs.md`: any NPC or place in the scene.
-- `posts/archive.md`: Tetia's last several posts, to avoid repetition.
-- `character/sheet-notes.md`: if a spell or ability is involved, so the fiction matches what it actually does.
-- `campaign/log.md` or `campaign/gm-recaps.md`: only if the scene depends on earlier events.
+## 3. Refresh the here and now
+Edit `campaign/current-state.md` in place. Keep it short.
+- **Setting:** the place, its layout and everyone's positions. It stays for the whole scene; change it only when the place or positions change.
+- **Recent beats:** add each new beat in a line or two; drop beats older than the last five or so (the scene file keeps the exact text).
+- **The party roster:** a name she has now been told; a line on what she now knows of someone.
+- **Tetia right now:**
+  - what she has learned, said or kept back since; her body and mood as the story shows them;
+  - something new she learns about the world goes under "Learned since";
+  - an NPC she meets, or learns about, goes under "People she has met";
+  - when a post of hers settles something listed as open in bible section 18, record it under "Settled in play".
+- **Session number:** sessions begin each Sunday (session 63 began on Sunday 4 October 2026); advance it when a new week starts. The GM's own numbering wins.
+- Update the "Last updated" line. Nothing mechanical.
 
-## 4. Check before drafting (flag conflicts first)
+Don't touch the log, the bible, the party files or `npcs.md` here; those catch up at milestones. If the paste holds a **milestone** (a scene ends, a fight is decided, a bond or promise, a discovery that changes her picture of the world), say in one line after the draft that it's worth a `/log-update`.
+
+## 4. Load only what this post needs
+Already in context: the director's preferences, the bible, the appendix, the post format, and the current state with the party roster (as you just updated it).
+- **Her last few posts, always.** Grep `posts/archive.md` for `^## 20` to find the entries, then Read from the fourth-from-last entry to the end.
+- **A party member's file** (`campaign/party/<name>.md`): when the director mentions a detail about them, or the post turns on them (she addresses, examines or reacts to them in particular). Otherwise the roster is enough. Anyone named in the roster is an ally, whether or not Tetia knows their name.
+- **`campaign/party.md`:** when a poster's name in the paste doesn't match the roster (who posts as whom), or when she first speaks with one of them directly (her starting stance with the group).
+- **An NPC or place:** current-state first ("People she has met"), then `campaign/npcs.md` when one appears. Grep for the name rather than reading the whole file.
+- **The story so far** (`campaign/log.md`): only when someone refers to something Tetia wasn't there for and you need to understand it. She still doesn't know it.
+- **Her abilities** (`character/sheet-notes.md`): when she casts a spell or uses a feature, so the fiction matches what it does.
+- `character/homeland-moonshae.md` or `campaign/setting.md`: only for lore the bible and appendix don't cover.
+
+## 5. Check before drafting (flag conflicts first)
 Stop and tell the director, briefly and with options, if the request would:
-- give Tetia knowledge she hasn't learned in play (bible section 14): a name she hasn't been told, the party's history, the Cult of Talos behind the storms, anything GM-side;
+- give Tetia knowledge she hasn't learned in play (bible section 14 and current-state): a name she hasn't been told, the party's history, the Cult of Talos behind the storms, anything GM-side;
 - contradict her canon (bible, appendix) or a retired detail (bible section 18);
 - contradict the campaign facts or Forgotten Realms lore;
 - control another PC or an NPC, or decide an outcome that belongs to the GM;
@@ -44,17 +68,10 @@ Stop and tell the director, briefly and with options, if the request would:
 
 Small judgment calls don't need a stop: make the call and mention it in one line.
 
-## 5. Work out her state
+## 6. Work out her state
 Run the bible's scene checklist (section 13): what she knows, her physical state, who is present and what they are to her, what she wants and owes, which feeling reaches her body first, how formal to be, and what must not repeat.
 
-**If she casts a spell:** check her spell-slot tracking in `current-state.md`. Scale the visible strain to the slot level **and** to how much she has already spent since her last long rest (bible section 8): a prayer late in a hard day costs her more than the same prayer at dawn. Cantrips cost nothing visible.
-
-## 6. Her first appearance
-Tetia's first post in the campaign is different from every other:
-- **Wait for the GM's post placing her** in the scene. Don't invent where she is or how she arrives.
-- **This is the one post where a fuller description is right**, because the others are seeing her for the first time. Choose the three or four details a stranger would notice first (bible section 3 and the appendix): her height and silver hair, the delicate plate, the elven ears, her composure. Write them as what anyone looking would see, never lingering on her body.
-- **How she introduces herself** follows the director's goals: formally, by full name; as an emissary she says less than she knows, and she asks more than she answers.
-- She doesn't know any of their names or history yet (bible section 14).
+**If she casts a spell:** scale the visible strain to the spell's level (bible section 8), and add the day's accumulated fatigue only when the director says she is worn or the scene shows a long, hard day. Cantrips cost nothing visible.
 
 ## 7. Draft
 - **Format** (`campaign/table-rules.md` Part 2): narration in plain text, third person, present tense; speech in bold quotes, `**"like this"**`; thoughts in single underscores, `_like this_`; telepathy in bold angle brackets, `**‹like this›**`; signed words as speech, with the narration saying she signs. No out-of-character notes. No dice, commands or turn lines.
@@ -63,17 +80,16 @@ Tetia's first post in the campaign is different from every other:
 - **Her magic:** divine, intimate, flowing through her body from the Earthmother; moonlight and dawn, cool water, green growth. Not arcane, never commanding.
 - **Senses and body:** draw on the appendix (senses, body states, movement) for one or two fresh, scene-specific details. Physical description serves the scene; it never reintroduces her and never lingers on her body.
 - **Others:** respond to what other PCs actually posted. Speak to them, never for them. Use only names she knows; otherwise describe them as she sees them.
-- **Variation:** don't reuse any feature, mannerism, image or phrase from her recent posts in `posts/archive.md`.
+- **Variation:** don't reuse any feature, mannerism, image or phrase from her recent posts.
 - **Ending:** leave an opening for the others or the GM. Don't close the scene.
 - **One draft**, unless the director asked for options.
 
-## 8. Independent check
-Count the draft's characters and words exactly with a command (for example, save it to a scratch file and run `wc -m -w`); don't estimate. Unless the director asked for speed ("quick"), give the draft to the **continuity-check** agent along with the scene, the director's goals, the spell and level, the length target and the counts. It hasn't seen your reasoning, so it catches what you missed. Fix every must-fix issue it raises; use judgment on the rest.
+## 8. Count and check
+Count the draft's characters and words exactly with a command (save it to a scratch file outside the repo and run `wc -m -w`); don't estimate. Unless the director asked for speed ("quick"), give the **continuity-check** agent: the draft; the scene; his goals (spell, level, results, how worn she is); the length target; the counts; which characters are present; and **the text of her last four posts** from step 4, so it needn't read the archive. Fix every must-fix issue; use judgment on the rest.
 
-## 9. Hand it over
-- The post **inside a code block** (` ```text `), exactly as it should be pasted, so the markup survives copying.
+## 9. Save and hand over
+- **Add the draft to `posts/archive.md`** as the newest entry, marked pending: `## YYYY-MM-DD · Session NN · short scene label · PENDING`, with the post exactly as handed over. If he asks for a revision in this session, update that entry to match the new version.
+- **Commit and push** the filed posts, the refreshed current state and the pending entry in one commit (see `CLAUDE.md`, Git), for example "Session 63: file Kai's questions; draft her reply". Commit again after any revision.
+- **The post inside a code block** (` ```text `), exactly as it should be pasted, so the markup survives copying.
 - Under it, one line: the exact word and character count. If it's over 2,000 characters, split it into two code blocks at a paragraph break.
-- Then at most three short lines: an assumption you made, something you flagged, or a choice he might want to change. No commentary on the writing.
-
-## 10. Afterwards
-When the director says he has posted it (or pastes his edited version), run **/log-update** so the archive, her spell slots and the record stay current.
+- Then at most three short lines: an assumption you made, something you flagged, a milestone worth logging, or a missing post. No commentary on the writing.

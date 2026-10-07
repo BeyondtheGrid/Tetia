@@ -91,7 +91,7 @@ Characters who traveled with the party before Tetia's time. Whether any are stil
 - **The temple of Lathander:** the lone surviving stone temple.
 - **The town's reconstruction:** an unfinished palisade; the front gate where the watch drills; the docks leading into the marsh; the old warehouse district near the harbor; a market.
 - **Thalivar's Tower:** on the summit of a crag near the center of town. Its upper floor is soot-blackened and cracked open, a massive fissure runs down one side, and new scaffolding stands where restoration began.
-  - **Inside:** an entry hall (the soldiers' packs), a servant's chamber and kitchen, and Gallio's study on the ground floor; a spiral stair in the northwest; on the second floor, a hallway running east past three closed doors to a doorless room and out onto the scaffolding. The library is on the second floor. Details in `current-state.md`.
+  - **Inside:** an entry hall (the soldiers' packs), a servant's chamber and kitchen, and Gallio's study on the ground floor; a spiral stair in the northwest; on the second floor, a hallway running east past three closed doors to a doorless room and out onto the scaffolding. The library is on the second floor. Details in `log.md` (What the party knows).
   - **What Tetia knows:** the town's talk that voices are heard inside with no one there to speak them, and that going in is thought foolish; the outside, the scaffolding and the second-floor hallway, which she has seen. She entered play here on 7 October 2026 (session 63), by a way in she chose herself, and believed the tower abandoned until she met the party. Nothing of Thalivar's research, the disc or the watcher.
 
 ### Around Leilon
