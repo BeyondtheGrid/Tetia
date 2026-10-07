@@ -212,6 +212,7 @@ None yet.
 ### What Tetia knows of her
 - **Not her name.** To Tetia she is a halfling woman in the second-floor hallway of the tower (7 October 2026).
 - She met Tetia with fire held ready in her hand, shaped like the hand of a clock, and asked what she was doing in the tower. Tetia's eye stayed on the flame's strange shape; what she makes of it is for play.
+- **Tetia takes her for a wizard.** Answering Kai, she spoke of "the one who appears to stand among you," with a glance at her.
 
 ### Relationship with Tetia
 - **First contact, 7 October 2026:** Zeftina challenged her with a spell readied. Tetia lowered her shield, answered formally and asked whom she was addressing. No answer yet.
@@ -326,6 +327,7 @@ None yet.
 - Recognized as one of Phandalin's heroes.
 - Asked the key question about the disc: if it was all the watcher needed, why hadn't it come through in two centuries?
 - **At the tower (September–October 2026):** the party's tactician: talked Gallio down from his impatience, proposed clearing the ground floor before going up, and argued for leaving the soldiers' packs untouched. Dry humor: "Someone always takes something." "Anyone getting the feeling we should be paid more for this?" Admits he isn't the silver-tongued one.
+- **On the tower's second floor (7 October 2026):** without introducing himself, he put two hurried questions to Tetia: "How long have you been here? Have you ever seen or heard a wizard downstairs moving through various collections or papers and books?"
 
 ### In the chat (August 2026)
 - **Fights with:** a longsword and a polished steel shield, in a breastplate. Blocks blow after blow; the GM called him "as immovable as a stone wall."
@@ -343,8 +345,9 @@ None yet.
 - **Possible friction later:** if she learns his oath is one of vengeance, it will sit uneasily with her mercy and her sense of the Balance. That is for play.
 
 ### What Tetia knows of him
-Not his name. He was one of the five in the second-floor hallway when Tetia stepped in from the scaffolding (7 October 2026); no words have passed between them.
+- **Not his name.** To her he is a young man with dark red hair and a patch over one eye, whose ears come to a point: elven, or partly so, by her reading (7 October 2026).
+- He questioned her without introducing himself: how long she had been here, and whether she had seen or heard a wizard downstairs among papers and books. From that she gathers his group is searching the tower too.
 
 ### Relationship with Tetia
-None yet.
+- **7 October 2026:** his abrupt questions took her aback; she gave half a step and then answered him in full, each part in order. She thinks he and his companions may be allies.
 

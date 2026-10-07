@@ -1,4 +1,4 @@
-# Tetia Mercury — Character Bible v1.7
+# Tetia Mercury — Character Bible v1.8
 
 **Canonical character reference · D&D 2024 · Forgotten Realms · Living document**
 **Campaign:** Beyond the Dragon of Icespire Peak (Leilon, Sword Coast North)
@@ -455,7 +455,8 @@ Before writing a post, establish:
 - Karador, Synnoria and Gwynneth intimately; the rest of the Moonshaes by report; the Feywild through study, court accounts, and her own research visits.
 - Feywild studies (fey courts, eladrin seasons, planar crossings), arcana and nature (expert), healing, and the Earthmother's faith.
 - Moonshae and Sarifal history well.
-- **Learned in Leilon (in play, 7 October 2026):** the town's talk that Thalivar's Tower is troubled: voices are heard inside with no one there to speak them, and going in is thought foolish. From her own field she holds, as a possibility and not a finding, that such voices can mark a place where two worlds lie close together.
+- **Learned in Leilon (in play, 7 October 2026):** the town's talk that Thalivar's Tower is troubled: voices are heard inside with no one there to speak them, and going in is thought foolish. From her own field she holds, as a possibility and not a finding, that such voices can mark a place where two worlds lie close together. She believed the tower abandoned.
+- **From the party's first questions (in play, 7 October 2026):** they are asking after a wizard downstairs among collections of papers and books, so the tower is not as empty as she believed. She has begun to wonder whether what she knows of the place is out of date.
 
 ### She does not know
 - Mortal social cues and romance; money and prices; mortal politics and trade.
@@ -492,13 +493,13 @@ Her picture of the Sword Coast comes from books and maps that may be decades out
 | Adulthood (c. 100) | Given a post as a researcher of the Feywild at Karador; her research takes her into the Feywild itself |
 | Recent years | Prince Araithe opens Sarifal to the outside world; the Sarifal Faithful begins sending Llewyrr emissaries |
 | Recently | Storms on the Sword Coast disrupt Moonshae trade. Tetia is sent to observe and report |
-| Campaign | She arrives in Leilon around session 63 (October 2026), while the party investigates Thalivar's Tower (early 1490s DR; exact year to be confirmed with the GM) |
+| Campaign | She reaches the region around session 63 (early October 2026), some days before she enters play, while the party investigates Thalivar's Tower (early 1490s DR; exact year to be confirmed with the GM) |
 | 7 October 2026, session 63 | **She enters play.** The GM brings her in across the scaffolding onto the second floor of Thalivar's Tower, where she meets the party, and Zeftina challenges her with a spell readied |
 
 ### Current campaign state
 Add dated entries only for lasting changes: injuries, bonds, promises, discoveries, relationship shifts, changed beliefs. The moment-to-moment state is in `campaign/current-state.md`.
 
-- **7 October 2026 (session 63):** in play at Thalivar's Tower. She has met the party (Kai, Kieran, Zeftina, Grond and Pippa; she knows none of their names yet) and has told them her name, her post as a researcher at Sarifal's court, and that she was sent to observe the storms.
+- **7 October 2026 (session 63):** in play at Thalivar's Tower. She has met the party (Kai, Kieran, Zeftina, Grond and Pippa; she knows none of their names yet) and has told them her name, her post as a researcher at Sarifal's court, and that she was sent to observe the storms. She has also told them that she reached the region some days ago, that she is here independently on her court's instruction, and that she saw and heard no one in the tower before them.
 
 ---
 
@@ -528,7 +529,7 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 ### Open
 - Telepathy format: Claude's default, since the GM's guide doesn't cover it. Confirm against the Discord log or with the GM.
 - Ties to existing PCs. (How the GM introduces her was settled on 7 October 2026: see section 15.)
-- Why she came into the tower by the scaffolding, how long she had been in Leilon and where she lodges, and whether she has met Gallio. The GM hasn't said; don't invent answers.
+- Why she chose the scaffolding as her way into the tower, where she lodges, what she did in her first days in the region, and whether she has met Gallio outside the tower. Nobody has said; don't invent answers. (Settled in play on 7 October 2026: she reached the region some days earlier, chose that way in herself, and saw and heard no one in the tower before the party.)
 
 ### Retired: must never leak into portrayal
 - **Faith in Labelas Enoreth, Sehanine Moonbow or the Seldarine.** Replaced by the Earthmother.
@@ -551,6 +552,7 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 - Never let old and new canon coexist silently.
 
 ### Changelog
+- **v1.8, 7 October 2026:** New revelations from her second post (director): she reached the region some days before entering play; she chose her own way into the tower; she saw and heard no one inside before the party, and believed it abandoned. Section 14: the party's question tells her a wizard may be downstairs. Sections 15 and 18 updated to match.
 - **v1.7, 7 October 2026:** She enters play (new revelation; her introduction was open). The GM brought her in across the scaffolding onto the second floor of Thalivar's Tower in session 63, where she met the party. Section 14: she has heard the town's talk of voices in the tower, and knows nothing of what the party has learned about it. Sections 15 and 18 updated to match.
 - **v1.6, 5 October 2026:** Review of the strength rules: protecting others overrides her caution about reach (she steps in, afraid); what she carries on her person named. Her starting stance and first impressions of each party member added to `campaign/party.md`.
 - **v1.5, 5 October 2026:** Her strength made real (director): she carries only what is on her person, since armor and shield take much of what she can bear; she knows she could easily be overpowered, restrained or grappled; proximity is a measure of trust, and she dislikes being pressed in on. New subsection in section 3; touches in sections 4, 5, 8, 11 and 12.

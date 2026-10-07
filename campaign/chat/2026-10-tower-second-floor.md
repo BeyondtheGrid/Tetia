@@ -1,6 +1,6 @@
 # Discord chat: the tower's second floor and Tetia's arrival (7 October 2026, session 63)
 
-Copied exactly as the director supplied it on 7 October 2026. A copy-paste from Discord, so bold, italics and underscores were lost in the first two posts. The director numbered them (1., 2.); they carried times but no date, and are taken to be from 7 October, the day they were pasted. Tetia's post is recorded as the director posted it from the draft, with its Discord markup; its time wasn't recorded.
+Copied exactly as the director supplied it on 7 October 2026, in two pastes. The GM's and the other players' posts are copy-pastes from Discord, so their bold, italics and underscores were lost. They carried times but no date, and are taken to be from 7 October, the day they were pasted. The director numbered the first two (1., 2.). Tetia's posts are recorded as the director posted them, with their Discord markup; their times weren't recorded.
 
 **Gap in the record:** nothing has been supplied between Pip's post of 5 October, 1:44 PM (the end of `2026-09-tower-investigation.md`, in Gallio's study) and the GM's post below. How the talk with Gallio ended and the climb up the stairs aren't on file.
 
@@ -28,3 +28,23 @@ Hearing the sounds of steps approaching the group, Zeftina prepares a spell. A b
 The blazing clock hand in the halfling's grasp stops Tetia one step inside the hallway: a tall, silver-haired elf in delicate plate and a travel-stained blue cloak, the open sky still at her back. Her plain shield lifts a few inches before she makes herself lower it, and the flush of the climb drains from her face, her gaze fixed on the flame's strange shape.
 
 **"I confess I did not expect to meet anyone here at all, least of all anyone who would greet me with fire. I am a researcher at the court of Sarifal, in the Moonshae Isles, sent to observe the storms upon this coast. I am told that voices are heard in this tower with no one there to speak them, which can be the mark of a place where two worlds lie close together, and such places are my field of study. May I ask, in turn, whom I am addressing?"**
+
+Kai Vancroft
+APP
+ — 1:18 PM
+Without an introduction,  Kai spits out two hurried questions, "How long have you been here? Have you ever seen or heard a wizard downstairs moving through various collections or papers and books?"
+
+Tetia Mercury — posted 7 October 2026, after Kai's post (time not recorded)
+The questions come quickly, with no name attached and no answer to her own. Tetia's weight settles onto her back foot, half a step nearer the sky behind her. The one who asks is a young man with dark red hair and a patch over one eye, and his ears come to a point: elven, or partly so.
+
+_They ask as people who are searching this place, as I am. Allies, perhaps._
+
+She answers him, each part in its order.
+
+**"In this region, some days. As for this tower, the way I chose to enter has taken a good deal longer than I wished; I had thought to be finished and away by now. I am here independently, on the instruction of my court, and my inquiry has scarcely begun."**
+
+Her eyes go briefly to the halfling.
+
+**"A wizard, beyond the one who appears to stand among you? No. I have seen no one and heard no one until I found you. I believed myself alone here."** A faint crease gathers between her brows. **"Is this tower not abandoned?"**
+
+_Perhaps what I know of this place is out of date. How much else is?_

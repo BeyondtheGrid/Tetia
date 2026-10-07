@@ -2,7 +2,7 @@
 
 **Read this first when writing a post.** It holds where things stand right now. Update it after every scene that changes anything. History is in `log.md`; people and places in `npcs.md`.
 
-**Last updated:** 7 October 2026, after Tetia's first post (`chat/2026-10-tower-second-floor.md`).
+**Last updated:** 7 October 2026, after Tetia's second post (`chat/2026-10-tower-second-floor.md`).
 
 **Gap in the record:** nothing has been supplied between 5 October, 1:44 PM (the party questioning Gallio in his study) and the GM's post of 7 October, 9:45 AM (the second floor). How the talk with Gallio ended isn't on file.
 
@@ -22,8 +22,15 @@
 - **Tetia's entrance (written by the GM):** the party had taken a few steps down the hallway when they heard a scrape and a step on the scaffolding and saw a shadow that looked like something climbing the outside of the tower. An elven woman crossed a scaffold platform with one hand on the stonework: the vestments and equipment of a traveling cleric, showing considerable travel, a holy symbol at her neck. Her eyes widened. "Oh." She glanced behind her, then back. "I was beginning to wonder if I was the only person foolish enough to come inside." She stepped through the opening into the hallway. "I am Tetia Mercury."
 - **Zeftina** had readied a spell at the sound of steps: a blazing clock hand of fire in her grasp, held back as the elf approached. "What are you doing in this tower?"
 - **Tetia's reply (her first post):** she stopped one step inside the hallway, her shield lifting a few inches before she made herself lower it, the color draining from her face, her gaze on the flame. She said that she had not expected to meet anyone, least of all anyone who would greet her with fire; that she is a researcher at the court of Sarifal, in the Moonshae Isles, sent to observe the storms upon this coast; that she is told voices are heard in this tower with no one there to speak them, which can be the mark of a place where two worlds lie close together, her field of study. She asked whom she is addressing.
-- **Waiting on:** the party's and the GM's replies. As far as the record shows, Zeftina's spell is still held, and nobody has given Tetia a name.
-- **Positions** (worked out from the GM's description): Tetia is at the east end of the hallway, one step inside the opening from the scaffolding. The party is near the stair at the other end, a few steps in.
+- **Kai** then asked, without introducing himself, two hurried questions: "How long have you been here? Have you ever seen or heard a wizard downstairs moving through various collections or papers and books?"
+- **Tetia's second post:** taken aback (no name given, her own question unanswered), she let her weight settle onto her back foot, half a step nearer the sky behind her, and answered each part in order:
+  - In this region, some days. The way she chose to enter the tower took a good deal longer than she wished; she had thought to be finished and away by now.
+  - She is here independently, on the instruction of her court, and her inquiry has scarcely begun.
+  - A wizard, "beyond the one who appears to stand among you" (with a glance at the halfling)? No. She has seen no one and heard no one until she found them, and believed herself alone.
+  - She asked: **"Is this tower not abandoned?"**
+  - Her thoughts: these people are searching the place as she is, and may be allies; and perhaps what she knows of this place is out of date.
+- **Waiting on:** the party's and the GM's replies to her question about the tower. Her first question (whom she is addressing) is still unanswered: nobody has given her a name. As far as the record shows, Zeftina's spell is still held.
+- **Positions** (worked out from the GM's description): Tetia is at the east end of the hallway, just inside the opening from the scaffolding, having given half a step back toward it. The party is near the stair at the other end, a few steps in.
 
 ## The tower so far
 - **Outside:** a ruin on a crag; the top floor soot-blackened and cracked open like an egg; a fissure down one side behind new scaffolding; abandoned timbers, stone, ropes and tools; no guards, no workers. Two ruined arches lead in, and stairs lead up into the entry hall.
@@ -79,16 +86,27 @@
 - The lizardfolk alliance; Zeftina promised to check on the tribe.
 
 ## Tetia
-- **In play:** yes, since 7 October 2026 (session 63). One post so far.
-- **Where:** one step inside the second-floor hallway, at the opening from the scaffolding, the party at the far end.
-- **Physical state:** winded and flushed from climbing the scaffolding in her armor; frightened by the readied fire, composure holding. Shield on her arm, lowered. Her cloak and gear show the road.
+- **In play:** yes, since 7 October 2026 (session 63). Two posts so far.
+- **Where:** just inside the second-floor hallway, at the opening from the scaffolding (half a step back from where she first stood), the party at the far end.
+- **Physical state:** recovering from the climb up the scaffolding in her armor. Wary and taken aback by the abrupt questions, composure holding; she is starting to think these people may be allies. Shield on her arm, lowered. Her cloak and gear show the road.
 - **Last long rest:** before entering play (she starts fresh).
 - **Injuries, conditions:** none.
-- **What she has told the party:** her name (through the GM's post); that she is a researcher at the court of Sarifal, in the Moonshae Isles, sent to observe the storms on this coast; and why the tower drew her (voices with no speaker, places where two worlds lie close, her field).
+- **What she has told the party:**
+  - Her name (through the GM's post).
+  - That she is a researcher at the court of Sarifal, in the Moonshae Isles, sent to observe the storms on this coast, and why the tower drew her (voices with no speaker, places where two worlds lie close, her field).
+  - That she reached the region some days ago; that the way she chose into the tower took longer than she wished; that she is here independently, on her court's instruction, and has scarcely begun.
+  - That she saw and heard no one in the tower before them, and believed herself alone.
 - **What she has not told them:** the Sarifal Faithful or Lady Siofra, Synnoria, her faith by name, her parents, her telepathy.
-- **What she knows of the party:** she has seen five strangers in the hallway and knows no names. One of them, a halfling woman, held fire shaped like the hand of a clock ready against her and asked what she was doing in the tower. See `party.md`.
-- **What she knows of the tower:** the town's talk that voices are heard inside with no one there to speak them, and that going in is thought foolish; what she has seen of the outside, the scaffolding and this hallway. Her idea that two worlds may lie close here is a hypothesis from her own field, not knowledge.
-- **Not established (the GM's to decide; don't invent):** why she came in by the scaffolding, how long she has been in Leilon, where she is lodging, and whether she has met Gallio.
+- **What she knows of the party:** she has seen five strangers in the hallway and knows no names. See `party.md`.
+  - A halfling woman held fire shaped like the hand of a clock ready against her and asked what she was doing in the tower. Tetia takes her for a wizard.
+  - A young man with dark red hair and a patch over one eye, his ears pointed (elven, or partly so, by her reading), questioned her without introducing himself.
+  - She thinks they are searching the tower as she is, and may be allies.
+- **What she knows of the tower:**
+  - The town's talk that voices are heard inside with no one there to speak them, and that going in is thought foolish; what she has seen of the outside, the scaffolding and this hallway.
+  - From the young man's question: the party is asking after a wizard downstairs among collections of papers and books. She had believed the tower abandoned, and now wonders whether what she knows of the place is out of date.
+  - Her idea that two worlds may lie close here is a hypothesis from her own field, not knowledge.
+- **Settled by her own posts:** she reached the region some days before 7 October; she chose the scaffolding as her way in; she saw and heard no one in the tower before the party.
+- **Still not established (don't invent):** why she chose that way in, where she is lodging, what she did in those first days, and whether she has met Gallio outside the tower.
 
 ### Resources since her last long rest
 Update only from what the director reports. Spent slots decide how much strain her magic shows (bible section 8).
