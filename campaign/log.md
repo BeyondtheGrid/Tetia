@@ -82,3 +82,10 @@ New entries go here, newest last, from session 63 on (mark any that come before 
   - At the tower, Gallio demanded the tower be cleared; Kai talked him down; Gallio let them in and "headed toward his study."
   - In the entry hall the party examined the eight soldiers' packs (blue-and-silver shield; one held three healing potions, five healer's kits and 123 gold) and left them untouched.
   - After the servant's chamber and kitchen, the north door opened on **Gallio's study, with Gallio inside**, deciphering Thalivar's notes. The party is now questioning how he got there.
+
+- **7 October 2026, session 63: Tetia enters play.** From the chat (`chat/2026-10-tower-second-floor.md`). Nothing was supplied between 5 October, 1:44 PM and this scene, so how the talk with Gallio ended isn't on file.
+  - The party climbed the spiral stair (Pippa singing) to the **second floor**: a hallway running about forty feet east, three closed doors, a doorless room at the far end, and scaffolding open to the sky beyond.
+  - **The GM brought Tetia in across the scaffolding**: an elven woman in a traveling cleric's vestments, a holy symbol at her neck. "Oh. I was beginning to wonder if I was the only person foolish enough to come inside. I am Tetia Mercury."
+  - **Zeftina** held a readied fire spell, a blazing clock hand in her grasp, and asked what she was doing in the tower.
+  - **Tetia's first post:** frightened but composed, she lowered her shield and answered formally: she had not expected to meet anyone; she is a researcher at the court of Sarifal, in the Moonshae Isles, sent to observe the storms on this coast; she is told voices are heard in the tower with no one to speak them, which can mark a place where two worlds lie close, her field. She asked whom she was addressing.
+  - **Changes for Tetia:** now in play, and the party knows her name, her post and her errand. Her post establishes that she had heard the town's talk of voices in the tower (bible v1.7, sections 14, 15 and 18). No spells or limited features used. She knows none of the party's names yet.

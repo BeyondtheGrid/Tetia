@@ -79,7 +79,7 @@ How Tetia is likely to carry herself with these five at first, worked out from h
 - **Curiosity:** if she learns of the melody that disturbed the watcher, she will want to hear it and understand it.
 
 ### What Tetia knows of her
-Nothing yet.
+Not her name. She was one of the five in the second-floor hallway when Tetia stepped in from the scaffolding (7 October 2026); no words have passed between them.
 
 ### Relationship with Tetia
 None yet.
@@ -144,7 +144,7 @@ None yet.
 - **Trust, when it comes,** will mean the most here: letting the biggest of them stand close without stepping away.
 
 ### What Tetia knows of him
-Nothing yet.
+Not his name. He was one of the five in the second-floor hallway when Tetia stepped in from the scaffolding (7 October 2026); no words have passed between them.
 
 ### Relationship with Tetia
 None yet.
@@ -190,6 +190,7 @@ None yet.
 - Negotiated with the lizardfolk alongside Kieran, bowed to Chief Hissain, and offered to check on the tribe.
 - **She took the disc** from Elira, protected herself with a warding spell, and lit four globes of light between the party and the watcher. The watcher spoke directly to her: "At last."
 - **At the tower (October 2026):** she now **carries the disc wrapped in her pack** and has shown it to no one. Leads the party's conversations with NPCs, buys pastries for everyone (and an extra gold for the baker), and warded Kieran with a bronze, gear-like protective aura before he checked for traps. Prefers caution: she and Kieran refused to take anything from the soldiers' packs.
+- **On the tower's second floor (7 October 2026):** at the sound of steps on the scaffolding she readied a fire spell, which takes the shape of **a blazing clock hand in her grasp**, and held it back when Tetia stepped into view. She was the first of the party to speak to Tetia: "What are you doing in this tower?"
 
 ### In the chat (August 2026)
 - **Magic:** her fireball begins as a small bright bead that bursts into flame; her bolts leave flickers of **bronze-colored lightning**.
@@ -209,10 +210,11 @@ None yet.
 - **The disc** Zeftina carries is exactly the kind of thing Tetia studies. Once she learns of it, she will want to examine it, and will ask first.
 
 ### What Tetia knows of her
-Nothing yet.
+- **Not her name.** To Tetia she is a halfling woman in the second-floor hallway of the tower (7 October 2026).
+- She met Tetia with fire held ready in her hand, shaped like the hand of a clock, and asked what she was doing in the tower. Tetia's eye stayed on the flame's strange shape; what she makes of it is for play.
 
 ### Relationship with Tetia
-None yet.
+- **First contact, 7 October 2026:** Zeftina challenged her with a spell readied. Tetia lowered her shield, answered formally and asked whom she was addressing. No answer yet.
 
 ---
 
@@ -284,7 +286,7 @@ Facts only, for the writer's awareness; what comes of them is for play to decide
 - **Closeness:** an ordinary human build, so no special wariness; ordinary caution with a stranger.
 
 ### What Tetia knows of him
-Nothing yet.
+Not his name. He was one of the five in the second-floor hallway when Tetia stepped in from the scaffolding (7 October 2026); no words have passed between them.
 
 ### Relationship with Tetia
 None yet.
@@ -341,7 +343,7 @@ None yet.
 - **Possible friction later:** if she learns his oath is one of vengeance, it will sit uneasily with her mercy and her sense of the Balance. That is for play.
 
 ### What Tetia knows of him
-Nothing yet.
+Not his name. He was one of the five in the second-floor hallway when Tetia stepped in from the scaffolding (7 October 2026); no words have passed between them.
 
 ### Relationship with Tetia
 None yet.

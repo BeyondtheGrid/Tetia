@@ -1,4 +1,4 @@
-# Tetia Mercury — Character Bible v1.6
+# Tetia Mercury — Character Bible v1.7
 
 **Canonical character reference · D&D 2024 · Forgotten Realms · Living document**
 **Campaign:** Beyond the Dragon of Icespire Peak (Leilon, Sword Coast North)
@@ -455,6 +455,7 @@ Before writing a post, establish:
 - Karador, Synnoria and Gwynneth intimately; the rest of the Moonshaes by report; the Feywild through study, court accounts, and her own research visits.
 - Feywild studies (fey courts, eladrin seasons, planar crossings), arcana and nature (expert), healing, and the Earthmother's faith.
 - Moonshae and Sarifal history well.
+- **Learned in Leilon (in play, 7 October 2026):** the town's talk that Thalivar's Tower is troubled: voices are heard inside with no one there to speak them, and going in is thought foolish. From her own field she holds, as a possibility and not a finding, that such voices can mark a place where two worlds lie close together.
 
 ### She does not know
 - Mortal social cues and romance; money and prices; mortal politics and trade.
@@ -462,9 +463,10 @@ Before writing a post, establish:
 - Mainland history (she has no History proficiency: she knows the fey and the land better than mortal kingdoms).
 - Fighting beyond her few spells.
 - What is causing the storms. She knows Talos from Moonshae lore as the Storm Lord and an old enemy of the isles, but **she does not connect him to these storms** until she learns it in play.
-- About Leilon: only that it is an old mining town abandoned after the Spellplague and now being resettled under Neverwinter. Some of her information is outdated.
+- About Leilon: she arrived knowing only that it is an old mining town abandoned after the Spellplague and now being resettled under Neverwinter, and some of her information is outdated. What she has learned since arriving is listed under "She knows" and in `campaign/current-state.md`.
 - **The party's shared past** (the caravan on the High Road, the goblin ambush, Phandalin and the white dragon; see `campaign/gm-lore.md`) is theirs, not hers. She knows none of it until they tell her in play, and she joins as a newcomer to a group that already has a bond.
 - **Anything from the campaign before she arrives** (see `campaign/log.md`) until she learns it in play, and anything GM-side about the adventure.
+- **What the party has learned about Thalivar's Tower** (Thalivar's research, the Point of Contact and the Far Threshold, the disc, the watcher, the melody, Gallio's notes, the soldiers' packs) until someone tells her in play.
 - Another character's private motives just because the player or writer knows them.
 
 ### She wrongly believes
@@ -490,10 +492,13 @@ Her picture of the Sword Coast comes from books and maps that may be decades out
 | Adulthood (c. 100) | Given a post as a researcher of the Feywild at Karador; her research takes her into the Feywild itself |
 | Recent years | Prince Araithe opens Sarifal to the outside world; the Sarifal Faithful begins sending Llewyrr emissaries |
 | Recently | Storms on the Sword Coast disrupt Moonshae trade. Tetia is sent to observe and report |
-| Campaign | She arrives in Leilon around session 63 (October 2026), while the party investigates Thalivar's Tower (early 1490s DR; exact year to be confirmed with the GM). How the GM introduces her is open |
+| Campaign | She arrives in Leilon around session 63 (October 2026), while the party investigates Thalivar's Tower (early 1490s DR; exact year to be confirmed with the GM) |
+| 7 October 2026, session 63 | **She enters play.** The GM brings her in across the scaffolding onto the second floor of Thalivar's Tower, where she meets the party, and Zeftina challenges her with a spell readied |
 
 ### Current campaign state
-Open. Add dated entries only for lasting changes: injuries, bonds, promises, discoveries, relationship shifts, changed beliefs.
+Add dated entries only for lasting changes: injuries, bonds, promises, discoveries, relationship shifts, changed beliefs. The moment-to-moment state is in `campaign/current-state.md`.
+
+- **7 October 2026 (session 63):** in play at Thalivar's Tower. She has met the party (Kai, Kieran, Zeftina, Grond and Pippa; she knows none of their names yet) and has told them her name, her post as a researcher at Sarifal's court, and that she was sent to observe the storms.
 
 ---
 
@@ -522,7 +527,8 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 
 ### Open
 - Telepathy format: Claude's default, since the GM's guide doesn't cover it. Confirm against the Discord log or with the GM.
-- How the GM introduces her; ties to existing PCs.
+- Ties to existing PCs. (How the GM introduces her was settled on 7 October 2026: see section 15.)
+- Why she came into the tower by the scaffolding, how long she had been in Leilon and where she lodges, and whether she has met Gallio. The GM hasn't said; don't invent answers.
 
 ### Retired: must never leak into portrayal
 - **Faith in Labelas Enoreth, Sehanine Moonbow or the Seldarine.** Replaced by the Earthmother.
@@ -545,6 +551,7 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 - Never let old and new canon coexist silently.
 
 ### Changelog
+- **v1.7, 7 October 2026:** She enters play (new revelation; her introduction was open). The GM brought her in across the scaffolding onto the second floor of Thalivar's Tower in session 63, where she met the party. Section 14: she has heard the town's talk of voices in the tower, and knows nothing of what the party has learned about it. Sections 15 and 18 updated to match.
 - **v1.6, 5 October 2026:** Review of the strength rules: protecting others overrides her caution about reach (she steps in, afraid); what she carries on her person named. Her starting stance and first impressions of each party member added to `campaign/party.md`.
 - **v1.5, 5 October 2026:** Her strength made real (director): she carries only what is on her person, since armor and shield take much of what she can bear; she knows she could easily be overpowered, restrained or grappled; proximity is a measure of trust, and she dislikes being pressed in on. New subsection in section 3; touches in sections 4, 5, 8, 11 and 12.
 - **v1.4, 5 October 2026:** Post formatting set from the GM's guide (see `campaign/table-rules.md`); the interim italics and parenthetical OOC format is retired. Knowledge boundary added: the party's shared past from the GM's lore is unknown to her.

@@ -52,7 +52,7 @@ In the Claude desktop app, start a new Claude Code session on your computer and 
 ### 6. Check that it loaded
 In that session:
 - Type `/`. You should see **write-post** and **log-update** in the list.
-- Ask: *"Where does the campaign stand, and what is Tetia's spell-slot status?"* It should answer from `campaign/current-state.md` straight away: the party inside Thalivar's Tower, Tetia not yet in play, all slots unused.
+- Ask: *"Where does the campaign stand, and what is Tetia's spell-slot status?"* It should answer from `campaign/current-state.md` straight away: where the party is in Thalivar's Tower, whether Tetia is in play, and how many spell slots she has used.
 - Ask: *"Which agents do you have for this project?"* It should name **continuity-check**.
 - No "SYNC WARNING" should appear at the start.
 
