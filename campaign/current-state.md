@@ -4,7 +4,7 @@
 
 **No mechanics here.** The director tracks her hit points, spell slots, exhaustion and conditions himself, and says how worn she is when it matters. Record her physical state only as the story shows it.
 
-**Last updated:** 8 October 2026, at the introductions milestone (`log.md`, milestone 10; bible v1.11). Tetia's fourth post is drafted and pending.
+**Last updated:** 8 October 2026, after three knocks sounded behind one of the closed doors; Tetia's fifth post is drafted and pending.
 
 ---
 
@@ -38,12 +38,14 @@ Stays for the whole scene; change it only when the place or positions change.
 The last five or so; older ones drop off as new ones arrive (the scene file keeps the exact text, the log keeps the milestones).
 - **The meeting and the introductions** are in `campaign/log.md`, milestones 9 and 10: Pip, Grond, Zeftina and Kai have given their names, and Zeftina has let her spell go.
 - **Kai:** "As Zeftina said, trust is in short supply here. I'm Kai. A pleasure to meet you." He listened to their surroundings, then asked: "Did you say your expertise is related to what may be happening here?"
-- **Tetia's fourth post (drafted, pending):** her shoulders eased as the fire went out; she inclined her head once for each name, told them there was nothing to excuse, and answered Kai carefully, without promising more than she can (below).
-- **Waiting on** their answers. Everyone but Kieran has given a name. No spell is held.
+- **Tetia's fourth post:** her shoulders eased as the fire went out; she inclined her head once for each name, told them there was nothing to excuse, and answered Kai carefully, without promising more than she can, ending: "Or so... that is my hope."
+- **The GM:** her last words hung in the hallway while the group studied one another; the meeting "has gone considerably better than it might have." Then the tower gave a long, low groan, everyone fell silent, and from behind one of the closed doors came three soft knocks.
+- **Tetia's fifth post (drafted, pending):** a small gasp escaped her at the first knock; she pressed her hand over her mouth and searched the others' faces, wondering whether this is someone they expected.
+- **Waiting on** the others' reactions to the knocking, and on the GM. Everyone but Kieran has given a name. No spell is held.
 
 ## Tetia right now
-- **Body:** recovering from the climb up the scaffolding in her armor; cloak and gear road-worn; shield on her arm, lowered.
-- **Mood:** more at ease now that the fire is gone and four of the five have given names; composure holding. Still wary of Grond's size (his strength, not him). Careful not to promise more than she can deliver: she has examined nothing here yet. She is beginning to think these people may be allies.
+- **Body:** recovering from the climb up the scaffolding in her armor; cloak and gear road-worn; shield on her arm, lowered; her other hand pressed over her mouth.
+- **Mood:** startled by the knocking, after a moment of ease. She doesn't know whether to be alarmed, and is looking to the others to find out. Shy and unsure among people she has only just met; still wary of Grond's size (his strength, not him). She is beginning to think these people may be allies.
 - **She has told them:**
   - her name, and that she is a researcher at the court of Sarifal, in the Moonshae Isles, sent to observe the storms on this coast;
   - why the tower drew her: voices heard with no one to speak them, which can mark a place where two worlds lie close, her field;
@@ -51,10 +53,10 @@ The last five or so; older ones drop off as new ones arrive (the scene file keep
   - that she is here independently, on her court's instruction, and her inquiry has scarcely begun;
   - that she saw and heard no one in the tower before them, and believed herself alone;
   - that she is accustomed to working alone, but welcomes their company now that the tower has proved not to be deserted;
-  - (fourth post, pending) that her field may bear on what is happening here, and no more than "may": she knows only what she has been told of the tower and has examined nothing herself; once it is known for certain what is happening, she should be able to come to a sound conclusion.
+  - that her field may bear on what is happening here, and no more than "may": she knows only what she has read of the tower and has examined nothing herself; once it is known for certain what is happening, she should be able to come to a sound conclusion, or so she hopes.
 - **She has not told them:** the Sarifal Faithful or Lady Siofra; Synnoria; her faith by name; her parents; her telepathy.
 - **What she knows:** `character/bible.md` section 14 is current through the introductions (bible v1.11). `/log-update` moves the lists below into the bible and `npcs.md` at the next milestone.
-  - **Learned since:** nothing yet.
+  - **Learned since:** the tower groaned, long and low, and then something or someone knocked three times, softly, behind one of the three closed doors on the second floor. She doesn't know who or what, or whether the others expected it.
   - **People she has met** (NPCs): none yet.
   - **Settled in play** (items bible section 18 lists as open, which her posts have since settled): none.
 - **Still open about her** (don't invent): bible section 18, less anything settled above.

@@ -75,3 +75,24 @@ The magic in Zeftina's hand dissolves into a shower of bronze colored sparks as 
 "As Zeftina said, trust is in short supply here. I'm Kai. A pleasure to meet you."
 
 Kai listens for anything unusual in there surroundings before he continues. "Did you say your expertise is related to what may be happening here?"
+
+*Fourth paste, supplied on 8 October 2026. Tetia's post is from 7 October ("Yesterday at 8:14 PM"); the GM's is from 8 October.*
+
+1. Tetia MercuryAPP — Yesterday at 8:14 PM
+As the fire comes apart in bronze sparks, Tetia's shoulders ease as she inclines her head twice, once for each name given.
+
+**"The pleasure is mine, Zeftina, Kai, and there is nothing to excuse. If what one sees here cannot be trusted, caution is no discourtesy."**
+
+Her free hand lifts as if to shape an answer for Kai, then settles again, and her voice comes slower, more careful.
+
+**"I said that it may be, and I would not have you take that for more than it is: I know only what I have read of this tower, and have examined nothing here myself. But once we know for certain what is happening, I should be able to come to a sound conclusion. Or so... that is my hope."**
+2. Dungeon MasterAPP — 5:02 AM
+The last of Tetia's words hangs in the hallway. For a moment, the group simply studies one another. The strange encounter has gone considerably better than it might have. 
+
+Down the corridor. Three closed doors. One open room. The unfinished scaffolding behind Tetia. 
+
+The tower gives a long, low groan around them. Everyone falls silent. Then, from somewhere behind one of the closed doors… three soft knocks. 
+
+Knock.
+Knock.
+Knock.

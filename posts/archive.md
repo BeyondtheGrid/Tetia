@@ -38,11 +38,18 @@ At Pip's flourish and bright greeting, the crease between Tetia's brows smooths,
 
 **"I am glad to meet you, Pip, since you are kind enough to offer the name; and I thank you, Grond, for yours and for so plain an answer. I am accustomed to working alone, but this tower is not deserted as I expected it to be, and I would welcome the company."**
 
-## 2026-10-07 · Session 63 · Acknowledging Zeftina and Kai; answering Kai on her expertise · PENDING
-The fire comes apart in bronze sparks, and Tetia's shoulders ease as she inclines her head twice, once for each name given.
+## 2026-10-07 · Session 63 · Acknowledging Zeftina and Kai; answering Kai on her expertise
+As the fire comes apart in bronze sparks, Tetia's shoulders ease as she inclines her head twice, once for each name given.
 
 **"The pleasure is mine, Zeftina, Kai, and there is nothing to excuse. If what one sees here cannot be trusted, caution is no discourtesy."**
 
 Her free hand lifts as if to shape an answer for Kai, then settles again, and her voice comes slower, more careful.
 
-**"I said that it may be, and I would not have you take that for more than it is: I know only what I have been told of this tower, and have examined nothing here myself. But once we know for certain what is happening, I should be able to come to a sound conclusion."**
+**"I said that it may be, and I would not have you take that for more than it is: I know only what I have read of this tower, and have examined nothing here myself. But once we know for certain what is happening, I should be able to come to a sound conclusion. Or so... that is my hope."**
+
+## 2026-10-08 · Session 63 · Three knocks behind a closed door: a gasp, and she looks to the others · PENDING
+The first knock draws a sound out of Tetia before she can will her lips shut: a small gasp, breathy and feminine, pitched high and clear, the way an elven voice is. By the second her hand is pressed flat over her mouth, fingers cool against her lips, as if the sound had slipped out without her leave and another might follow.
+
+By the third, her eyes are moving. Wide and gray above her fingers, they pass from face to face along the hallway: Pip, Grond, Zeftina, Kai, the hooded man who has yet to speak. She searches each for alarm, or for the ease of people who know who is knocking.
+
+_Is this someone they expected?_
