@@ -34,6 +34,6 @@ Her eyes go briefly to the halfling.
 _Perhaps what I know of this place is out of date. How much else is?_
 
 ## 2026-10-07 · Session 63 · Answering Pip and Grond: she welcomes the company · PENDING
-At Pip's flourish and bright greeting, the crease between Tetia's brows smooths, and her weight comes forward off her back foot. Then the orc who names himself Grond looks her over, broad as a door in battered black plate, and a small, hard swallow travels down her throat. Even so she returns Pip's bow, a shade deeper than the moment asks, her armor chiming faintly; a keen eye might find no weapon anywhere on her, only the shield on her arm.
+At Pip's flourish and bright greeting, the crease between Tetia's brows smooths, and her weight comes forward off her back foot. Then the orc who names himself Grond looks her over, broad as a door in battered black plate, and a small, hard swallow travels down her throat. Even so she returns Pip's bow, a shade deeper than the moment asks, her armor chiming faintly. A keen eye might find no weapon anywhere on her: no blade, no mace, no bow, only the shield on her arm, as if she either expects no danger here or has no need of steel to meet it.
 
 **"I am glad to meet you, Pip, since you are kind enough to offer the name; and I thank you, Grond, for yours and for so plain an answer. I am accustomed to working alone, but this tower is not deserted as I expected it to be, and I would welcome the company."**
