@@ -54,17 +54,26 @@ By the third, her eyes are moving. Wide and gray above her fingers, they pass fr
 
 _Is this someone they expected?_
 
-## 2026-10-08 · Session 63 · Grond opens the door: she feels for magic with her own inborn gift · PENDING
-Grond rolls his eyes, and that is an answer of a kind: the largest of them does not look alarmed. Inside her sabatons Tetia's toes have curled tight even so, and he is already opening the door.
-
+## 2026-10-08 · Session 63 · Grond opens the door: she feels for magic with her own inborn gift
 Whether a haunting can be polite, she does not know. Whether there is magic in it, she can find out. Her hand slips down from her lips, far enough to let her speak.
 
 **"If I may. I am able to tell whether there is magic at work near me. It touches no one. It only shows me what is there."**
 
-It is said softly, to the hallway at large. Whether that is courtesy enough, working magic unasked among people she has only just met, she cannot tell, and there is no time to ask.
+It is said softly, to the hallway at large.
 
-This is no prayer; she asks for nothing. One slow breath, and a few words of Elvish leave her, hardly louder than the breath itself. She opens her hand toward the hallway as gently as one lets go of something small and winged. What answers is already hers, born in her, as it is in her kind: old in the blood, and quiet as a pulse.
+This is no prayer; she asks for nothing. One slow breath, and a few words of Elvish leave her, hardly louder than the breath itself. She opens her hand toward the hallway as gently as one lets go of something small and winged.
 
-Her lashes lower. Her awareness widens, the way hearing does when a room falls silent, past Grond and the door under his hand, though not so far as the stair.
+Her lashes lower. Her awareness widens, the way hearing does when a room falls silent.
 
-She holds it as she would a brimming cup, and waits for what it shows her.
+Casting Detect Magic
+
+## 2026-10-08 · Session 63 · The room alight with magic, and the statue asking for silence · PENDING
+The door swings in, and to the sense Tetia holds open the room beyond it is alight: scroll and journal and the loose scraps tucked between volumes each carry a faint glow, as a meadow carries dew at first light, little on any one blade and scarcely a blade without it.
+
+_A powerful wizard indeed._
+
+Then her gaze reaches the peasant girl in stone at the center of it all, one finger laid to her lips, and whatever Tetia was about to tell the others goes unsaid. The asking is unmistakable; the reason for it is not.
+
+_Silence is kept for the sake of something: what is she warding against?_
+
+Very still, she turns the whole of her attention on the statue, meaning to learn the answer.

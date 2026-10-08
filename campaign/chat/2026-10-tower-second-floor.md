@@ -107,3 +107,30 @@ By the third, her eyes are moving. Wide and gray above her fingers, they pass fr
 _Is this someone they expected?_
 2. Grond the OakfellAPP — 10:16 AM
 Rolls his eyes "Guess whatever's haunting this place is being polite." Grond opens the the third door The one Grond is in front of
+
+*Sixth paste, supplied on 8 October 2026; all three posts are from 8 October. Tetia's post went up shorter than the draft, with a closing out-of-character line naming the spell.*
+
+1. Tetia MercuryAPP — 10:57 AM
+Whether a haunting can be polite, she does not know. Whether there is magic in it, she can find out. Her hand slips down from her lips, far enough to let her speak.
+
+**"If I may. I am able to tell whether there is magic at work near me. It touches no one. It only shows me what is there."**
+
+It is said softly, to the hallway at large.
+
+This is no prayer; she asks for nothing. One slow breath, and a few words of Elvish leave her, hardly louder than the breath itself. She opens her hand toward the hallway as gently as one lets go of something small and winged.
+
+Her lashes lower. Her awareness widens, the way hearing does when a room falls silent.
+
+Casting Detect Magic
+2. Pippa 'Pip' MorgrinAPP — 12:42 PM
+Pippa crouches down behind Grond, peering between his knees and into the room. She tilts her head, trying to find a better angle without getting in his way. “Well, if we're being visited, I do hope our guest has the good manners to introduce themselves.” Her eyes narrow with playful curiosity as she tries to make out what lies beyond the doorway.
+3. Dungeon MasterAPP — 2:58 PM
+Grond reaches for the third door and pulls it open. The door swings inward with a long, protesting creak. Beyond lies a ruined chamber. Tall shelves line the walls, packed with Thalivar's moldering research notes. Scrolls, journals, loose parchment, and old volumes fill the shelves, their contents covered in decades of dust. 
+
+And in the center of the room stands something that immediately draws everyone's attention. A statue. It depicts a peasant girl, frozen in a simple but unmistakable gesture. One finger rests against her lips. A gesture of silence. Hush.
+
+Tetia casts Detect Magic. The world changes. The old chamber remains exactly as it was, but now faint magical auras begin to reveal themselves. The bookshelves glow. The research notes glow. The scrolls. The journals. Even loose scraps of parchment tucked between larger volumes carry faint traces of magic. The entire collection seems saturated with it. Not one isolated enchanted object. Almost everything in the room. The sheer number of magical traces is immediately striking. 
+
+Whatever Thalivar kept in this chamber, his research was not merely academic. And beneath all those faint auras, the statue remains motionless. Its stone finger still pressed against its lips. Silent. Watching. Or perhaps simply reminding you of something.
+
+Be quiet.
