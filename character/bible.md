@@ -1,4 +1,4 @@
-# Tetia Mercury — Character Bible v1.8
+# Tetia Mercury — Character Bible v1.9
 
 **Canonical character reference · D&D 2024 · Forgotten Realms · Living document**
 **Campaign:** Beyond the Dragon of Icespire Peak (Leilon, Sword Coast North)
@@ -163,6 +163,7 @@ Her resting face is soft, calm and faintly dreamy: heavy-lidded, lips slightly p
 | Real joy (rare) | A full smile, teeth showing, and her hand rises at once to cover her mouth out of courtesy |
 | Amusement | Laughter restrained: a breath through the nose, a hand over her mouth, shoulders tight with holding it in. She is young, so sometimes a small laugh escapes anyway |
 | Embarrassment | Sudden stillness; lashes lower; the flush spreads from her cheeks to the tips of her ears |
+| Shyness, uncertainty (her default with strangers) | Her gaze lowers, lifts, and lowers again; color rises softly in her cheeks; her toes turn further inward; her hands fold or find the edge of her shield or cloak. Her voice softens and slows, and may trail off at the end of a sentence. Never stammering |
 | Confusion at a mortal cue | A slight tilt of the head, brows drawing faintly together, a blink; then a literal question |
 | Attraction, flustered | Very still; breath catches; her gaze returns to the person and drops away; color rises; her formal phrasing breaks |
 | Fear | Color drains: her porcelain skin goes paler still, as if porcelain could whiten, and her lips lose their pink. Eyes widen; a visible swallow; toes tense in her boots. Her ear tips may still flush. Composure holds outwardly |
@@ -207,15 +208,16 @@ Use these for the parts listed only.
 | Reference | Take | Leave behind |
 |---|---|---|
 | Marin Kitagawa (*My Dress-Up Darling*) | Unselfconscious about her looks; open, nerdy enthusiasm for what she loves; accepting of others (tempered for Tetia by caution with mortals); flustered by her own feelings | Loud, outgoing, casual energy; gyaru style and slang |
-| Violet Evergarden (*Violet Evergarden*) | Duty-bound; formal, precise speech, often more formal than the moment needs; literal-minded; reserved but highly capable; feels things before she has words for them | The child-soldier past, violence and trauma; true emotional blankness; a life organized around one person |
-| Mitsuha Miyamizu (*Your Name*) | Care and gentleness; devotion to ritual and sincere belief; polite, soft-spoken femininity that is formal, not timid; youthful tenacity | The body-swap and comet plot; the modern setting; Japanese terms or customs named outright |
+| Violet Evergarden (*Violet Evergarden*) | Duty-bound; formal, precise speech, often more formal than the moment needs; literal-minded; reserved but highly capable; feels things before she has words for them; uncertain in unfamiliar company, never sure she has answered rightly or read the moment correctly | The child-soldier past, violence and trauma; true emotional blankness; a life organized around one person |
+| Mitsuha Miyamizu (*Your Name*) | Care and gentleness; devotion to ritual and sincere belief; polite, soft-spoken feminine shyness: an overwhelming wish to be courteous that at times comes out as timid or uncertain, with an inner voice that questions herself (as when Mitsuha meets Taki on the train before he knows her, or confronts her father); youthful tenacity | The body-swap and comet plot; the modern setting; Japanese terms or customs named outright |
 
 ### Core traits
-Duty-bound, studious, curious, gentle, formal, sincere, reserved, accepting, sheltered.
+Duty-bound, studious, curious, gentle, formal, shy, sincere, reserved, accepting, sheltered.
 
 ### Daily personality
 - **Humor:** mostly unintentional. Her literal answers and over-formality in casual moments are funny without her meaning them to be. She rarely jokes, but can produce a dry, precise observation that lands. She enjoys other people's humor once she understands it, sometimes a beat late.
 - **Social energy:** at ease alone with books. Strangers' company is tiring even when she is attentive; she recovers in quiet through her journal, prayer, bathing and trance.
+- **Shyness** *(director)*: with people she doesn't yet know, and whenever she fears she has been discourteous, she is shy and unsure of herself. It comes from an overwhelming wish to be polite, and at times it reads as timid. Her gaze drops; color rises in her cheeks; her toes turn inward; her voice softens and slows and may trail off; she waits to be addressed and lets others speak first; and an inner voice asks whether she spoke rightly, said too much, or was too forward. **She never stammers**: the uncertainty shows in pauses, a softening voice and where she looks, not in broken words. It fades as trust grows. In the fiction it is Llewyrr reserve and a court upbringing that prized courtesy; never name a real-world culture in a post.
 - **Confident in:** her studies, ritual and prayer, healing, divination and court etiquette.
 - **Insecure about:** mortal social situations, combat, money, her own feelings, and whether she is doing her duty well.
 - **First impression versus the truth:** strangers see a cool, impossibly lovely elven noble who might be aloof or haughty. In truth she is unsure around mortals, earnest, eager to learn, and warm once at ease.
@@ -228,7 +230,7 @@ She is formal, reserved and duty-bound in company. The reserve breaks when her s
 | Situation | How it shows |
 |---|---|
 | **Core fear** | Failing the duty she was entrusted with, and returning with a report that is wrong or incomplete. Beneath it: that knowing is not the same as being able, and her learning will fail her when it matters |
-| **Under stress** | Grows more formal and precise; retreats into procedure: observe, record, recall what she has read. Outward composure holds (first learned at her mother's side, then drilled by the court). In the moment, strain leaks through small physical tells: toes tensing in her boots, a visible swallow. Feelings surface later, alone, in trance or in her writing |
+| **Under stress** | Grows more formal and precise; retreats into procedure: observe, record, recall what she has read. Outward composure holds (first learned at her mother's side, then drilled by the court), but composure is not confidence: she holds herself together, yet among strangers she is visibly unsure of herself. In the moment, strain leaks through small physical tells: toes tensing in her boots, a visible swallow. Feelings surface later, alone, in trance or in her writing |
 | **Anger** | Rare and quiet. Courtesy turns colder and more exact, and she stops softening her words. Set off by deliberate cruelty, willful ignorance, and the destruction of knowledge or sacred things |
 | **Grief** | Private. Composure in public; grief through ritual: prayer, and recording the names of the dead. Tears only alone or with someone she deeply trusts |
 | **Delight** | Her subject, and learning about the outside world and the beings in it |
@@ -252,7 +254,7 @@ She is formal, reserved and duty-bound in company. The reserve breaks when her s
 ## 6. Voice and performance
 
 ### Baseline
-- **Register:** formal and precise; often more formal than the situation calls for.
+- **Register:** formal and precise; often more formal than the situation calls for. With strangers her formality is something she holds on to, not a sign of ease.
 - **Vocabulary:** educated; exact terms, no slang. She never shows off, but assumes others know what she knows and over-explains when they don't.
 - **Common:** fluent, learned from books and court: correct, slightly old-fashioned, sometimes too literal. Her elven lilt is described, never spelled phonetically.
 - **Rhythm:** measured and unhurried; quickens when her subject excites her.
@@ -273,7 +275,8 @@ Before she speaks she sometimes readies her voice: a small pause, a soft clearin
 |---|---|
 | Frightened | Short, very precise sentences; composure strained but holding |
 | Angry | Quieter, colder, exact |
-| Flustered | Loses her formal phrasing mid-sentence and starts again |
+| Shy, uncertain (her default with strangers) | Softer and a little slower; a pause before she answers; shorter answers; a sentence that trails off or softens at its end; she lets others speak first. Never stammering |
+| Flustered (by her own feelings, such as attraction) | Loses her formal phrasing mid-sentence and starts again |
 | Exhausted | Formality falls away first |
 | Excited about her subject | Faster, eager, reserve gone until she notices |
 
@@ -281,7 +284,7 @@ Before she speaks she sometimes readies her voice: a small pause, a soft clearin
 - Formality lives in phrasing, not in archaic or stilted speech. She is not a parody of courtly language, and she can be warm inside it.
 - How far she relaxes with particular people is how closeness shows.
 - She would never use crude language or slang, use her looks as leverage, boast about her learning, or speak with contempt for mortals.
-- Do not make her stammer constantly, apologize as punctuation, or blush as her only tell.
+- Do not make her stammer, from pressure or uncertainty: her uncertainty shows in pauses, a softening voice and where she looks, not in broken words. Don't make her apologize as punctuation or blush as her only tell.
 
 ---
 
@@ -422,6 +425,7 @@ Cleric 8 (Knowledge Domain, Thaumaturge order), Elf (High Elf lineage). AC 20, 6
 - Keep emotional and physical continuity from the scene.
 - Leave uncertain outcomes to the GM. Never dictate another PC's thoughts, feelings, decisions or successes, or control NPCs.
 - Leave room for other players to respond.
+- Her shyness with people she doesn't yet know: polite to a fault and unsure of herself, never smoothly confident among near-strangers (section 5).
 
 ### Never default to
 - Childlike, or naive about her own body and boundaries.
@@ -445,6 +449,7 @@ Before writing a post, establish:
 5. Which feeling reaches her body first?
 6. How much formality fits this company?
 7. Which recent gestures or phrases must not repeat?
+8. How sure of herself is she right now? With people she doesn't yet know, not very.
 
 ---
 
@@ -538,6 +543,7 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 - **A runaway backstory.** She was sent.
 - **The Halfling language.** Replaced by Sylvan.
 - **Frieren** as a reference. Rejected.
+- **"Formal, not timid"** (the old wording of the *Your Name* reference). Replaced in v1.9: she is shy and unsure of herself with people she doesn't yet know (section 5).
 - **The interim post format:** narration in italics and out-of-character notes in parentheses. Replaced by the GM's guide: plain-text narration, OOC in #ooc.
 - **Anything from Tetia Itomori** (the earlier Fabula Ultima character): the medical-student background, Shinto shrine, sapphire eyes, blue crystal necklace, sleep and dream traits. A different person entirely.
 
@@ -552,6 +558,7 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 - Never let old and new canon coexist silently.
 
 ### Changelog
+- **v1.9, 7 October 2026:** Her shyness and uncertainty made explicit (director). Retcon: the *Your Name* reference took her femininity as "formal, not timid"; it now takes a polite, feminine shyness that at times comes out as timid or uncertain, because the old wording had posts showing her as poised and sure of herself among strangers, which is not who she is. Added: "shy" to her core traits; a Shyness entry in section 5; uncertainty to the Violet reference; "composure is not confidence" under stress; a shyness row in the expression guide; a shy, uncertain mode and a firmer no-stammering guardrail in section 6; a roleplay rule and a checklist question in section 13. Appendix v1.5 to match.
 - **v1.8, 7 October 2026:** New revelations from her second post (director): she reached the region some days before entering play; she chose her own way into the tower; she saw and heard no one inside before the party, and believed it abandoned. Section 14: the party's question tells her a wizard may be downstairs. Sections 15 and 18 updated to match.
 - **v1.7, 7 October 2026:** She enters play (new revelation; her introduction was open). The GM brought her in across the scaffolding onto the second floor of Thalivar's Tower in session 63, where she met the party. Section 14: she has heard the town's talk of voices in the tower, and knows nothing of what the party has learned about it. Sections 15 and 18 updated to match.
 - **v1.6, 5 October 2026:** Review of the strength rules: protecting others overrides her caution about reach (she steps in, afraid); what she carries on her person named. Her starting stance and first impressions of each party member added to `campaign/party.md`.

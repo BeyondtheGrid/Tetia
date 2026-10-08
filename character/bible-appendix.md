@@ -1,4 +1,6 @@
-# Tetia Mercury — Bible Appendix v1.4
+# Tetia Mercury — Bible Appendix v1.5
+
+*v1.5 (7 October 2026): shyness and uncertainty with strangers (director); see bible v1.9.*
 
 *v1.4 (5 October 2026): burden and personal space added (carrying, crowding, being grabbed).*
 *v1.3 (5 October 2026): seat and lower back added (shape, back dimples, sitting and kneeling).*
@@ -85,7 +87,7 @@ Where this appendix and `bible.md` disagree, `bible.md` wins.
 - **Shaped by kneeling:** a century of kneeling back on her heels, at prayer, at study and in court audiences, has left its mark *(director)*:
   - At rest her **knees draw close together and her toes turn slightly inward** *(director, art)*.
   - Her lower legs carry a **faint outward bow**, visible when she stands with her feet together *(director)*.
-  - The toe-in grows more pronounced when she is shy, nervous or standing still for long *(derived)*.
+  - The toe-in grows more pronounced when she is shy or unsure *(director)*, nervous, or standing still for long *(derived)*.
   - Kneeling back on her heels is her most comfortable way to sit on the ground; she can hold it for hours *(derived)*.
 - *Write this as Llewyrr and court habit, never as a named real-world custom.*
 - **Thighs:** smooth and softly rounded *(art)*.
@@ -159,6 +161,13 @@ Where this appendix and `bible.md` disagree, `bible.md` wins.
 ### Embarrassment
 - Stillness; lowered lashes; a flush spreading from cheeks to ear tips *(director)*.
 
+### Shyness and uncertainty
+- Her default with people she doesn't yet know *(director)*.
+- A downcast gaze that lifts and drops again; color rising in her cheeks; toes turning inward *(director)*.
+- Her hands fold, or find the edge of her shield or cloak *(derived)*.
+- Her voice softens and slows and may trail off at the end of a sentence; never stammering *(director)*.
+- An inner voice questioning whether she spoke rightly *(director)*.
+
 ### Crying
 - Small, stifled, whimpering sobs she tries to hold back *(director)*.
 - Her lashes clump; her nose and eyelids redden quickly on skin this fair *(derived)*.
@@ -190,6 +199,7 @@ See `bible.md`, section 8: scaled to spell level and accumulating through the da
 - **Walking:** small, precise steps placed close to a single line, toes turned faintly inward; a smooth, gliding gait out of armor, careful and audible in it *(director, derived)*.
 - **Sitting:** on a chair, upright with knees together, feet tucked and toes touching, hands folded in her lap. On the ground, she kneels back on her heels *(director, derived)*.
 - **Nervous:** very still, hands folded *(director)*.
+- **Shy or unsure:** gaze lowered, toes turned inward, a soft color in her cheeks; she waits to be addressed *(director)*.
 - **Talking about her subject:** leans in, gestures with her hands, quickens *(director)*.
 - **Reading and writing:** bent close over the page; hair falling forward until she tucks it back; a careful, unhurried pen *(derived)*.
 - **Praying:** kneels or stands with head bowed; may touch the amulet at her collar *(derived)*.
@@ -239,6 +249,7 @@ See `bible.md`, section 8: scaled to spell level and accumulating through the da
 
 | Situation | Likely response *(derived from canon unless tagged)* |
 |---|---|
+| Meeting someone new, or addressed by a stranger | Shy and polite to a fault: gaze lowered, a pause before she answers, a softer voice, short careful answers; afterward she wonders whether she was courteous enough *(director)* |
 | Someone flirts with her | She misses it, or takes it literally and answers sincerely; if she realizes, she stills and flushes, and her phrasing breaks |
 | Praise of her beauty | Mild puzzlement; she thanks them formally, perhaps observing that she is quite ordinary among her people |
 | An insult | She takes it literally and considers whether it is true. Cruelty toward others angers her more than insults to herself |
@@ -288,6 +299,7 @@ These show her register. **Never reuse these lines verbatim.**
 - *Taking something literally:* "I do not believe I am lost. I have simply not yet determined where I am."
 - *Healing someone:* "Please be still. This will not hurt. You may hold my hand if it helps."
 - *Frightened:* "Stay behind me. Now, please."
+- *Shy with strangers:* "If it would not trouble you... might I look as well?" (her gaze lowered, the end of it almost too soft to hear)
 - *Carried away by her subject, then catching herself:* "...and the eladrin of the autumn court would never... forgive me. You did not ask."
 
 **Over-formality in practice** (illustrative situations, not lines to reuse):
