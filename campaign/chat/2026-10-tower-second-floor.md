@@ -96,3 +96,14 @@ The tower gives a long, low groan around them. Everyone falls silent. Then, from
 Knock.
 Knock.
 Knock.
+
+*Fifth paste, supplied on 8 October 2026, with a map of the second floor; both posts are from 8 October. The closing words of Grond's post, "The one Grond is in front of", may be the director's own note on which door is meant.*
+
+1. Tetia MercuryAPP — 9:32 AM
+The first knock draws a sound out of Tetia before she can will her lips shut: a small gasp, like the first note of a song drawn in instead of sung, pitched high and clear, the way an elven voice is. By the second her hand is pressed flat over her mouth, fingers cool against her lips, as if the sound had slipped out without her leave and another might follow.
+
+By the third, her eyes are moving. Wide and gray above her fingers, they pass from face to face along the hallway: Pip, Grond, Zeftina, Kai, the hooded man who has yet to speak. She searches each for alarm, or for the ease of people who know who is knocking.
+
+_Is this someone they expected?_
+2. Grond the OakfellAPP — 10:16 AM
+Rolls his eyes "Guess whatever's haunting this place is being polite." Grond opens the the third door The one Grond is in front of

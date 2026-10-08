@@ -47,9 +47,24 @@ Her free hand lifts as if to shape an answer for Kai, then settles again, and he
 
 **"I said that it may be, and I would not have you take that for more than it is: I know only what I have read of this tower, and have examined nothing here myself. But once we know for certain what is happening, I should be able to come to a sound conclusion. Or so... that is my hope."**
 
-## 2026-10-08 · Session 63 · Three knocks behind a closed door: a gasp, and she looks to the others · PENDING
+## 2026-10-08 · Session 63 · Three knocks behind a closed door: a gasp, and she looks to the others
 The first knock draws a sound out of Tetia before she can will her lips shut: a small gasp, like the first note of a song drawn in instead of sung, pitched high and clear, the way an elven voice is. By the second her hand is pressed flat over her mouth, fingers cool against her lips, as if the sound had slipped out without her leave and another might follow.
 
 By the third, her eyes are moving. Wide and gray above her fingers, they pass from face to face along the hallway: Pip, Grond, Zeftina, Kai, the hooded man who has yet to speak. She searches each for alarm, or for the ease of people who know who is knocking.
 
 _Is this someone they expected?_
+
+## 2026-10-08 · Session 63 · Grond opens the door: she feels for magic with her own inborn gift · PENDING
+Grond rolls his eyes, and that is an answer of a kind: the largest of them does not look alarmed. Inside her sabatons Tetia's toes have curled tight even so, and he is already opening the door.
+
+Whether a haunting can be polite, she does not know. Whether there is magic in it, she can find out. Her hand slips down from her lips, far enough to let her speak.
+
+**"If I may. I am able to tell whether there is magic at work near me. It touches no one. It only shows me what is there."**
+
+It is said softly, to the hallway at large. Whether that is courtesy enough, working magic unasked among people she has only just met, she cannot tell, and there is no time to ask.
+
+This is no prayer; she asks for nothing. One slow breath, and a few words of Elvish leave her, hardly louder than the breath itself. She opens her hand toward the hallway as gently as one lets go of something small and winged. What answers is already hers, born in her, as it is in her kind: old in the blood, and quiet as a pulse.
+
+Her lashes lower. Her awareness widens, the way hearing does when a room falls silent, past Grond and the door under his hand, though not so far as the stair.
+
+She holds it as she would a brimming cup, and waits for what it shows her.
