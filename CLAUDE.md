@@ -52,7 +52,7 @@ These are read in full at the start of every session:
 3. `character/bible.md`, then `character/bible-appendix.md` (the bible wins between them).
 4. The repo's lore files, then published Forgotten Realms lore.
 
-When sources disagree, follow this order and tell the director.
+When sources disagree, follow this order and tell the director. One exception: for what has happened in play since the last milestone (names she has learned, what she has said or found out), `campaign/current-state.md` is newer than the bible's in-play sections (14 and 15) and wins until the next milestone brings the bible up to date.
 
 ## Keeping the record
 **One home per fact.** Move a fact to its home; don't copy it into a second file.

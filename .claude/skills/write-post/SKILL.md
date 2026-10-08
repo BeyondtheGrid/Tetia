@@ -31,7 +31,7 @@ Skip this step if nothing new was pasted.
   - Posted as drafted: remove the `· PENDING` mark.
   - He changed it: update the entry's words to match what was posted, keep the post format's markup (copying from Discord strips bold and underscores), and remove the mark.
   - Not in the paste: leave it pending, and ask in one line after the draft whether it went up as written.
-  - No pending entry, but her post is in the paste: archive it, restoring the format's markup.
+  - No pending entry, and her post in the paste isn't archived yet: archive it, restoring the format's markup. Never add the same post twice.
 
 ## 3. Refresh the here and now
 Edit `campaign/current-state.md` in place. Keep it short.
