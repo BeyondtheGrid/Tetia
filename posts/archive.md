@@ -32,3 +32,8 @@ Her eyes go briefly to the halfling.
 **"A wizard, beyond the one who appears to stand among you? No. I have seen no one and heard no one until I found you. I believed myself alone here."** A faint crease gathers between her brows. **"Is this tower not abandoned?"**
 
 _Perhaps what I know of this place is out of date. How much else is?_
+
+## 2026-10-07 · Session 63 · Answering Pip and Grond: she welcomes the company · PENDING
+At Pip's flourish and bright greeting, the crease between Tetia's brows smooths, and her weight comes forward off her back foot. Then the orc who names himself Grond looks her over, broad as a door in battered black plate, and a small, hard swallow travels down her throat. Even so she returns Pip's bow, a shade deeper than the moment asks, her armor chiming faintly; a keen eye might find no weapon anywhere on her, only the shield on her arm.
+
+**"I am glad to meet you, Pip, since you are kind enough to offer the name; and I thank you, Grond, for yours and for so plain an answer. I am accustomed to working alone, but this tower is not deserted as I expected it to be, and I would welcome the company."**

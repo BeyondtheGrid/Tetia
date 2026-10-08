@@ -48,3 +48,19 @@ Her eyes go briefly to the halfling.
 **"A wizard, beyond the one who appears to stand among you? No. I have seen no one and heard no one until I found you. I believed myself alone here."** A faint crease gathers between her brows. **"Is this tower not abandoned?"**
 
 _Perhaps what I know of this place is out of date. How much else is?_
+
+Pippa 'Pip' Morgrin
+APP
+ — 5:54 PM
+With a flourish of her hands she offers Tetia a bright, theatrical smile. “Pippa Morgrin, you can call me Pip, a bard, occasional troublemaker, and professional appreciator of mysterious towers.” She gives a neat little bow. “It’s a pleasure to meet you, Tetia. And if you’re here to study strange voices and places where worlds get a little too close together...” Her grin widens, “...I suspect we may all have goals that are quite aligned.
+
+Grond the Oakfell
+APP
+ — 6:25 PM
+Grond looks the newcomer over, then glances toward the scaffolding she just climbed through.
+
+"Grond. We're here to clear this tower so the workers can get back to rebuilding it. Apparently, strange voices and things going bump in the night have everyone too scared to work."
+
+He looks back toward the hallway and its closed doors.
+
+"So far, we've got more questions than answers. If you're here looking for strange happenings, you've come to the right place. "
