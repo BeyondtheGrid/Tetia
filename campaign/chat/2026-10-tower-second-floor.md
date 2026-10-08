@@ -1,6 +1,6 @@
 # Discord chat: the tower's second floor and Tetia's arrival (7 October 2026, session 63)
 
-Copied exactly as the director supplied it on 7 October 2026, in two pastes. The GM's and the other players' posts are copy-pastes from Discord, so their bold, italics and underscores were lost. They carried times but no date, and are taken to be from 7 October, the day they were pasted. The director numbered the first two (1., 2.). Tetia's posts are recorded as the director posted them, with their Discord markup; their times weren't recorded.
+Copied exactly as the director supplied it on 7 October 2026, in three pastes. The GM's and the other players' posts are copy-pastes from Discord, so their bold, italics and underscores were lost. They carried times but no date, and are taken to be from 7 October, the day they were pasted. The director numbered the first two (1., 2.) and the three in the third paste (1., 2., 3.). Tetia's posts are recorded as the director posted them, with their Discord markup; the times of her first two weren't recorded.
 
 **Gap in the record:** nothing has been supplied between Pip's post of 5 October, 1:44 PM (the end of `2026-09-tower-investigation.md`, in Gallio's study) and the GM's post below. How the talk with Gallio ended and the climb up the stairs aren't on file.
 
@@ -64,3 +64,14 @@ Grond looks the newcomer over, then glances toward the scaffolding she just clim
 He looks back toward the hallway and its closed doors.
 
 "So far, we've got more questions than answers. If you're here looking for strange happenings, you've come to the right place. "
+
+1. Tetia MercuryAPP — 6:52 PM
+At Pip's flourish and bright greeting, the crease between Tetia's brows smooths, and her weight comes forward off her back foot. Then the orc who names himself Grond looks her over, broad as a door in battered black plate, and a small, hard swallow travels down her throat. Even so she returns Pip's bow, a shade deeper than the moment asks, her armor chiming faintly. A keen eye might find no weapon anywhere on Tetia: no blade, no mace, no bow, as if she either expects no danger here or has no need of steel to meet it.
+
+**"I am glad to meet you, Pip, since you are kind enough to offer the name; and I thank you, Grond, for yours and for so plain an answer. I am accustomed to working alone, but this tower is not deserted as I expected it to be, and I would welcome the company."**
+2. Zeftina BronzefellowAPP — 7:03 PM
+The magic in Zeftina's hand dissolves into a shower of bronze colored sparks as it falls from her grasp, the magic fully dissipates before touching the ground. "Excuse our suspicious nature. We are learning not to trust what we see here. So we are a bit on edge as we clear this place. I am Zeftina."
+3. Kai VancroftAPP — 7:36 PM
+"As Zeftina said, trust is in short supply here. I'm Kai. A pleasure to meet you."
+
+Kai listens for anything unusual in there surroundings before he continues. "Did you say your expertise is related to what may be happening here?"

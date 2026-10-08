@@ -33,7 +33,16 @@ Her eyes go briefly to the halfling.
 
 _Perhaps what I know of this place is out of date. How much else is?_
 
-## 2026-10-07 · Session 63 · Answering Pip and Grond: she welcomes the company · PENDING
-At Pip's flourish and bright greeting, the crease between Tetia's brows smooths, and her weight comes forward off her back foot. Then the orc who names himself Grond looks her over, broad as a door in battered black plate, and a small, hard swallow travels down her throat. Even so she returns Pip's bow, a shade deeper than the moment asks, her armor chiming faintly. A keen eye might find no weapon anywhere on her: no blade, no mace, no bow, only the shield on her arm, as if she either expects no danger here or has no need of steel to meet it.
+## 2026-10-07 · Session 63 · Answering Pip and Grond: she welcomes the company
+At Pip's flourish and bright greeting, the crease between Tetia's brows smooths, and her weight comes forward off her back foot. Then the orc who names himself Grond looks her over, broad as a door in battered black plate, and a small, hard swallow travels down her throat. Even so she returns Pip's bow, a shade deeper than the moment asks, her armor chiming faintly. A keen eye might find no weapon anywhere on Tetia: no blade, no mace, no bow, as if she either expects no danger here or has no need of steel to meet it.
 
 **"I am glad to meet you, Pip, since you are kind enough to offer the name; and I thank you, Grond, for yours and for so plain an answer. I am accustomed to working alone, but this tower is not deserted as I expected it to be, and I would welcome the company."**
+
+## 2026-10-07 · Session 63 · Acknowledging Zeftina and Kai; answering Kai on her expertise · PENDING
+The fire comes apart in bronze sparks, and Tetia's shoulders ease as she inclines her head twice, once for each name given.
+
+**"The pleasure is mine, Zeftina, Kai, and there is nothing to excuse. If what one sees here cannot be trusted, caution is no discourtesy."**
+
+Her free hand lifts as if to shape an answer for Kai, then settles again, and her voice comes slower, more careful.
+
+**"I said that it may be, and I would not have you take that for more than it is: I know only what I have been told of this tower, and have examined nothing here myself. But once we know for certain what is happening, I should be able to come to a sound conclusion."**
