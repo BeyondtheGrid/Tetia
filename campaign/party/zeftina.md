@@ -60,4 +60,5 @@
 
 ### With Tetia (milestones)
 Lasting moments between them, added by `/log-update` at milestones. How things stand right now is in the roster.
-- None yet. They first met on 7 October 2026, in the tower (`log.md`, milestone 9).
+- They first met on 7 October 2026, in the tower (`log.md`, milestone 9).
+- **7 October 2026 (session 63):** once Tetia had answered the group's questions, she let the readied spell dissolve into a shower of bronze-colored sparks, asked Tetia to excuse their suspicion ("We are learning not to trust what we see here. So we are a bit on edge as we clear this place."), and gave her name (`log.md`, milestone 10).

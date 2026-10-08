@@ -59,4 +59,5 @@
 
 ### With Tetia (milestones)
 Lasting moments between them, added by `/log-update` at milestones. How things stand right now is in the roster.
-- None yet. They first met on 7 October 2026, in the tower (`log.md`, milestone 9).
+- They first met on 7 October 2026, in the tower (`log.md`, milestone 9).
+- **7 October 2026 (session 63):** looked her over, glanced at the scaffolding she had climbed through, then gave his name and told her plainly why the group is in the tower: to clear it so the workers can get back to rebuilding it. "If you're here looking for strange happenings, you've come to the right place." Tetia thanked him for his name "and for so plain an answer" (`log.md`, milestone 10).

@@ -4,7 +4,7 @@
 
 **No mechanics here.** The director tracks her hit points, spell slots, exhaustion and conditions himself, and says how worn she is when it matters. Record her physical state only as the story shows it.
 
-**Last updated:** 7 October 2026, after Zeftina and Kai gave their names; Tetia's fourth post is drafted and pending.
+**Last updated:** 8 October 2026, at the introductions milestone (`log.md`, milestone 10; bible v1.11). Tetia's fourth post is drafted and pending.
 
 ---
 
@@ -36,18 +36,14 @@ Stays for the whole scene; change it only when the place or positions change.
 
 ### Recent beats
 The last five or so; older ones drop off as new ones arrive (the scene file keeps the exact text, the log keeps the milestones).
-- **Kai** asked how long she had been here and whether she had seen or heard a wizard downstairs among papers and books. **Tetia's second post:** she gave half a step back toward the sky, answered each part in order, and said she knew of no wizard "beyond the one who appears to stand among you," with a glance at Zeftina. She asked: "Is this tower not abandoned?"
-- **Pip** introduced herself with a flourish and a neat little bow: "Pippa Morgrin, you can call me Pip, a bard, occasional troublemaker, and professional appreciator of mysterious towers." Pleased to meet her; and if Tetia is here to study strange voices and places where worlds get too close, "I suspect we may all have goals that are quite aligned."
-- **Grond** looked her over, glanced at the scaffolding she had climbed through, and gave his name: "Grond. We're here to clear this tower so the workers can get back to rebuilding it. Apparently, strange voices and things going bump in the night have everyone too scared to work." Then, looking back at the closed doors: "So far, we've got more questions than answers. If you're here looking for strange happenings, you've come to the right place."
-- **Tetia's third post:** eased by Pip's warm greeting, though Grond's look drew a hard swallow; she returned Pip's bow, thanked them both by name, and said she is used to working alone but welcomes the company, since the tower is not deserted as she expected. The narration notes she carries no weapon.
-- **Zeftina** let her spell dissolve into bronze sparks: "Excuse our suspicious nature. We are learning not to trust what we see here. So we are a bit on edge as we clear this place. I am Zeftina."
+- **The meeting and the introductions** are in `campaign/log.md`, milestones 9 and 10: Pip, Grond, Zeftina and Kai have given their names, and Zeftina has let her spell go.
 - **Kai:** "As Zeftina said, trust is in short supply here. I'm Kai. A pleasure to meet you." He listened to their surroundings, then asked: "Did you say your expertise is related to what may be happening here?"
 - **Tetia's fourth post (drafted, pending):** her shoulders eased as the fire went out; she inclined her head once for each name, told them there was nothing to excuse, and answered Kai carefully, without promising more than she can (below).
 - **Waiting on** their answers. Everyone but Kieran has given a name. No spell is held.
 
 ## Tetia right now
 - **Body:** recovering from the climb up the scaffolding in her armor; cloak and gear road-worn; shield on her arm, lowered.
-- **Mood:** more at ease now that the fire is gone and four of the five have given names; composure holding. Still wary of Grond's size (his strength, not him). Careful not to promise more than she can deliver: she has examined nothing here yet. She is beginning to think these people may be allies, and to wonder whether what she knows of the tower is out of date.
+- **Mood:** more at ease now that the fire is gone and four of the five have given names; composure holding. Still wary of Grond's size (his strength, not him). Careful not to promise more than she can deliver: she has examined nothing here yet. She is beginning to think these people may be allies.
 - **She has told them:**
   - her name, and that she is a researcher at the court of Sarifal, in the Moonshae Isles, sent to observe the storms on this coast;
   - why the tower drew her: voices heard with no one to speak them, which can mark a place where two worlds lie close, her field;
@@ -57,8 +53,8 @@ The last five or so; older ones drop off as new ones arrive (the scene file keep
   - that she is accustomed to working alone, but welcomes their company now that the tower has proved not to be deserted;
   - (fourth post, pending) that her field may bear on what is happening here, and no more than "may": she knows only what she has been told of the tower and has examined nothing herself; once it is known for certain what is happening, she should be able to come to a sound conclusion.
 - **She has not told them:** the Sarifal Faithful or Lady Siofra; Synnoria; her faith by name; her parents; her telepathy.
-- **What she knows:** `character/bible.md` section 14 is current through her second post (bible v1.8). `/log-update` moves the lists below into the bible and `npcs.md` at the next milestone.
-  - **Learned since:** from Grond, that the tower is being rebuilt, not abandoned: strange voices and "things going bump in the night" have frightened the workers off, and his group is here to clear it so they can return. So far the group has more questions than answers. From Zeftina, that they are "learning not to trust what we see here," and are on edge as they clear the place.
+- **What she knows:** `character/bible.md` section 14 is current through the introductions (bible v1.11). `/log-update` moves the lists below into the bible and `npcs.md` at the next milestone.
+  - **Learned since:** nothing yet.
   - **People she has met** (NPCs): none yet.
   - **Settled in play** (items bible section 18 lists as open, which her posts have since settled): none.
 - **Still open about her** (don't invent): bible section 18, less anything settled above.

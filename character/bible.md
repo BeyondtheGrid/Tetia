@@ -1,4 +1,4 @@
-# Tetia Mercury — Character Bible v1.10
+# Tetia Mercury — Character Bible v1.11
 
 **Canonical character reference · D&D 2024 · Forgotten Realms · Living document**
 **Campaign:** Beyond the Dragon of Icespire Peak (Leilon, Sword Coast North)
@@ -467,6 +467,10 @@ Before writing a post, establish:
 - Moonshae and Sarifal history well.
 - **Learned in Leilon (in play, 7 October 2026):** the town's talk that Thalivar's Tower is troubled: voices are heard inside with no one there to speak them, and going in is thought foolish. From her own field she holds, as a possibility and not a finding, that such voices can mark a place where two worlds lie close together. She believed the tower abandoned.
 - **From the party's first questions (in play, 7 October 2026):** they are asking after a wizard downstairs among collections of papers and books, so the tower is not as empty as she believed. She has begun to wonder whether what she knows of the place is out of date.
+- **From the introductions (in play, 7 October 2026):**
+  - The tower is not abandoned but being rebuilt. Strange voices and "things going bump in the night" have frightened the workers off, and the group she met is there to clear it so they can return. By their own account they have more questions than answers so far (Grond).
+  - The group is "learning not to trust what we see here," and is on edge as it clears the place (Zeftina). She has not been told what they saw.
+  - Four of the five by the names they gave her: **Pip** (Pippa Morgrin, a bard; the short name at her own invitation), **Grond**, **Zeftina** and **Kai**. The fifth has not yet spoken to her, and Pip's is the only surname she has. What she knows of each of them now is in the roster in `campaign/current-state.md`.
 
 ### She does not know
 - Mortal social cues and romance; money and prices; mortal politics and trade.
@@ -505,11 +509,13 @@ Her picture of the Sword Coast comes from books and maps that may be decades out
 | Recently | Storms on the Sword Coast disrupt Moonshae trade. Tetia is sent to observe and report |
 | Campaign | She reaches the region around session 63 (early October 2026), some days before she enters play, while the party investigates Thalivar's Tower (early 1490s DR; exact year to be confirmed with the GM) |
 | 7 October 2026, session 63 | **She enters play.** The GM brings her in across the scaffolding onto the second floor of Thalivar's Tower, where she meets the party, and Zeftina challenges her with a spell readied |
+| 7 October 2026, session 63 | **The introductions.** Pip, Grond, Zeftina and Kai give her their names; she learns the tower is being rebuilt, not abandoned, and tells them she would welcome their company |
 
 ### Current campaign state
 Add dated entries only for lasting changes: injuries, bonds, promises, discoveries, relationship shifts, changed beliefs. The moment-to-moment state is in `campaign/current-state.md`.
 
-- **7 October 2026 (session 63):** in play at Thalivar's Tower. She has met the party (Kai, Kieran, Zeftina, Grond and Pippa; she knows none of their names yet) and has told them her name, her post as a researcher at Sarifal's court, and that she was sent to observe the storms. She has also told them that she reached the region some days ago, that she is here independently on her court's instruction, and that she saw and heard no one in the tower before them.
+- **7 October 2026 (session 63):** in play at Thalivar's Tower. She has met the party (Kai, Kieran, Zeftina, Grond and Pippa; she knew none of their names at first) and has told them her name, her post as a researcher at Sarifal's court, and that she was sent to observe the storms. She has also told them that she reached the region some days ago, that she is here independently on her court's instruction, and that she saw and heard no one in the tower before them.
+- **7 October 2026 (session 63), the introductions:** four of the five have given her their names (Pip, Grond, Zeftina and Kai; Kieran has not yet spoken to her). **Changed belief:** the tower is being rebuilt, not abandoned, so her picture of it was out of date. **Relationship shift:** accustomed to working alone, she has told the group she would welcome their company, and has begun to take them for allies. Whether they take her in is theirs to say.
 
 ---
 
@@ -563,6 +569,7 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 - Never let old and new canon coexist silently.
 
 ### Changelog
+- **v1.11, 8 October 2026:** The introductions (character development; `campaign/log.md`, milestone 10). Section 14: Pip, Grond, Zeftina and Kai have given her their names; from Grond, the tower is being rebuilt and its workers have been frightened off; from Zeftina, the group has learned not to trust what it sees there. Section 15: her belief that the tower was abandoned is corrected, and she has told the group she would welcome their company.
 - **v1.10, 8 October 2026:** Modesty and decorum (director), section 4. Clarification: "she never thinks to adjust her clothing for the company" meant she doesn't change what she wears for mortals; it must not be read as carelessness about decorum. She keeps a lady's propriety for its own sake (knees together, skirts smoothed and held in the wind); she responds to company when someone walks in on her changing or bathing, or she is plainly exposed; and she can feel underdressed for an occasion. A tendency, not a rule. Appendix v1.6 to match.
 - **v1.9, 7 October 2026:** Her shyness and uncertainty made explicit (director). Retcon: the *Your Name* reference took her femininity as "formal, not timid"; it now takes a polite, feminine shyness that at times comes out as timid or uncertain, because the old wording had posts showing her as poised and sure of herself among strangers, which is not who she is. Added: "shy" to her core traits; a Shyness entry in section 5; uncertainty to the Violet reference; "composure is not confidence" under stress; a shyness row in the expression guide; a shy, uncertain mode and a firmer no-stammering guardrail in section 6; a roleplay rule and a checklist question in section 13. Appendix v1.5 to match.
 - **v1.8, 7 October 2026:** New revelations from her second post (director): she reached the region some days before entering play; she chose her own way into the tower; she saw and heard no one inside before the party, and believed it abandoned. Section 14: the party's question tells her a wizard may be downstairs. Sections 15 and 18 updated to match.

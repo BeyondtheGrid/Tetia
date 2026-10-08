@@ -52,4 +52,5 @@
 
 ### With Tetia (milestones)
 Lasting moments between them, added by `/log-update` at milestones. How things stand right now is in the roster.
-- None yet. They first met on 7 October 2026, in the tower (`log.md`, milestone 9).
+- They first met on 7 October 2026, in the tower (`log.md`, milestone 9).
+- **7 October 2026 (session 63):** gave his name after Zeftina gave hers: "As Zeftina said, trust is in short supply here. I'm Kai. A pleasure to meet you." Then, after listening to their surroundings, he asked whether her expertise is related to what may be happening in the tower (`log.md`, milestone 10).

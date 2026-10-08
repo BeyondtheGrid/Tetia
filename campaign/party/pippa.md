@@ -47,4 +47,5 @@
 
 ### With Tetia (milestones)
 Lasting moments between them, added by `/log-update` at milestones. How things stand right now is in the roster.
-- None yet. They first met on 7 October 2026, in the tower (`log.md`, milestone 9).
+- They first met on 7 October 2026, in the tower (`log.md`, milestone 9).
+- **7 October 2026 (session 63):** the first of the party to give Tetia a name, with a flourish of her hands and a neat little bow: "Pippa Morgrin, you can call me Pip, a bard, occasional troublemaker, and professional appreciator of mysterious towers." She said their goals may be "quite aligned." Tetia returned the bow and took up the short name at Pip's invitation (`log.md`, milestone 10).

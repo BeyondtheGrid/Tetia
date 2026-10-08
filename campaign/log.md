@@ -80,8 +80,11 @@ Sessions are weeks of real-world posting (the GM began on 27 July 2025). Session
 ## Since Tetia arrived
 Milestones only, newest last.
 
-### 9. Tetia joins at the tower (session 63, from 7 October 2026; scene ongoing)
+### 9. Tetia joins at the tower (session 63, 7 October 2026)
 On the tower's second floor, the GM brought **Tetia** in across the scaffolding: "I was beginning to wonder if I was the only person foolish enough to come inside. I am Tetia Mercury." **Zeftina** challenged her with a fire spell readied in her hand. Tetia, frightened but composed, lowered her shield and introduced herself as a researcher at the court of Sarifal, in the Moonshae Isles, sent to observe the storms on this coast and drawn to the tower by talk of voices with no one to speak them. **Kai** asked how long she had been there and whether she had seen a wizard downstairs. She had been in the region some days, came independently on her court's instruction, and had met no one in the tower; she asked whether it was not abandoned. She knows none of their names yet. *(Bible v1.7–v1.8.)*
+
+### 10. The introductions (session 63, 7 October 2026; scene ongoing)
+Still in the second-floor hallway, the party answered her question of whom she was addressing. **Pip** was first, with a flourish and a bow, and said that if Tetia was there to study strange voices and places where worlds come too close, their goals might be "quite aligned." **Grond** gave his name and told her plainly why they were there: to clear the tower so the workers can get back to rebuilding it, since strange voices and "things going bump in the night" have frightened everyone off; so far they have more questions than answers. Tetia returned Pip's bow, thanked them both, and said she was accustomed to working alone but would welcome the company. **Zeftina** let her readied spell fall away in bronze sparks, asked Tetia to excuse the group's suspicion ("We are learning not to trust what we see here"), and gave her name. **Kai** gave his, and asked whether her expertise is related to what may be happening in the tower. **Kieran** has not yet spoken to her. For Tetia: she knows four of the five by name, knows the tower is being rebuilt and not abandoned, and has begun to take these people for allies. *(Bible v1.11.)*
 
 ---
 
@@ -129,6 +132,7 @@ On the tower's second floor, the GM brought **Tetia** in across the scaffolding:
 
 ## Open threads
 - **Gallio:** how is he inside, what is he hiding, and why has nobody else seen his work? How the talk in his study ended isn't on file.
+- **Tetia and the party:** she has said she would welcome their company. Kieran hasn't yet spoken to her, and nobody has told her anything of what the party has found.
 - The second floor: three closed doors, the doorless room, and the library.
 - The eight soldiers' packs, the clean line in the dust, and what happened to their owners.
 - The missing chamber beneath the laboratory, the fixed component, and where upstairs Elira found the disc.
