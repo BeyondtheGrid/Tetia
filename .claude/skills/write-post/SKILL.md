@@ -93,3 +93,11 @@ Count the draft's characters and words exactly with a command (save it to a scra
 - **The post inside a code block** (` ```text `), exactly as it should be pasted, so the markup survives copying.
 - Under it, one line: the exact word and character count. If it's over 2,000 characters, split it into two code blocks at a paragraph break.
 - Then at most three short lines: an assumption you made, something you flagged, a milestone worth logging, or a missing post. No commentary on the writing.
+
+## 10. Revisions
+The director asks for changes in plain words, in the same session or a later one. Don't rerun the whole skill and don't re-file the scene.
+- **Find the draft:** in this conversation, or, after a `/clear` or in a new session, the newest `· PENDING` entry in `posts/archive.md`.
+- **Change what he asked for, and only that.** Keep everything he didn't mention. If he wants a new direction ("start over: she…"), redraft from the same scene and his new goals. If he gives his own wording, use it as written, fixing only format markup.
+- **Re-count** exactly. **Re-run the checker** if the change goes beyond wording (new action, new speech, a new detail about Tetia or anyone else); for a pure wording tweak, check it yourself against the format and her recent posts.
+- **Update the record:** the pending entry in the archive, and in `current-state.md` the pending post's beat and what she has told them, if those changed. Commit and push.
+- **Hand it over** exactly as in step 9.
