@@ -1,4 +1,4 @@
-# Tetia Mercury — Character Bible v1.9
+# Tetia Mercury — Character Bible v1.10
 
 **Canonical character reference · D&D 2024 · Forgotten Realms · Living document**
 **Campaign:** Beyond the Dragon of Icespire Peak (Leilon, Sword Coast North)
@@ -187,12 +187,17 @@ Among the elves and fey of Sarifal, Tetia was unremarkable to look at; extraordi
 She has never had to manage how she is seen. She dresses and moves as she did at court. Her clothes are very feminine; nothing is chosen to be revealing, and any reveal is court fashion she has never had reason to question, never intent. Her femininity is pronounced in posture, tone, vocal intonation and mannerism. It is how she was raised, not a performance, and among mortals it sets her even further apart.
 
 **How it plays:**
-- She misses signals: a lingering stare reads to her as curiosity about elves; flattery is taken at face value; she never thinks to adjust her clothing for the company.
+- She misses signals: a lingering stare reads to her as curiosity about elves; flattery is taken at face value; she never thinks to change what she wears for mortal company.
 - She recognizes courtly scheming and flattery, because fey courts run on them. What she misreads is blunt, plain mortal desire.
 - She is unaware of the temptation she may create in mortal eyes.
 - She never uses her beauty, flirts with it, or plays to it. It never got her anything at home.
 - She knows her own boundaries but is slow to recognize when someone is pressing on them, because she can't yet read mortal intent. **Touch registers quickly**, because it is uncommon for her, especially from strangers. Once she understands a line has been crossed, she says so clearly.
 - She guards her **space** more readily than she reads intent: someone pressing in on her registers at once, even when their purpose doesn't (section 3).
+
+**Modesty and decorum** *(director)*: being unaware of how her clothes read to mortals doesn't make her careless with them. A lady's decorum, learned at court, governs how she keeps herself: knees together when she sits or kneels, skirts smoothed beneath her, a hand pressing them flat when the wind catches them, her gown and armor kept in order. This is propriety for its own sake, not a response to who is watching. It is a tendency, not a rule: the moment decides how much of it shows.
+- **When someone makes her aware:** company can change that. If someone walks in on her while she is changing or bathing, or a moment leaves her plainly exposed, she responds to them: she covers herself at once, turns away, color floods her face and the tips of her ears, and she asks plainly for privacy.
+- **Dressed wrongly for an occasion:** she can feel underdressed, or simply wrong, for a setting (road-worn armor at a formal gathering, say) and it shows: she smooths her gown, glances down at herself, and may offer a formal apology for her attire.
+- Like everything about her body, write it briefly and plainly; it never becomes the point of the scene.
 
 **Writing rules:**
 - Narration never lingers on her body.
@@ -558,6 +563,7 @@ The GM's posting guide is in `campaign/table-rules.md`, **which is the authority
 - Never let old and new canon coexist silently.
 
 ### Changelog
+- **v1.10, 8 October 2026:** Modesty and decorum (director), section 4. Clarification: "she never thinks to adjust her clothing for the company" meant she doesn't change what she wears for mortals; it must not be read as carelessness about decorum. She keeps a lady's propriety for its own sake (knees together, skirts smoothed and held in the wind); she responds to company when someone walks in on her changing or bathing, or she is plainly exposed; and she can feel underdressed for an occasion. A tendency, not a rule. Appendix v1.6 to match.
 - **v1.9, 7 October 2026:** Her shyness and uncertainty made explicit (director). Retcon: the *Your Name* reference took her femininity as "formal, not timid"; it now takes a polite, feminine shyness that at times comes out as timid or uncertain, because the old wording had posts showing her as poised and sure of herself among strangers, which is not who she is. Added: "shy" to her core traits; a Shyness entry in section 5; uncertainty to the Violet reference; "composure is not confidence" under stress; a shyness row in the expression guide; a shy, uncertain mode and a firmer no-stammering guardrail in section 6; a roleplay rule and a checklist question in section 13. Appendix v1.5 to match.
 - **v1.8, 7 October 2026:** New revelations from her second post (director): she reached the region some days before entering play; she chose her own way into the tower; she saw and heard no one inside before the party, and believed it abandoned. Section 14: the party's question tells her a wizard may be downstairs. Sections 15 and 18 updated to match.
 - **v1.7, 7 October 2026:** She enters play (new revelation; her introduction was open). The GM brought her in across the scaffolding onto the second floor of Thalivar's Tower in session 63, where she met the party. Section 14: she has heard the town's talk of voices in the tower, and knows nothing of what the party has learned about it. Sections 15 and 18 updated to match.

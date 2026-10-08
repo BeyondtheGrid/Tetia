@@ -1,5 +1,6 @@
-# Tetia Mercury — Bible Appendix v1.5
+# Tetia Mercury — Bible Appendix v1.6
 
+*v1.6 (8 October 2026): modesty and decorum (director); see bible v1.10.*
 *v1.5 (7 October 2026): shyness and uncertainty with strangers (director); see bible v1.9.*
 
 *v1.4 (5 October 2026): burden and personal space added (carrying, crowding, being grabbed).*
@@ -279,6 +280,9 @@ See `bible.md`, section 8: scaled to spell level and accumulating through the da
 | Her own failure | Composed outwardly; harsh with herself privately; she records the error in order to learn from it |
 | A gift | Deeply touched; thanks out of all proportion; may not know what to give back |
 | Bathing | Daily in natural water when possible; she seeks a private spot, as propriety requires *(lore, derived)* |
+| Wind catches her skirts | A hand presses them flat, a court reflex, as she gathers her hair; brief, and for decorum's sake, not because anyone is watching *(director)* |
+| Walked in on while changing or bathing | She covers herself at once and turns away; color floods her face and ear tips; she asks plainly for privacy. Composure, and formality, return once she is decent *(director, derived)* |
+| Dressed wrongly for an occasion | Self-conscious: she smooths her gown, glances down at herself, and may apologize formally for her attire *(director, derived)* |
 | Mortal poverty or squalor | Genuine shock; she has never seen want *(derived)* |
 | Mortal lifespans | A quiet shock she struggles to absorb *(director)* |
 
