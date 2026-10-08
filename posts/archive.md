@@ -48,7 +48,7 @@ Her free hand lifts as if to shape an answer for Kai, then settles again, and he
 **"I said that it may be, and I would not have you take that for more than it is: I know only what I have read of this tower, and have examined nothing here myself. But once we know for certain what is happening, I should be able to come to a sound conclusion. Or so... that is my hope."**
 
 ## 2026-10-08 · Session 63 · Three knocks behind a closed door: a gasp, and she looks to the others · PENDING
-The first knock draws a sound out of Tetia before she can will her lips shut: a small gasp, breathy and feminine, pitched high and clear, the way an elven voice is. By the second her hand is pressed flat over her mouth, fingers cool against her lips, as if the sound had slipped out without her leave and another might follow.
+The first knock draws a sound out of Tetia before she can will her lips shut: a small gasp, like the first note of a song drawn in instead of sung, pitched high and clear, the way an elven voice is. By the second her hand is pressed flat over her mouth, fingers cool against her lips, as if the sound had slipped out without her leave and another might follow.
 
 By the third, her eyes are moving. Wide and gray above her fingers, they pass from face to face along the hallway: Pip, Grond, Zeftina, Kai, the hooded man who has yet to speak. She searches each for alarm, or for the ease of people who know who is knocking.
 
