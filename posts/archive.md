@@ -79,7 +79,7 @@ _Silence is kept for the sake of something: what is she warding against?_
 Very still, she turns the whole of her attention on the statue, meaning to learn the answer.
 
 ## 2026-10-09 · Session 63 · The statue lets Grond pass, a page falls too loudly, and she goes in to study the stone girl · PENDING
-Grond's axe taps the stone, his question follows it, and the girl does nothing at all. A moment later Tetia's toes uncurl inside her sabatons, and the color steals back into her cheeks. Then a loose page slips from the shelves and flutters down, and the rustle of it fills the quiet.
+Tetia waits for the stone to answer the axe; when a long moment brings nothing, the fright goes out of her by degrees: the shield she has half raised sinks back to her side, her toes uncurl inside her sabatons, and the color steals back into her cheeks. Then a rustle among the shelves turns her head, and she holds there, measuring the sound against a century of turned pages.
 
 _No page falls so loudly of its own accord. Is that the thing she warns of, or the reason for her warning?_
 
