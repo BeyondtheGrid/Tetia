@@ -32,6 +32,7 @@ The project instructions load automatically at startup, including `director-pref
 8. **Format:** narration in plain text (no italics), third person, present tense; speech as bold quotes; thoughts in single underscores; telepathy in bold angle brackets; no out-of-character notes; no dice, commands or turn lines; under 2,000 characters per message.
 9. **Lore:** Forgotten Realms and campaign details are accurate.
 10. **Craft:** she reads as a person, not a list of traits; the post fits the length target; it leaves room for the other players.
+11. **No retelling:** the post doesn't re-narrate what the GM or another player already posted. A sentence that restates their events is a **must fix**; a few words that hook her reaction to an event ("at the rustle, her head turns") are fine.
 
 ## Report
 - If everything passes, say **PASS** and, at most, one optional suggestion.

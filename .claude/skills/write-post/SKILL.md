@@ -81,6 +81,7 @@ Run the bible's scene checklist (section 13): what she knows, her physical state
 - **Her magic:** divine, intimate, flowing through her body from the Earthmother; moonlight and dawn, cool water, green growth. Not arcane, never commanding.
 - **Senses and body:** draw on the appendix (senses, body states, movement) for one or two fresh, scene-specific details. Physical description serves the scene; it never reintroduces her and never lingers on her body.
 - **Others:** respond to what other PCs actually posted. Speak to them, never for them. Use only names she knows; otherwise describe them as she sees them.
+- **Don't retell the scene.** The GM's and players' posts sit right above hers, and everyone has just read them. Never open by re-narrating what they described (the axe tap, the falling page, the door opening). Touch an event only through Tetia, and only as much as her reaction needs: "at the rustle, her head turns", not "a loose page slips from the shelves and flutters down". Spend the words on what only her post can add: what she does and how, what her body shows, what she notices that others haven't, what she thinks and says.
 - **Variation:** don't reuse any feature, mannerism, image or phrase from her recent posts.
 - **Ending:** leave an opening for the others or the GM. Don't close the scene.
 - **One draft**, unless the director asked for options.
