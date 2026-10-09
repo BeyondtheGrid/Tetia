@@ -67,8 +67,8 @@ Her lashes lower. Her awareness widens, the way hearing does when a room falls s
 
 Casting Detect Magic
 
-## 2026-10-08 · Session 63 · The room alight with magic, and the statue asking for silence · PENDING
-The door swings in, and to the sense Tetia holds open the room beyond it is alight: scroll and journal and the loose scraps tucked between volumes each carry a faint glow, as a meadow carries dew at first light, little on any one blade and scarcely a blade without it.
+## 2026-10-08 · Session 63 · The room alight with magic, and the statue asking for silence
+The door swings in, and to the sense Tetia holds open, the room beyond it is alight: scroll and journal and the loose scraps tucked between volumes each carry a faint glow.
 
 _A powerful wizard indeed._
 
@@ -77,3 +77,10 @@ Then her gaze reaches the peasant girl in stone at the center of it all, one fin
 _Silence is kept for the sake of something: what is she warding against?_
 
 Very still, she turns the whole of her attention on the statue, meaning to learn the answer.
+
+## 2026-10-09 · Session 63 · The statue lets Grond pass, a page falls too loudly, and she goes in to study the stone girl · PENDING
+Grond's axe taps the stone, his question follows it, and the girl does nothing at all. A moment later Tetia's toes uncurl inside her sabatons, and the color steals back into her cheeks. Then a loose page slips from the shelves and flutters down, and the rustle of it fills the quiet.
+
+_No page falls so loudly of its own accord. Is that the thing she warns of, or the reason for her warning?_
+
+She crosses to the open door and goes in, setting each armored step down with care, and stops an arm's length from the stone girl, on the far side of her from Grond, to study her with every sense she has: the finger at her lips, the carved face, the floor about her feet.

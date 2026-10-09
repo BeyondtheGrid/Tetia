@@ -134,3 +134,28 @@ Tetia casts Detect Magic. The world changes. The old chamber remains exactly as 
 Whatever Thalivar kept in this chamber, his research was not merely academic. And beneath all those faint auras, the statue remains motionless. Its stone finger still pressed against its lips. Silent. Watching. Or perhaps simply reminding you of something.
 
 Be quiet.
+
+*Seventh paste, supplied on 9 October 2026. "Yesterday" is 8 October; the GM's post is from 9 October. Tetia's post went up a clause shorter than the draft (the meadow-and-dew comparison was cut).*
+
+1. Tetia MercuryAPP — Yesterday at 4:20 PM
+The door swings in, and to the sense Tetia holds open, the room beyond it is alight: scroll and journal and the loose scraps tucked between volumes each carry a faint glow.
+
+A powerful wizard indeed.
+
+Then her gaze reaches the peasant girl in stone at the center of it all, one finger laid to her lips, and whatever Tetia was about to tell the others goes unsaid. The asking is unmistakable; the reason for it is not.
+
+Silence is kept for the sake of something: what is she warding against?
+
+Very still, she turns the whole of her attention on the statue, meaning to learn the answer.
+2. Grond the OakfellAPP — Yesterday at 4:28 PM
+Grond stares at the seemingly useless room full of dust, books, and papers. He walks up to the statue and gives it a tap with his battleaxe.
+
+"What the fuck do you think this is all about?"
+
+He says. Out loud.
+3. Kai VancroftAPP — Yesterday at 7:41 PM
+Hearing Grond's voice seemingly echo through the room and into the hallway, "I feel fairly confident we are about to find out."
+4. Dungeon MasterAPP — 5:08 AM
+For a moment, nothing happens. The statue remains still. The peasant girl's stone finger stays pressed against her lips. 
+
+Then, somewhere among the crowded shelves, a loose sheet of parchment slips free. It flutters downward. A soft rustle. The sound seems unnaturally loud in the sudden quiet.
