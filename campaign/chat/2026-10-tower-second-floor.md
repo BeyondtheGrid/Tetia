@@ -159,3 +159,22 @@ Hearing Grond's voice seemingly echo through the room and into the hallway, "I f
 For a moment, nothing happens. The statue remains still. The peasant girl's stone finger stays pressed against her lips. 
 
 Then, somewhere among the crowded shelves, a loose sheet of parchment slips free. It flutters downward. A soft rustle. The sound seems unnaturally loud in the sudden quiet.
+
+*Eighth paste, supplied on 9 October 2026; all three posts are from 9 October. Tetia's post went up changed from the draft: the sinking shield was cut, "sabatons" became "boots", and "watching Zeftina retrieve the page" was added. No post of Zeftina's retrieving the page was in the paste.*
+
+1. Tetia MercuryAPP — 10:05 AM
+Tetia waits for the stone to answer the axe; when a long moment brings nothing, the fright goes out of her by degrees: her toes uncurl inside her boots, and the color steals back into her cheeks. Then a rustle among the shelves turns her head, and she holds there, measuring the sound against a century of turned pages watching Zeftina retrieve the page.
+
+No page falls so loudly of its own accord. Is that the thing she warns of, or the reason for her warning?
+
+She crosses to the open door and goes in, setting each armored step down with care, and stops an arm's length from the stone girl, on the far side of her from Grond, to study her with every sense she has: the finger at her lips, the carved face, the floor about her feet.
+2. Pippa 'Pip' MorgrinAPP — 10:12 AM
+Pippa watches the parchment flutter down, her eyebrows rising as Zeftina retrieves it. “Well, I suppose we should be grateful the statue has chosen literature over violence. A promising start!” She glances toward the stone girl, studying the finger pressed to her lips. “Though I do wonder whether she’s asking us to keep the volume down or to keep a secret.” A small grin tugs at her mouth as she looks to Zeftina. “What does our fallen page have to say?”
+3. Dungeon MasterAPP — 12:00 PM
+The paper that Zeftina has is written in a magical text.
+
+Tetia moves slowly around the figure, examining it from different angles. Then she sees it. A magical sigil carved into the statue's back. Or rather, what remains of one. The symbol has been vandalized. Its lines are scratched, broken, and partially gouged away, as though someone deliberately tried to destroy it without removing the stone itself.
+
+Tetia recognizes the underlying pattern. Transmutation magic. Her expression grows serious. Whatever this statue was originally meant to do, the symbol suggests it was more than a decorative sculpture. Someone had worked magic into its very form—and someone else had deliberately damaged that magic. The girl's finger remains pressed against her lips. A warning. A request. Perhaps even a command.
+
+Tetia cannot yet determine the sigil's original function, but its damaged state raises an unsettling possibility. The statue may not have been created simply to remind visitors to be quiet. It may have been doing something. And someone went to the trouble of making sure it could no longer do it properly.

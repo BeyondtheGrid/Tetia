@@ -78,9 +78,18 @@ _Silence is kept for the sake of something: what is she warding against?_
 
 Very still, she turns the whole of her attention on the statue, meaning to learn the answer.
 
-## 2026-10-09 · Session 63 · The statue lets Grond pass, a page falls too loudly, and she goes in to study the stone girl · PENDING
-Tetia waits for the stone to answer the axe; when a long moment brings nothing, the fright goes out of her by degrees: the shield she has half raised sinks back to her side, her toes uncurl inside her sabatons, and the color steals back into her cheeks. Then a rustle among the shelves turns her head, and she holds there, measuring the sound against a century of turned pages.
+## 2026-10-09 · Session 63 · The statue lets Grond pass, a page falls too loudly, and she goes in to study the stone girl
+Tetia waits for the stone to answer the axe; when a long moment brings nothing, the fright goes out of her by degrees: her toes uncurl inside her boots, and the color steals back into her cheeks. Then a rustle among the shelves turns her head, and she holds there, measuring the sound against a century of turned pages watching Zeftina retrieve the page.
 
 _No page falls so loudly of its own accord. Is that the thing she warns of, or the reason for her warning?_
 
 She crosses to the open door and goes in, setting each armored step down with care, and stops an arm's length from the stone girl, on the far side of her from Grond, to study her with every sense she has: the finger at her lips, the carved face, the floor about her feet.
+
+## 2026-10-09 · Session 63 · The broken sigil: she tells the others in a voice kept small, and wonders whom the breaking served · PENDING
+Tetia's fingertips hover just short of the stone girl's back, then close on the edge of her cloak instead. She speaks for all of them to hear and no louder, a fine, clear thread of sound, lest the room take it up and make more of it.
+
+**"There is a sigil cut into her back: transmutation, the magic that changes what a thing is, and it has been gouged and broken deliberately. What it was made to do I cannot yet tell, but I believe she was meant for more than asking, and that someone took pains to stop her."**
+
+_Whom did the breaking serve: those who lived in this tower, or those who came into it?_
+
+Her gaze slips from the ruined lines to the doorway she came in by, and back, her brows drawn together and the soft, far-off look quite gone from her face.
