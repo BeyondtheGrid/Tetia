@@ -85,7 +85,7 @@ _No page falls so loudly of its own accord. Is that the thing she warns of, or t
 
 She crosses to the open door and goes in, setting each armored step down with care, and stops an arm's length from the stone girl, on the far side of her from Grond, to study her with every sense she has: the finger at her lips, the carved face, the floor about her feet.
 
-## 2026-10-09 · Session 63 · The broken sigil: she tells the others in a voice kept small, and wonders whom the breaking served · PENDING
+## 2026-10-09 · Session 63 · The broken sigil: she tells the others in a voice kept small, and wonders whom the breaking served
 Tetia's fingertips hover just short of the stone girl's back, then close on the edge of her cloak instead. She speaks for all of them to hear and no louder, a fine, clear thread of sound, lest the room take it up and make more of it.
 
 **"There is a sigil cut into her back: transmutation, the magic that changes what a thing is, and it has been gouged and broken deliberately. What it was made to do I cannot yet tell, but I believe she was meant for more than asking, and that someone took pains to stop her."**
@@ -93,3 +93,14 @@ Tetia's fingertips hover just short of the stone girl's back, then close on the 
 _Whom did the breaking serve: those who lived in this tower, or those who came into it?_
 
 Her gaze slips from the ruined lines to the doorway she came in by, and back, her brows drawn together and the soft, far-off look quite gone from her face.
+
+## 2026-10-09 · Session 63 · She leaves the broken sigil be, answers the statue's hush, and goes to the doorless room · PENDING
+Tetia knows too little of what the sigil was made for to say whether it would be better mended; she releases her cloak, leaves the broken carving as she found it, and looks up to the crowded shelves.
+
+**"So much of it written by hand. Whoever kept all this must have given it years of devotion."**
+
+As though she has said more than this room would like, she lays a fingertip to her own lips toward the statue: the answer she has given many a hush in the libraries of home.
+
+_Then let me see what other secrets this place is keeping._
+
+One hand pressed to the fine chains at her collar to keep them from chiming, she makes for the doorless room across the hallway, nearest the scaffolding, and goes no farther than its threshold.

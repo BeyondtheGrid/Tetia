@@ -178,3 +178,20 @@ Tetia moves slowly around the figure, examining it from different angles. Then s
 Tetia recognizes the underlying pattern. Transmutation magic. Her expression grows serious. Whatever this statue was originally meant to do, the symbol suggests it was more than a decorative sculpture. Someone had worked magic into its very form—and someone else had deliberately damaged that magic. The girl's finger remains pressed against her lips. A warning. A request. Perhaps even a command.
 
 Tetia cannot yet determine the sigil's original function, but its damaged state raises an unsettling possibility. The statue may not have been created simply to remind visitors to be quiet. It may have been doing something. And someone went to the trouble of making sure it could no longer do it properly.
+
+*Ninth paste, supplied on 9 October 2026; all three posts are from 9 October. Tetia's post went up as drafted.*
+
+1. Tetia MercuryAPP — 1:04 PM
+Tetia's fingertips hover just short of the stone girl's back, then close on the edge of her cloak instead. She speaks for all of them to hear and no louder, a fine, clear thread of sound, lest the room take it up and make more of it.
+
+"There is a sigil cut into her back: transmutation, the magic that changes what a thing is, and it has been gouged and broken deliberately. What it was made to do I cannot yet tell, but I believe she was meant for more than asking, and that someone took pains to stop her."
+
+Whom did the breaking serve: those who lived in this tower, or those who came into it?
+
+Her gaze slips from the ruined lines to the doorway she came in by, and back, her brows drawn together and the soft, far-off look quite gone from her face.
+2. Zeftina BronzefellowAPP — 6:58 PM
+Zeftina huffs when she is unable to read the paper, holding it out to the others. "I can't understand this. Does anyone else want to try?"
+3. Dungeon MasterAPP — 7:39 PM
+The statue offers Tetia no answer. Its carved face remains serene, its finger forever raised to its lips.
+
+The parchment is old and brittle, its surface covered in cramped handwriting and unfamiliar symbols. Some lines appear to be written in ordinary script, while others resemble the coded notation found among Gallio's research papers. Dust clings to the edges. Whatever the page contains, it was clearly part of Thalivar's collection.
