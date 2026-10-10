@@ -16,13 +16,15 @@ Type `/write-post`, then paste:
 3. **Mechanics and results,** if any: the spell or ability and its level, how it went ("hit," "it failed the save," "she failed her save," "took 12 damage"), and how worn she is if it matters. You track her hit points, spell slots and exhaustion; Claude doesn't.
 4. **Length**, if it matters ("short, combat").
 
-Claude files the new posts, refreshes the here and now, checks for conflicts, drafts one post, has an independent checker review it, pushes the record to GitHub, and hands you the post in a code block ready to paste. Copy from the code block so the bold and underscores come through.
+Claude checks for conflicts, drafts one post, has an independent checker review it, and hands you the post in a code block ready to paste. Copy from the code block so the bold and underscores come through. **Then it saves the turn in the background** (filing the posts, updating the current state, pushing to GitHub) while you post. "Record saved." tells you it's done.
 
 Each draft is saved to her archive marked pending, and confirmed against your next paste. If you change a post before posting it, your paste shows the change; if you don't paste it, say whether it went up as written.
 
 Add "quick" to skip the independent check when you're in a hurry.
 
-**Don't like a draft?** Just say what to change, in plain words, in the same session ("warmer toward Pip", "cut the last line", "she shouldn't swallow, she's used that"). No command needed, and no need to paste the scene again. After a `/clear` or in a new session, say "revise the pending draft" and what to change. Then type `/clear` to start the next turn fresh: everything Claude needs is in the files.
+**Don't like a draft?** Just say what to change, in plain words, in the same session ("warmer toward Pip", "cut the last line", "she shouldn't swallow, she's used that"). No command needed, and no need to paste the scene again. After a `/clear` or in a new session, say "revise the pending draft" and what to change.
+
+**When you're done,** wait for "Record saved.", then type `/clear` to start the next turn fresh: everything Claude needs is in the files.
 
 ## At milestones
 Type `/log-update` when a scene ends or something lasting happens (a fight is decided, a bond, promise or discovery, a lasting injury, a new item, a level-up), or to file a GM recap, a lore post or a batch of chat. Claude writes a milestone entry, like the GM's recaps, updates her canon if something lasting changed, and pushes to GitHub. `/write-post` will tell you when a scene looks like a milestone.

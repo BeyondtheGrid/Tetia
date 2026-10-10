@@ -30,7 +30,7 @@ These are read in full at the start of every session:
 | `character/art/`, `campaign/art/` | Reference art | Only if a visual detail is in doubt (the files describe everything) |
 
 ## Commands
-- **`/write-post`**: one command per turn. Files the newly pasted posts (her last post included), refreshes the here and now, drafts her next post, has it checked, commits and pushes.
+- **`/write-post`**: one command per turn. Drafts her next post, has it checked, and hands it over; then saves the turn to the record in the background (the **record-turn** skill: files the pasted posts, confirms her last post, refreshes the here and now, commits and pushes). Wait for "Record saved." before `/clear`.
 - **`/log-update`**: milestones only (a scene ends, a fight is decided, a bond, promise or discovery, a lasting injury, a new item, a level-up), plus GM recaps, GM lore and batches of chat.
 - **continuity-check agent**: an independent check of a draft before the director posts it. `/write-post` runs it.
 
