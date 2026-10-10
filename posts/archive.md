@@ -94,8 +94,8 @@ _Whom did the breaking serve: those who lived in this tower, or those who came i
 
 Her gaze slips from the ruined lines to the doorway she came in by, and back, her brows drawn together and the soft, far-off look quite gone from her face.
 
-## 2026-10-09 · Session 63 · She leaves the broken sigil be, answers the statue's hush, and goes to the doorless room · PENDING
-Tetia knows too little of what the sigil was made for to say whether it would be better mended; she releases her cloak, leaves the broken carving as she found it, and looks up to the crowded shelves.
+## 2026-10-09 · Session 63 · She leaves the broken sigil be, answers the statue's hush, and goes to the doorless room
+Tetia knows too little of what the symbol was made for to say whether it would be better mended; she releases her cloak, leaves the broken symbol as she found it, and looks up to the crowded shelves.
 
 **"So much of it written by hand. Whoever kept all this must have given it years of devotion."**
 
@@ -104,3 +104,10 @@ As though she has said more than this room would like, she lays a fingertip to h
 _Then let me see what other secrets this place is keeping._
 
 One hand pressed to the fine chains at her collar to keep them from chiming, she makes for the doorless room across the hallway, nearest the scaffolding, and goes no farther than its threshold.
+
+## 2026-10-10 · Session 63 · A commotion down the hallway: she turns from the broken library, asks what has happened, and stops short at the red light · PENDING
+The first heavy thud breaks Tetia's study of the ruined shelves; she turns from the threshold into the hallway, plate ringing, and finds it loud with a wild fluttering of pages and blow upon blow against wood and stone.
+
+**"What has happened? What is going on?"**
+
+She asks it of whoever is near enough to answer, louder than she has spoken since the stone girl's hush, and it is scarcely out when ember-red light flares from the doorway at the hallway's far end, by the stair, and spills along the floor. She stops mid-step, so abruptly that her long sleeves swing on without her. Her brows lift, her lips part on a second question that never comes, and the wisps of hair the cold draft has blown across her cheek go unbrushed.

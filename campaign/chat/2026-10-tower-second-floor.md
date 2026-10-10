@@ -195,3 +195,41 @@ Zeftina huffs when she is unable to read the paper, holding it out to the others
 The statue offers Tetia no answer. Its carved face remains serene, its finger forever raised to its lips.
 
 The parchment is old and brittle, its surface covered in cramped handwriting and unfamiliar symbols. Some lines appear to be written in ordinary script, while others resemble the coded notation found among Gallio's research papers. Dust clings to the edges. Whatever the page contains, it was clearly part of Thalivar's collection.
+
+*Tenth paste, supplied on 10 October 2026. "Yesterday" is 9 October; the other posts are from 10 October. Tetia's post went up changed from the draft: "the sigil" and "the broken carving" both became "symbol".*
+
+1. Tetia MercuryAPP — Yesterday at 9:38 PM
+Tetia knows too little of what the symbol was made for to say whether it would be better mended; she releases her cloak, leaves the broken symbol as she found it, and looks up to the crowded shelves.
+
+"So much of it written by hand. Whoever kept all this must have given it years of devotion."
+
+As though she has said more than this room would like, she lays a fingertip to her own lips toward the statue: the answer she has given many a hush in the libraries of home.
+
+Then let me see what other secrets this place is keeping.
+
+One hand pressed to the fine chains at her collar to keep them from chiming, she makes for the doorless room across the hallway, nearest the scaffolding, and goes no farther than its threshold.
+2. Pippa 'Pip' MorgrinAPP — 1:54 AM
+Pippa’s eyes narrow at the paper in Zeftina’s hand. She tips her head, trying to catch a glimpse of the writing, a hint of a grin tugging at her lips. “I do love a scrap of paper that refuses to explain itself.”
+With a little gesture of invitation, she takes the paper and gives it a gentle puff of air, sending a small cloud of dust swirling away. She squints at the newly revealed surface, eager to see what secrets the years have left behind.
+3. Dungeon MasterAPP — 5:28 AM
+Tetia reaches the threshold. Beyond lies another library. Or what remains of one. Tall shelves stand against the surviving walls, crowded with old books and scrolls. Dust blankets the floor, and fragments of masonry litter the corners. But the room's eastern wall is entirely missing, leaving a gaping opening onto the wooden scaffolding outside. The open sky is visible beyond the broken stonework. A cold breeze drifts through the chamber, stirring loose scraps of parchment and carrying the smell of damp wood and ancient dust. The room appears to have suffered considerable structural damage. Some shelves lean precariously, while others have collapsed, spilling their contents across the floor. Another collection of Thalivar's research. Another room full of unanswered questions.
+
+Meanwhile, Pippa accepts the parchment from Zeftina with an eager smile. The little cloud of dust goes swirling away. Then she squints at the writing, turning the parchment slightly to catch the available light. For several moments, she studies the cramped script and strange symbols. Her smile gradually fades into a thoughtful frown. She turns the page one way, then the other. Then admits that she cannot read it.
+4. Kai VancroftAPP — 11:29 AM
+"So far we have a haunted tower, a lot of old books and papers, a stone girl with a sigil, and a parchment slip we cannot read."
+
+"I guess there is nothing for it but to keep moving and see if we can figure out how these things connect."
+5. Zeftina BronzefellowAPP — 11:58 AM
+Zeftina places the parchment in her bag and moves on to the door closes to the stairs and opens it. "Maybe we will find something in here."
+6. Dungeon MasterAPP — 1:00 PM
+Zeftina reaches for the handle and opens the door. Beyond lies yet another library chamber. Bookshelves line the walls, crowded with old volumes, scrolls, and journals. Dust blankets the shelves and floor, and the familiar smell of old parchment fills the air.
+
+At the center of the room stands another statue of a young girl. Like the figure in the previous chamber, she stands perfectly still. For one brief moment, the room appears as lifeless as the others. 
+
+Then Zeftina steps inside. WHAM! A book tears itself from a nearby shelf and hurtles toward her. Before she can fully react, another follows. Then another. Volumes fly through the air, their pages flapping wildly as they race toward the halfling with startling speed.
+
+The quiet library erupts into chaos. Books rip free from the shelves, spinning end over end as they launch themselves at Zeftina. One slams against the doorframe while others streak toward her from different angles. 
+
+Behind the flying books, the young girl's stone face remains expressionless. Her finger rests against her lips. Hush. But the room is anything but quiet now. Zeftina has barely crossed the threshold, and the library has already turned hostile. The books are coming straight for her!
+7. Zeftina BronzefellowAPP — 1:42 PM
+As the books rush towards Zeftina, she starts to cast a spell around her and at the completion of it, her body is covered in a faint ember red color as a warm fire shield establishes across her as she prepares for the onslaught. "Why me?"
