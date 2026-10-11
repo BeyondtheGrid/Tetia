@@ -105,9 +105,20 @@ _Then let me see what other secrets this place is keeping._
 
 One hand pressed to the fine chains at her collar to keep them from chiming, she makes for the doorless room across the hallway, nearest the scaffolding, and goes no farther than its threshold.
 
-## 2026-10-10 · Session 63 · A commotion down the hallway: she turns from the broken library, asks what has happened, and stops short at the red light · PENDING
+## 2026-10-10 · Session 63 · A commotion down the hallway: she turns from the broken library, asks what has happened, and stops short at the red light
 The first heavy thud breaks Tetia's study of the ruined shelves; she turns from the threshold into the hallway, plate ringing, and finds it loud with a wild fluttering of pages and blow upon blow against wood and stone.
 
 **"What has happened? What is going on?"**
 
-She asks it of whoever is near enough to answer, louder than she has spoken since the stone girl's hush, and it is scarcely out when ember-red light flares from the doorway at the hallway's far end, by the stair, and spills along the floor. She stops mid-step, so abruptly that her long sleeves swing on without her. Her brows lift, her lips part on a second question that never comes, and the wisps of hair the cold draft has blown across her cheek go unbrushed.
+She asks it of whoever is near enough to answer, louder than she has spoken since the stone girl's hush, and it is scarcely out when ember-red light flares from the doorway at the hallway's far end, by the stair, and spills along the floor. She stops mid-step, so abruptly that her long sleeves swing on without her.
+
+Her brows lift, her lips part on a second question that never comes, and the wisps of hair the cold draft has blown across her cheek go unbrushed.
+
+## 2026-10-11 · Session 64 · The books fall on Kai's shield: she goes back to the stone girl, kneels, and all but pleads to know what she wards against · PENDING
+Kai holds the far doorway, and Tetia has nothing to set against a library that turns on its readers, only an unproven belief: the stone girl stands guard against something, and whoever learns what may learn how to end this. On quick, small steps she hurries back to the girl with the broken symbol and sinks down behind her, kneeling back on her heels as she knelt through her years of study, her face close to the scarred stone.
+
+**"Please, tell me what it is you ward against."**
+
+She breathes the words more than speaks them, nearer to pleading than she has ever come with a thing of stone, and her eyes go over the gouged lines again and again, searching what is left of them for what was lost.
+
+_If no answer comes, I must try to restore what I meant to leave as I found it._

@@ -233,3 +233,24 @@ The quiet library erupts into chaos. Books rip free from the shelves, spinning e
 Behind the flying books, the young girl's stone face remains expressionless. Her finger rests against her lips. Hush. But the room is anything but quiet now. Zeftina has barely crossed the threshold, and the library has already turned hostile. The books are coming straight for her!
 7. Zeftina BronzefellowAPP — 1:42 PM
 As the books rush towards Zeftina, she starts to cast a spell around her and at the completion of it, her body is covered in a faint ember red color as a warm fire shield establishes across her as she prepares for the onslaught. "Why me?"
+
+*Eleventh paste, supplied on 11 October 2026, without timestamps; the director labelled the posts "Tetia:", "Kai:" and "GM:". Tetia's post went up as drafted, with one paragraph break added before "Her brows lift".*
+
+Tetia:
+The first heavy thud breaks Tetia's study of the ruined shelves; she turns from the threshold into the hallway, plate ringing, and finds it loud with a wild fluttering of pages and blow upon blow against wood and stone.
+
+"What has happened? What is going on?"
+
+She asks it of whoever is near enough to answer, louder than she has spoken since the stone girl's hush, and it is scarcely out when ember-red light flares from the doorway at the hallway's far end, by the stair, and spills along the floor. She stops mid-step, so abruptly that her long sleeves swing on without her. 
+
+Her brows lift, her lips part on a second question that never comes, and the wisps of hair the cold draft has blown across her cheek go unbrushed.
+
+Kai: 
+
+Hearing the commotion, Kai rushes to Zeftina's side. He equips his shield and follows the wall until he manages to slide into the doorway, directly in front of her. He feels the books bouncing off the metal and hears book binding thuds mixed with tearing of paper.
+
+GM:
+
+A heavy volume smashes against Kai’s shield. Another follows, striking hard enough to send a jolt through his arm. More books batter against the metal, their bindings thumping against the shield while loose pages tear free and scatter across the floor.
+
+Kai braces himself, holding the doorway. Behind him, Zeftina's fiery protection flickers in the dim light as the books continue to attack. Across the room, the statue of the young girl remains perfectly still. One finger rests against her lips. Silent. Unmoving. As though the chaos unfolding around her has nothing whatsoever to do with her.
