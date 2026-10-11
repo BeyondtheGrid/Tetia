@@ -114,11 +114,22 @@ She asks it of whoever is near enough to answer, louder than she has spoken sinc
 
 Her brows lift, her lips part on a second question that never comes, and the wisps of hair the cold draft has blown across her cheek go unbrushed.
 
-## 2026-10-11 · Session 64 · The books fall on Kai's shield: she goes back to the stone girl, kneels, and all but pleads to know what she wards against · PENDING
-Kai holds the far doorway, and Tetia has nothing to set against a library that turns on its readers, only an unproven belief: the stone girl stands guard against something, and whoever learns what may learn how to end this. On quick, small steps she hurries back to the girl with the broken symbol and sinks down behind her, kneeling back on her heels as she knelt through her years of study, her face close to the scarred stone.
+## 2026-10-11 · Session 64 · The books fall on Kai's shield: she goes back to the stone girl, kneels, and all but pleads to know what she wards against
+Kai holds the far doorway, and Tetia has nothing to set against a library that turns on its readers, only an unproven belief: the stone girl stands guard against something, and whoever learns what may learn how to end this. On quick, small steps she hurries back to the girl with the broken symbol and sinks down behind her.
 
 **"Please, tell me what it is you ward against."**
 
 She breathes the words more than speaks them, nearer to pleading than she has ever come with a thing of stone, and her eyes go over the gouged lines again and again, searching what is left of them for what was lost.
 
 _If no answer comes, I must try to restore what I meant to leave as I found it._
+
+## 2026-10-11 · Session 64 · The books fall silent: she names the stone girl as Mystra, calls the first symbol a trap sprung long ago, and makes way to the last closed door · PENDING
+The quiet reaches Tetia where she kneels; she rises and comes out along the hallway to where, from a few paces off, she can see over Kai's shoulder to the second stone girl.
+
+**"The girl is Mystra, the goddess of magic, here as there, I think. The symbol on the first was a trap of some kind, sprung long ago; her likeness here, it seems, was waiting still."**
+
+She inclines her head toward the closed door in the north wall.
+
+**"There is only that door left on this floor, I believe..."**
+
+The words trail away, and she draws back against the opposite wall, shield held close, leaving the way to it clear for bolder hands than hers.

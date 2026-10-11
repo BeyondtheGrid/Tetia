@@ -254,3 +254,34 @@ GM:
 A heavy volume smashes against Kai’s shield. Another follows, striking hard enough to send a jolt through his arm. More books batter against the metal, their bindings thumping against the shield while loose pages tear free and scatter across the floor.
 
 Kai braces himself, holding the doorway. Behind him, Zeftina's fiery protection flickers in the dim light as the books continue to attack. Across the room, the statue of the young girl remains perfectly still. One finger rests against her lips. Silent. Unmoving. As though the chaos unfolding around her has nothing whatsoever to do with her.
+
+*Twelfth paste, supplied on 11 October 2026; all posts are from 11 October. Tetia's post went up changed from the draft: the first paragraph now ends "...and sinks down behind her." (the clause about kneeling back on her heels, her face close to the scarred stone, was cut).*
+
+1. Tetia MercuryAPP — 10:48 AM
+Kai holds the far doorway, and Tetia has nothing to set against a library that turns on its readers, only an unproven belief: the stone girl stands guard against something, and whoever learns what may learn how to end this. On quick, small steps she hurries back to the girl with the broken symbol and sinks down behind her.
+
+"Please, tell me what it is you ward against."
+
+She breathes the words more than speaks them, nearer to pleading than she has ever come with a thing of stone, and her eyes go over the gouged lines again and again, searching what is left of them for what was lost.
+
+If no answer comes, I must try to restore what I meant to leave as I found it.
+2. Zeftina BronzefellowAPP — 11:27 AM
+Zeftina attempts to look around Kai's shield and send a firebolt towards the statue. "Maybe if we break the statue, the books will stop."
+3. Dungeon MasterAPP — 11:30 AM
+After the firebolt hits the statue the books all fall to the floor.
+4. Zeftina BronzefellowAPP — 11:52 AM
+Zeftina stands up straighter, looking up to Kai. "That worked far better then expected." She takes advantage of her small size and walks around Kai, entering further into the room.
+5. Pippa 'Pip' MorgrinAPP — 1:51 PM
+Pippa flinches at the sudden barrage of flying books, then watches with wide eyes as Kai plants himself between the chaos and Zeftina. ”Well, that’s one way to encourage people to read quietly.”
+The joke is barely out before Zeftina’s firebolt strikes the statue, and every book drops at once. Pippa blinks at the sudden silence, then peers into the room, her gaze traveling from the scattered volumes to the broken stone figure.
+
+Remind me never to argue with your approach to interior decorating,” she tells Zeftina, a grin tugging at her lips.
+She steps inside cautiously, careful where she puts her feet, and scans the fallen books for anything that might have survived the commotion in one piece
+”Well, let’s see what our very enthusiastic librarians were so determined to keep us from reading.”
+6. Grond the OakfellAPP — 1:53 PM
+Grond leaving the reading to the others, heads to the eastern side to a walk way of sorts looking around for anything that makes sense that isn't creepy statues and flying books
+
+*Also supplied by the director with this paste: the GM's result from the separate roll channel, answering Tetia's study of the first statue (not a story post; the GM's word, verbatim).*
+
+GM:Ronnie (DM) — 11:03 AM
+Tetia recognizes the statue as Mystra, goddess of magic. Also notices that it was a trap of some sort, but has been tripped long ago.
