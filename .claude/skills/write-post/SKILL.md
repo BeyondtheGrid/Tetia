@@ -8,7 +8,7 @@ argument-hint: "then paste the scene and your goals, in any format"
 
 **Tetia comes first.** The post must be true to her personality, voice, body and lore: the bible and appendix, already loaded in full. Everything else in this skill serves that. The scene tells you what she is responding to; the record keeps her consistent from post to post.
 
-**The post comes first, the bookkeeping after.** Draft and check the post, hand it over, and only then save the turn to the record (filing the posts, refreshing the current state, committing), in the background. The checker still runs on every post.
+**The post comes first, the bookkeeping after.** Draft and check the post, start saving the turn to the record in the background (filing the posts, refreshing the current state, committing), and end the turn with the post as your final message. The checker still runs on every post.
 
 Director's input for this post (may be empty if it's in the conversation instead):
 
@@ -68,14 +68,10 @@ Run the bible's scene checklist (section 13): what she knows, her physical state
 ## 6. Count and check
 Count the draft's characters and words exactly with a command (save it to a scratch file outside the repo and run `wc -m -w`); don't estimate. Unless the director asked for speed ("quick"), give the **continuity-check** agent: the draft; the scene; his goals (spell, level, results, how worn she is); the length target; the counts; which characters are present; and **the text of her last four posts** from step 2 (the newest as it actually went up), so it needn't read the archive. Tell it the current state is one turn behind the scene. Fix every must-fix issue; use judgment on the rest.
 
-## 7. Hand it over
-- **The post inside a code block** (` ```text `), exactly as it should be pasted, so the markup survives copying.
-- Under it, one line: the exact word and character count. If it's over 2,000 characters, split it into two code blocks at a paragraph break.
-- Then at most three short lines: an assumption you made, something you flagged, a milestone worth logging (`/log-update`), or a missing post (ask whether her last post went up as written). No commentary on the writing.
-- Last line: **"Saving the record in the background."**
+## 7. Start saving the record (background)
+**Do this before handing the post over.** Your final message must be the post itself: text written before a tool call in the same turn is shown to the director only as a summary, so the post would never reach him.
 
-## 8. Save the record in the background
-In the same message, right after handing the post over, invoke the **record-turn** skill. It runs in the background, so the turn ends as soon as it starts. It can't see this conversation, so give it everything it needs, verbatim where marked:
+Invoke the **record-turn** skill. It runs in the background and returns at once. It can't see this conversation, so give it everything it needs, verbatim where marked:
 ```
 Mode: turn
 Date and session: YYYY-MM-DD · Session NN
@@ -84,7 +80,7 @@ Her last post: posted as drafted | changed (the paste has what went up) | not in
 Milestone: no | yes (what)
 ## Pasted posts (verbatim, in order, exactly as given)
 ...
-## New draft (verbatim, with markup, exactly as handed over)
+## New draft (verbatim, with markup, exactly as you will hand it over)
 ...
 ## What changed this turn (for the current state; one line each)
 - Beats: ...
@@ -94,12 +90,18 @@ Milestone: no | yes (what)
 ```
 If nothing was pasted (a fresh draft from goals alone), leave that section empty.
 
-When it reports back, tell the director in one line: "Record saved." or what failed. **Before he types `/clear`, the record must be saved**: if he asks to clear early, tell him to wait for that line.
+## 8. Hand it over (your final message, with no tool calls after it)
+- **The post inside a code block** (` ```text `), exactly as it should be pasted, so the markup survives copying.
+- Under it, one line: the exact word and character count. If it's over 2,000 characters, split it into two code blocks at a paragraph break.
+- Then at most three short lines: an assumption you made, something you flagged, a milestone worth logging (`/log-update`), or a missing post (ask whether her last post went up as written). No commentary on the writing.
+- Last line: **"Saving the record in the background."**
+
+When record-turn reports back, answer in one line: "Record saved." or what failed. Don't repeat the post. **Before he types `/clear`, the record must be saved**: if he asks to clear early, tell him to wait for that line. If he says he can't see the post, give it to him again in full, as in this step.
 
 ## 9. Revisions
 The director asks for changes in plain words, in the same session or a later one. Don't rerun the whole skill and don't re-file the scene.
 - **Find the draft:** in this conversation, or, after a `/clear` or in a new session, the newest `· PENDING` entry in `posts/archive.md`.
 - **Change what he asked for, and only that.** Keep everything he didn't mention. If he wants a new direction ("start over: she…"), redraft from the same scene and his new goals. If he gives his own wording, use it as written, fixing only format markup.
 - **Re-count** exactly. **Re-run the checker** if the change goes beyond wording (new action, new speech, a new detail about Tetia or anyone else); for a pure wording tweak, check it yourself against the format and her recent posts.
-- **Hand it over** exactly as in step 7.
-- **Then save it in the background:** if an earlier record save from this session hasn't reported back yet, wait for it first. Invoke **record-turn** with `Mode: revision`, the revised post verbatim, and one line on anything that changes what she has said or done this turn.
+- **Start the save first:** if an earlier record save from this session hasn't reported back yet, wait for it. Then invoke **record-turn** with `Mode: revision`, the revised post verbatim, and one line on anything that changes what she has said or done this turn.
+- **Then hand it over as your final message**, exactly as in step 8.
