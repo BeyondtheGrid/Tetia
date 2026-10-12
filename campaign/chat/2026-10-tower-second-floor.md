@@ -285,3 +285,28 @@ Grond leaving the reading to the others, heads to the eastern side to a walk way
 
 GM:Ronnie (DM) — 11:03 AM
 Tetia recognizes the statue as Mystra, goddess of magic. Also notices that it was a trap of some sort, but has been tripped long ago.
+
+*Thirteenth paste, supplied on 12 October 2026; posts 1 to 4 are from 11 October, posts 5 and 6 from 12 October. Tetia's post is filed as pasted: it has no opening narration paragraph ("The quiet reaches Tetia where she kneels...") and reads "The symbol on the was a trap" (the word "first" missing). The director has been asked whether the full version went up.*
+
+1. Tetia MercuryAPP — Yesterday at 2:39 PM
+"The girl is Mystra, the goddess of magic, here as there, I think. The symbol on the was a trap of some kind, sprung long ago; her likeness here, it seems, was waiting still."
+
+She inclines her head toward the closed door in the north wall.
+
+"There is only that door left on this floor, I believe..."
+
+The words trail away, and she draws back against the opposite wall, shield held close, leaving the way to it clear for bolder hands than hers.
+2. Kai VancroftAPP — Yesterday at 3:08 PM
+Kai secures his shield on his back. "I'm glad that worked." Kai follows Zeftina inside.
+3. Dungeon MasterAPP — Yesterday at 5:51 PM
+Grond leaves the investigation of the books to the others and heads toward the eastern side of the tower, where a narrow walkway leads into another chamber. He discovers yet another library room, its entire eastern wall missing and replaced by scaffolding erected for the ongoing repairs. Unlike the previous chambers, this one contains no statue—only damaged shelves, scattered debris, and the remnants of what was once a place of study.
+
+Inside the library, Zeftina and Kai find no immediate sign of danger. There are no strange figures lurking between the shelves, no whispering voices, and no obvious mechanism responsible for the earlier assault. Only books and scrolls cover the floor, their pages overlapping in a disordered sea of forgotten research.
+4. Kai VancroftAPP — Yesterday at 8:53 PM
+Now that the threat of the flying books has passed, Kai begins to mentally catch up with what Tetia said. "Mystra? What is a symbol of the goddess of magic doing here?"
+5. Kieran ThalorrAPP — 7:33 AM
+Kieran follows Grond as well, in case there are any more traps. He looks up at the scaffolding and whistles.
+
+“They’re really committed to fixing this place. I wonder if any of these books are any good.”
+6. Grond the OakfellAPP — 9:14 AM
+"If you ask me be better if we just tore the whole thing down and started from scratch. Minus the creepy statues."
