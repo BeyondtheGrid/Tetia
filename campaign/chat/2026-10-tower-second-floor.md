@@ -310,3 +310,24 @@ Kieran follows Grond as well, in case there are any more traps. He looks up at t
 “They’re really committed to fixing this place. I wonder if any of these books are any good.”
 6. Grond the OakfellAPP — 9:14 AM
 "If you ask me be better if we just tore the whole thing down and started from scratch. Minus the creepy statues."
+
+*Fourteenth paste, supplied on 12 October 2026; all three posts are from 12 October.*
+
+1. Tetia MercuryAPP — 10:13 AM
+Kai's question finds Tetia still against the hallway wall, and she is a moment in answering.
+
+"I do not know, Kai; a wizard might well keep her image close, but why it should be made a trap, I cannot say."
+
+No one has come for the last door; she looks across at it, and a swallow moves in her slender throat.
+
+I cannot write that there was one door more, and that I left it shut.
+
+She crosses to it, tall and narrow-shouldered beneath cloak and plate, the daylight from the hallway's open end showing rose through the tip of one long ear. Her pale, tapered fingers close on the handle; shield raised before her, she tries it and leans her slight weight against the wood, her eyes on the seam where door meets frame.
+2. Dungeon MasterAPP — 10:33 AM
+The door opens.
+
+Beyond lies yet another library chamber. Bookshelves line the walls, crowded with forgotten volumes, and a stone statue stands among them, its silent presence watching over the room.
+
+Another library. Another statue.
+3. Kai VancroftAPP — 12:33 PM
+"I'll have my shield ready."

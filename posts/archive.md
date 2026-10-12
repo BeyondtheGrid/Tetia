@@ -132,7 +132,7 @@ She inclines her head toward the closed door in the north wall.
 
 The words trail away, and she draws back against the opposite wall, shield held close, leaving the way to it clear for bolder hands than hers.
 
-## 2026-10-12 · Session 64 · No one comes for the last door: she answers Kai that she does not know why Mystra's image is here, steels herself, and tries the north door · PENDING
+## 2026-10-12 · Session 64 · No one comes for the last door: she answers Kai that she does not know why Mystra's image is here, steels herself, and tries the north door
 Kai's question finds Tetia still against the hallway wall, and she is a moment in answering.
 
 **"I do not know, Kai; a wizard might well keep her image close, but why it should be made a trap, I cannot say."**
@@ -142,3 +142,12 @@ No one has come for the last door; she looks across at it, and a swallow moves i
 _I cannot write that there was one door more, and that I left it shut._
 
 She crosses to it, tall and narrow-shouldered beneath cloak and plate, the daylight from the hallway's open end showing rose through the tip of one long ear. Her pale, tapered fingers close on the handle; shield raised before her, she tries it and leans her slight weight against the wood, her eyes on the seam where door meets frame.
+
+## 2026-10-12 · Session 64 · The north door opens on another library and another statue: she steps a pace inside, admires the years behind it, tells the others it is much like the rest, and asks what they found on the floor below · PENDING
+Tetia takes Kai at his word and steps over the threshold, though only a pace, and her eyes, gray touched with hazel under dark lashes, travel the shelves to the statue and back.
+
+_A fourth room of it, every shelf full: how many patient years went into this?_
+
+She turns back toward the hallway, silver hair swaying almost to the backs of her knees and the tip of her small nose pink with cold, and the pointed toes of her sabatons turn in toward each other before she can bring herself to speak.
+
+**"It is much as the others were, shelves and a statue. Did you find anything on the floor below, when you came up? Perhaps there are more answers on the floors above."**
