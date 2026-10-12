@@ -148,6 +148,6 @@ Tetia takes Kai at his word and steps over the threshold, though only a pace, an
 
 _A fourth room of it, every shelf full: how many patient years went into this?_
 
-She turns back toward the hallway, silver hair swaying almost to the backs of her knees and the tip of her small nose pink with cold, and the pointed toes of her sabatons turn in toward each other before she can bring herself to speak.
+She turns back toward the hallway, silver hair swaying and the tip of her small nose pink with cold, the pointed toes of her boots turning in toward each other. Her lips part, and for a moment she only waits, half expecting some ghostly ambush; none comes, and the words do.
 
 **"It is much as the others were, shelves and a statue. Did you find anything on the floor below, when you came up? Perhaps there are more answers on the floors above."**
