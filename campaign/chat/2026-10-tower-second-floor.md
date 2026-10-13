@@ -368,3 +368,8 @@ Amid the destruction, signs of more recent activity remain. Picks and shovels li
 The tower is silent here. No flying books, no sudden movements—only the cold, oppressive weight of the collapsed floor.
 
 If the soldiers were trying to uncover something, their work remains unfinished.
+
+*Seventeenth paste, supplied on 13 October 2026. The post is from 13 October.*
+
+1. Kieran ThalorrAPP — 12:26 PM
+Kieran eyes the scattered pickaxes and tools. "Maybe there's another way up there? Honestly, they were just asking for an avalanche of stone if they hit wrong anyway. I'm guessing these guys are not part of the Laborer's Guild... We should look around for clues and then find another way up." Kieran begins scanning the walls and the debris for any signs of attack or anything out of the ordinary.

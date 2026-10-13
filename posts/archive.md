@@ -159,11 +159,11 @@ It would not do to let Zeftina go up alone. Tetia leaves the third statue to its
 
 _I hope she does not mind the noise of me._
 
-## 2026-10-13 · Session 64 · The stair ends in a collapsed floor: she stops on the last clear step, finds no account of the ruin, wonders in thought whether a study of magic went wrong, and says she could move very little of it but wonders what lies beneath · PENDING
-Tetia stops on the last clear step with her breath held, hushed as one is at the edge of a field when the fighting is only just over; she has read of such stillness, and never stood in it. She looks for the how and the why among the dropped picks and in the heaped stone, and none of it will tell her.
+## 2026-10-13 · Session 64 · Kieran says to look for another way up: she agrees it may have to be the scaffolding she came in by, uneasy at climbing higher on it, starts back down the stair to clear the view, and asks whether anyone has a map of the tower or knows what was kept on the floor above · PENDING
+Tetia sees that the stair will take them no higher and turns to the man in the green hood, her free hand already flat against the cold stone of the wall, as it was out on the platform.
 
-_What could bring a whole floor down upon itself? Some study of magic, gone badly wrong?_
+**"I think you are right; it may have to be the scaffolding I came in by. It is unfinished, I did not find it steady, and we would be climbing higher still."**
 
-**"I am afraid I could move very little of this myself... but I do wonder what lies beneath it still, and whether those who dug here hoped to reach it."**
+She sets each word down exactly, and still her voice comes out smaller than she would like. She starts back down, so that no one need look past her at the rubble, and from a little way below she looks up again.
 
-She says it low, for Zeftina and anyone on the stair behind.
+**"Might any of you have a map of the tower, or know what was kept on the floor above?"**
