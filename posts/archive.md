@@ -152,8 +152,8 @@ She turns back toward the hallway, silver hair swaying and the tip of her small 
 
 **"It is much as the others were, shelves and a statue. Did you find anything on the floor below, when you came up? Perhaps there are more answers on the floors above."**
 
-## 2026-10-13 · Session 64 · Zeftina takes the stair: she leaves the third statue to its shelves, gathers her skirts and follows a few steps behind, asking if she may come up with her · PENDING
-It would not do to let Zeftina go up alone. Tetia leaves the third statue to its shelves, gathers her skirts in her free hand and follows her onto the stair, a few steps behind, each tread drawing a small clink from her greaves however softly she sets her feet.
+## 2026-10-13 · Session 64 · Zeftina takes the stair: she leaves the third statue to its shelves and follows a few steps behind, asking if she may come up with her · PENDING
+It would not do to let Zeftina go up alone. Tetia leaves the third statue to its shelves and follows her onto the stair, a few steps behind, each tread drawing a small, silvery clink from her greaves and a faint chime from the pearls and fine gold chains she wears, however softly she sets her feet.
 
 **"Zeftina, if I may, I will come up with you."**
 
