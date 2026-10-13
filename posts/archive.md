@@ -143,7 +143,7 @@ _I cannot write that there was one door more, and that I left it shut._
 
 She crosses to it, tall and narrow-shouldered beneath cloak and plate, the daylight from the hallway's open end showing rose through the tip of one long ear. Her pale, tapered fingers close on the handle; shield raised before her, she tries it and leans her slight weight against the wood, her eyes on the seam where door meets frame.
 
-## 2026-10-12 · Session 64 · The north door opens on another library and another statue: she steps a pace inside, admires the years behind it, tells the others it is much like the rest, and asks what they found on the floor below · PENDING
+## 2026-10-12 · Session 64 · The north door opens on another library and another statue: she steps a pace inside, admires the years behind it, tells the others it is much like the rest, and asks what they found on the floor below
 Tetia takes Kai at his word and steps over the threshold, though only a pace, and her eyes, gray touched with hazel under dark lashes, travel the shelves to the statue and back.
 
 _A fourth room of it, every shelf full: how many patient years went into this?_
@@ -151,3 +151,10 @@ _A fourth room of it, every shelf full: how many patient years went into this?_
 She turns back toward the hallway, silver hair swaying and the tip of her small nose pink with cold, the pointed toes of her boots turning in toward each other. Her lips part, and for a moment she only waits, half expecting some ghostly ambush; none comes, and the words do.
 
 **"It is much as the others were, shelves and a statue. Did you find anything on the floor below, when you came up? Perhaps there are more answers on the floors above."**
+
+## 2026-10-13 · Session 64 · Zeftina takes the stair: she leaves the third statue to its shelves, gathers her skirts and follows a few steps behind, asking if she may come up with her · PENDING
+It would not do to let Zeftina go up alone. Tetia leaves the third statue to its shelves, gathers her skirts in her free hand and follows her onto the stair, a few steps behind, each tread drawing a small clink from her greaves however softly she sets her feet.
+
+**"Zeftina, if I may, I will come up with you."**
+
+_I hope she does not mind the noise of me._

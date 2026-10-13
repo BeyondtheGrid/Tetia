@@ -331,3 +331,18 @@ Beyond lies yet another library chamber. Bookshelves line the walls, crowded wit
 Another library. Another statue.
 3. Kai VancroftAPP — 12:33 PM
 "I'll have my shield ready."
+
+*Fifteenth paste, supplied on 13 October 2026. "Yesterday at 2:13 PM" is 12 October; the GM's and Zeftina's posts are from 13 October.*
+
+1. Tetia MercuryAPP — Yesterday at 2:13 PM
+Tetia takes Kai at his word and steps over the threshold, though only a pace, and her eyes, gray touched with hazel under dark lashes, travel the shelves to the statue and back.
+
+A fourth room of it, every shelf full: how many patient years went into this?
+
+She turns back toward the hallway, silver hair swaying and the tip of her small nose pink with cold, the pointed toes of her boots turning in toward each other. Her lips part, and for a moment she only waits, half expecting some ghostly ambush; none comes, and the words do.
+
+"It is much as the others were, shelves and a statue. Did you find anything on the floor below, when you came up? Perhaps there are more answers on the floors above."
+2. Dungeon MasterAPP — 5:41 AM
+The room offers no immediate threat, but the pattern is becoming difficult to ignore. Another library. Another statue. And still, the purpose behind Thalivar’s strange collection remains a mystery.
+3. Zeftina BronzefellowAPP — 9:03 AM
+Zeftina looks around the room she was barraged with books and picks up a couple of the volumes, placing them in her bag. "This is so strange. Perhaps Gallio can make heads or tails of these writings." She makes her way back to the spiral staircase and ascends.
