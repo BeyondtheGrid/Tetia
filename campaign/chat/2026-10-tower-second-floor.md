@@ -346,3 +346,25 @@ She turns back toward the hallway, silver hair swaying and the tip of her small 
 The room offers no immediate threat, but the pattern is becoming difficult to ignore. Another library. Another statue. And still, the purpose behind Thalivar’s strange collection remains a mystery.
 3. Zeftina BronzefellowAPP — 9:03 AM
 Zeftina looks around the room she was barraged with books and picks up a couple of the volumes, placing them in her bag. "This is so strange. Perhaps Gallio can make heads or tails of these writings." She makes her way back to the spiral staircase and ascends.
+
+*Sixteenth paste, supplied on 13 October 2026. All three posts are from 13 October.*
+
+1. Tetia MercuryAPP — 9:37 AM
+It would not do to let Zeftina go up alone. Tetia leaves the third statue to its shelves and follows her onto the stairs, a few steps behind, each tread drawing a small, silvery clink from her greaves, however softly she sets her feet.
+
+"Zeftina, if I may, I will come up with you."
+
+I hope she does not mind the noise of me.
+2. Pippa 'Pip' MorgrinAPP — 9:47 AM
+Pippa watches Zeftina pack a couple of volumes, frowning thoughtfully. She can't recall anyone they've spoken to mentioning flying books or multiple copies of the same statue. “Funny what people leave out when telling you about a place, isn't it?”
+As Tetia follows Zeftina up the spiral stairs, she falls in behind them. The silvery clink of Tetia's greaves catches her ear, and a little tune begins to take shape in her mind. A little percussion, a touch of mystery... She files the idea away for later, casting one last wary glance at the statue before following the others upstairs.
+3. Dungeon MasterAPP — 10:30 AM
+The party continues upward, following the winding stone staircase toward the next floor of Thalivar’s Tower. But as they ascend, the passage grows increasingly obstructed by broken stone and splintered timbers.
+
+At the top, they discover that the rooms above have collapsed entirely. Rubble chokes the floor from wall to wall, piled so high that it reaches the ceiling in places. Whatever chambers once occupied this level are now buried beneath tons of shattered masonry.
+
+Amid the destruction, signs of more recent activity remain. Picks and shovels lie scattered across the rubble, abandoned where they fell. The tools suggest that the soldiers had begun clearing the debris, perhaps hoping to reach whatever lies beyond, before something drove them to flee.
+
+The tower is silent here. No flying books, no sudden movements—only the cold, oppressive weight of the collapsed floor.
+
+If the soldiers were trying to uncover something, their work remains unfinished.

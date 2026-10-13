@@ -152,9 +152,18 @@ She turns back toward the hallway, silver hair swaying and the tip of her small 
 
 **"It is much as the others were, shelves and a statue. Did you find anything on the floor below, when you came up? Perhaps there are more answers on the floors above."**
 
-## 2026-10-13 · Session 64 · Zeftina takes the stair: she leaves the third statue to its shelves and follows a few steps behind, asking if she may come up with her · PENDING
-It would not do to let Zeftina go up alone. Tetia leaves the third statue to its shelves and follows her onto the stair, a few steps behind, each tread drawing a small, silvery clink from her greaves and a faint chime from the pearls and fine gold chains she wears, however softly she sets her feet.
+## 2026-10-13 · Session 64 · Zeftina takes the stair: she leaves the third statue to its shelves and follows a few steps behind, asking if she may come up with her
+It would not do to let Zeftina go up alone. Tetia leaves the third statue to its shelves and follows her onto the stairs, a few steps behind, each tread drawing a small, silvery clink from her greaves, however softly she sets her feet.
 
 **"Zeftina, if I may, I will come up with you."**
 
 _I hope she does not mind the noise of me._
+
+## 2026-10-13 · Session 64 · The stair ends in a collapsed floor: she stops on the last clear step, finds no account of the ruin, wonders in thought whether a study of magic went wrong, and says she could move very little of it but wonders what lies beneath · PENDING
+Tetia stops on the last clear step with her breath held, hushed as one is at the edge of a field when the fighting is only just over; she has read of such stillness, and never stood in it. She looks for the how and the why among the dropped picks and in the heaped stone, and none of it will tell her.
+
+_What could bring a whole floor down upon itself? Some study of magic, gone badly wrong?_
+
+**"I am afraid I could move very little of this myself... but I do wonder what lies beneath it still, and whether those who dug here hoped to reach it."**
+
+She says it low, for Zeftina and anyone on the stair behind.
