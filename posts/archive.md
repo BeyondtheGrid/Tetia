@@ -177,8 +177,8 @@ When she looks up, Zeftina is carrying stone and Grond is gray with its dust, wh
 
 With a soft word that she will be just below, she goes down and along the hallway toward the scaffolding, smooths her skirts, and kneels back on her heels a few paces short of the open sky.
 
-Her fingertips find the blue gem at her collar, and her lips move on a long, unhurried prayer in Elvish; warmth gathers beneath her breastbone, and a breath of wind slips in to stir her hem and touch her face, smelling for a moment of green and growing things where Leilon smells only of mud and smoke.
+Her fingertips find the blue gem at her collar, and her lips move on a long, unhurried prayer in Elvish; warmth gathers beneath her breastbone, and the wind comes in off the open sky as if called, filling her cloak, setting her long sleeves and the sheer train behind her streaming, and blowing cool against her face, tugging fine strands loose from her pins.
 
 The prayer draws deep, a fine sheen rising at her hairline and her fingers not quite steady on the gem, before at last she asks, in the same tongue.
 
-**"Earthmother, if the stone above is cleared away, what will be found beneath its weight?"**
+**"Spirits of earth and air, who have answered my people of old, I beseech you to answer me as well: if the stone above is cleared away, what will be found beneath its weight?"**
