@@ -159,11 +159,26 @@ It would not do to let Zeftina go up alone. Tetia leaves the third statue to its
 
 _I hope she does not mind the noise of me._
 
-## 2026-10-13 · Session 64 · Kieran says to look for another way up: she agrees it may have to be the scaffolding she came in by, uneasy at climbing higher on it, starts back down the stair to clear the view, and asks whether anyone has a map of the tower or knows what was kept on the floor above · PENDING
-Tetia sees that the stair will take them no higher and turns to the man in the green hood, her free hand already flat against the cold stone of the wall, as it was out on the platform.
+## 2026-10-13 · Session 64 · Kieran says to look for another way up: she agrees it may have to be the scaffolding she came in by, uneasy at climbing higher on it, starts back down the stair to clear the view, and asks whether anyone has a map of the tower or knows what was kept on the floor above
+Tetia sees that the stair will take them no higher, her free hand already flat against the cold stone of the wall, as it was out on the platform.
 
 **"I think you are right; it may have to be the scaffolding I came in by. It is unfinished, I did not find it steady, and we would be climbing higher still."**
 
 She sets each word down exactly, and still her voice comes out smaller than she would like. She starts back down, so that no one need look past her at the rubble, and from a little way below she looks up again.
 
 **"Might any of you have a map of the tower, or know what was kept on the floor above?"**
+
+## 2026-10-14 · Session 64 · Grond digs out a buried hallway: idle-handed among the workers, she goes down to the open end of the hall by the scaffolding, kneels, and prays to ask what will be found beneath the stone · PENDING
+The pick has been ringing for a long while, and Tetia has spent it turning the pieces over: a sigil gouged away, Mystra twice over in stone bidding them hush, a collection steeped in magic down to its last scrap, and diggers who left their tools where they fell.
+
+_What were they so set on reaching?_
+
+When she looks up, Zeftina is carrying stone and Grond is gray with its dust, while her own hands lie folded at her waist, idle and spotless, and color creeps into her cheeks.
+
+With a soft word that she will be just below, she goes down and along the hallway toward the scaffolding, smooths her skirts, and kneels back on her heels a few paces short of the open sky.
+
+Her fingertips find the blue gem at her collar, and her lips move on a long, unhurried prayer in Elvish; warmth gathers beneath her breastbone, and a breath of wind slips in to stir her hem and touch her face, smelling for a moment of green and growing things where Leilon smells only of mud and smoke.
+
+The prayer draws deep, a fine sheen rising at her hairline and her fingers not quite steady on the gem, before at last she asks, in the same tongue.
+
+**"Earthmother, if the stone above is cleared away, what will be found beneath its weight?"**

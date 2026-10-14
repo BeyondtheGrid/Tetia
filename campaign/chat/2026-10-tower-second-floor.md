@@ -373,3 +373,36 @@ If the soldiers were trying to uncover something, their work remains unfinished.
 
 1. Kieran ThalorrAPP — 12:26 PM
 Kieran eyes the scattered pickaxes and tools. "Maybe there's another way up there? Honestly, they were just asking for an avalanche of stone if they hit wrong anyway. I'm guessing these guys are not part of the Laborer's Guild... We should look around for clues and then find another way up." Kieran begins scanning the walls and the debris for any signs of attack or anything out of the ordinary.
+
+*Eighteenth paste, supplied on 14 October 2026. "Yesterday" is 13 October; the posts at 5:54 AM, 6:19 AM and 9:07 AM are from 14 October.*
+
+1. Tetia MercuryAPP — Yesterday at 12:58 PM
+Tetia sees that the stair will take them no higher, her free hand already flat against the cold stone of the wall, as it was out on the platform.
+
+"I think you are right; it may have to be the scaffolding I came in by. It is unfinished, I did not find it steady, and we would be climbing higher still."
+
+She sets each word down exactly, and still her voice comes out smaller than she would like. She starts back down, so that no one need look past her at the rubble, and from a little way below she looks up again.
+
+"Might any of you have a map of the tower, or know what was kept on the floor above?"
+2. Dungeon MasterAPP — Yesterday at 2:46 PM
+Grond sets to work, driving the pick into the broken masonry and levering loose chunks of stone from the heap. Each strike echoes through the ruined floor, sending small fragments tumbling down the pile. Dust rises into the air, coating his armor and clinging to his clothes.
+
+The work is slow and laborious. Some stones shift easily, while others remain stubbornly wedged together beneath the weight of the collapsed ceiling. Still, with every piece removed, a little more of the buried floor becomes visible.
+
+The abandoned tools suggest the soldiers had begun this very task before fleeing. Whatever frightened them away, the rubble remains—and Grond seems more than happy to tackle it head-on.
+
+As the others watch, the question hangs over the party: what were the soldiers trying so desperately to uncover?
+
+Grond makes progress clearing the rubble and finds a hallway.
+3. Grond the OakfellAPP — Yesterday at 2:59 PM
+Looks at the pike " I might start using this the next scrap we get into. Pretty fucking effective."
+4. Kai VancroftAPP — 5:54 AM
+"Nothing better than a free useful weapon."
+5. Dungeon MasterAPP — 6:19 AM
+With that, Grond returns to work, swinging the pick into the rubble and prying loose stones from the collapsed passage. The others remain nearby, watching his progress and keeping an eye out for anything unusual. Strike by strike, the obstruction begins to give way. Stones tumble aside, dust billows around Grond's boots, and a narrow passage gradually emerges from beneath the debris.
+
+Before long, he has cleared enough rubble to reveal the outline of a hallway leading deeper into the tower. Its far end remains buried beneath fallen stone, but there is now a clear indication that a passage once continued beyond the collapse.
+
+The soldiers had been trying to reach something beyond this rubble—and thanks to Grond's determination, the party is finally getting closer.
+6. Zeftina BronzefellowAPP — 9:07 AM
+Zeftina helps clear away any rubble that she can carry.
