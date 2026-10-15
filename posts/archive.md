@@ -168,17 +168,26 @@ She sets each word down exactly, and still her voice comes out smaller than she 
 
 **"Might any of you have a map of the tower, or know what was kept on the floor above?"**
 
-## 2026-10-14 · Session 64 · Grond digs out a buried hallway: idle-handed among the workers, she goes down to the open end of the hall by the scaffolding, kneels, and prays to ask what will be found beneath the stone · PENDING
+## 2026-10-14 · Session 64 · Grond digs out a buried hallway: idle-handed among the workers, she goes a little way down the hallway toward the scaffolding, kneels, and prays to ask what will be found beneath the stone
 The pick has been ringing for a long while, and Tetia has spent it turning the pieces over: a sigil gouged away, Mystra twice over in stone bidding them hush, a collection steeped in magic down to its last scrap, and diggers who left their tools where they fell.
 
 _What were they so set on reaching?_
 
-When she looks up, Zeftina is carrying stone and Grond is gray with its dust, while her own hands lie folded at her waist, idle and spotless, and color creeps into her cheeks.
+When she looks up, Zeftina is carrying stone, and Grond is gray with its dust, while her own hands lie folded at her waist, idle and spotless, and color creeps into her cheeks.
 
-With a soft word that she will be just below, she goes down and along the hallway toward the scaffolding, smooths her skirts, and kneels back on her heels a few paces short of the open sky.
+With a soft word that she will be just down the hallway toward the scaffolding, she smooths her skirt, and kneels back on her heels a few paces short of the open sky.
 
-Her fingertips find the blue gem at her collar, and her lips move on a long, unhurried prayer in Elvish; warmth gathers beneath her breastbone, and the wind comes in off the open sky as if called, filling her cloak, setting her long sleeves and the sheer train behind her streaming, and blowing cool against her face, tugging fine strands loose from her pins.
+Her fingertips find the blue gem at her collar, and her lips begin to move on a long, unhurried prayer in Elvish; warmth gathers beneath her breastbone, and the wind comes in off the open sky as if called, filling her cloak, and bringing light animation to her clothing, and blowing cool against her face, tugging fine strands loose from her pins.
 
 The prayer draws deep, a fine sheen rising at her hairline and her fingers not quite steady on the gem, before at last she asks, in the same tongue.
 
-**"Spirits of earth and air, who have answered my people of old, I beseech you to answer me as well: if the stone above is cleared away, what will be found beneath its weight?"**
+**"Spirits of earth and air, fulfill the ancient pact and fulfill your duty to me; I beseech you to answer me as well: if the stone above is cleared away, what will be found beneath its weight?"**
+
+## 2026-10-15 · Session 64 · The answer comes, the wizard's bedchamber: she rises unsteady from her prayer, tells the others what she was answered, and asks whether anyone expects the wizard still at home, and living, and what they know that she doesn't · PENDING
+Tetia rises from her heels and sways for a breath; she stands quite still until it passes, then comes back to the others and waits for a lull between the pick's strokes.
+
+**"I asked what lies beneath the stone, and was answered: the wizard's bedchamber."**
+
+Her eyes go to the half-buried doorways, then lower.
+
+**"Do any of you expect the wizard to be at home still? And if so, living, after years that may be a lifetime to a mortal, or beneath all of that? You asked me about a wizard below, when we met; I think you may know more of it than I do."**

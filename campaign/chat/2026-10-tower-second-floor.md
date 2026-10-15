@@ -406,3 +406,45 @@ Before long, he has cleared enough rubble to reveal the outline of a hallway lea
 The soldiers had been trying to reach something beyond this rubble—and thanks to Grond's determination, the party is finally getting closer.
 6. Zeftina BronzefellowAPP — 9:07 AM
 Zeftina helps clear away any rubble that she can carry.
+
+*Nineteenth paste, supplied on 15 October 2026. "Yesterday" is 14 October; the posts at 9:27 AM, 10:06 AM and 10:41 AM are from 15 October.*
+
+1. Tetia MercuryAPP — Yesterday at 10:24 AM
+The pick has been ringing for a long while, and Tetia has spent it turning the pieces over: a sigil gouged away, Mystra twice over in stone bidding them hush, a collection steeped in magic down to its last scrap, and diggers who left their tools where they fell.
+
+What were they so set on reaching?
+
+When she looks up, Zeftina is carrying stone, and Grond is gray with its dust, while her own hands lie folded at her waist, idle and spotless, and color creeps into her cheeks.
+
+With a soft word that she will be just down the hallway toward the scaffolding, she smooths her skirt, and kneels back on her heels a few paces short of the open sky.
+
+Her fingertips find the blue gem at her collar, and her lips begin to move on a long, unhurried prayer in Elvish; warmth gathers beneath her breastbone, and the wind comes in off the open sky as if called, filling her cloak, and bringing light animation to her clothing, and blowing cool against her face, tugging fine strands loose from her pins.
+
+The prayer draws deep, a fine sheen rising at her hairline and her fingers not quite steady on the gem, before at last she asks, in the same tongue.
+
+"Spirits of earth and air, fulfill the ancient pact and fulfill your duty to me; I beseech you to answer me as well: if the stone above is cleared away, what will be found beneath its weight?"
+2. Dungeon MasterAPP — Yesterday at 11:27 AM
+With two sets of hands working, the pace quickens. Grond uses the pick to break apart stubborn sections while Zeftina helps clear the debris away, gradually opening more of the passage.
+
+As the dust settles, the outlines of two doorways begin to emerge from beneath the rubble. One lies along the side of the newly uncovered hallway, its frame partially buried beneath broken stone. The second stands across from it in the passage, still obscured by debris but becoming increasingly visible as the pair continue their work.
+
+Whatever rooms lie beyond those doors have remained sealed beneath the collapse. The soldiers had started clearing this floor, but they never finished.
+3. Kieran ThalorrAPP — 9:27 AM
+Kieran assists in removing the debris as well, talking as he does. "I wonder what we'll find on the other side of the doors. I'm not so sure about this Thalivar guy. These wizards are always risking lives to uncover some sort of magical knowledge. They like meddling in things they don't understand, and then they get blindsided by something they can't handle... I swear, if there's a demon lord or some sort of extra-dimensional monstrosity, I'm gonna be pissed."
+4. Pippa 'Pip' MorgrinAPP — 10:06 AM
+Pippa keeps shifting rubble aside, pausing just long enough to brush dust from her sleeves. At Kieran's words, she gives him a nod. "Let's hope for something less tentacled and more informative. Though I suppose a wizard's idea of informative can be rather hazardous to everyone nearby."
+
+Her eyes settle on the newly revealed doorways, a hopeful look on her face.
+She sings, low and soft, almost a murmur: 
+Dig through the rubble, uncover the door, 
+What strange things lies here, in store?
+If it has tentacles, do beware,
+I left my monster-slaying songs downstairs.
+5. Dungeon MasterAPP — 10:41 AM
+Tetia steps back from the work and begins to cast Divination. Her voice takes on a solemn cadence as she calls upon the spirits bound by ancient pacts. For a moment, the air around her seems to grow still. Then the answer comes, clear and unmistakable.
+
+The Wizard's Bedroom.
+
+The revelation gives the party its first definite clue about what lies buried beneath the collapsed floor. Whatever else might be hidden in these ruins, the rubble conceals the former private quarters of the tower's long-dead wizard.
+
+Pippa's little song echoes down the partially cleared hallway, bringing a welcome touch of levity to the dusty work. With the party now helping in earnest, the buried passage continues to emerge from beneath the collapsed masonry. Two doorways wait ahead, the one to the west opens into Thalivar's bedroom.
