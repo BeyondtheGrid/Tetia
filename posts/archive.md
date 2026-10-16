@@ -183,7 +183,7 @@ The prayer draws deep, a fine sheen rising at her hairline and her fingers not q
 
 **"Spirits of earth and air, fulfill the ancient pact and fulfill your duty to me; I beseech you to answer me as well: if the stone above is cleared away, what will be found beneath its weight?"**
 
-## 2026-10-15 · Session 64 · The answer comes, the wizard's bedchamber: she rises unsteady from her prayer, tells the others what she was answered, and asks whether anyone expects the wizard still at home, and living, and what they know that she doesn't · PENDING
+## 2026-10-15 · Session 64 · The answer comes, the wizard's bedchamber: she rises unsteady from her prayer, tells the others what she was answered, and asks whether anyone expects the wizard still at home, and living, and what they know that she doesn't
 Tetia rises from her heels and sways for a breath; she stands quite still until it passes, then comes back to the others and waits for a lull between the pick's strokes.
 
 **"I asked what lies beneath the stone, and was answered: the wizard's bedchamber."**
@@ -191,3 +191,16 @@ Tetia rises from her heels and sways for a breath; she stands quite still until 
 Her eyes go to the half-buried doorways, then lower.
 
 **"Do any of you expect the wizard to be at home still? And if so, living, after years that may be a lifetime to a mortal, or beneath all of that? You asked me about a wizard below, when we met; I think you may know more of it than I do."**
+
+## 2026-10-16 · Session 64 · The wizard's bedchamber is opened and Pip speaks of a vexed wizard below and people made two: she nods her thanks, goes past the bed to the desk and the uncapped ink, and bends over the open journal in wonder · PENDING
+Tetia answers Pip with a small nod and a soft word of thanks, her brows drawing faintly together at the talk of one person made two, and then the desk draws her past the bed, her steps careful among the broken stone.
+
+The uncapped ink holds her a moment.
+
+_Who would leave it open, in a room the stone had sealed?_
+
+Then the journal takes all of her. Her heavy lids lift wide and her gaze sharpens on the open page; as she bends over it, the strands the wind pulled loose at her prayer slip forward past her shoulder, and she gathers them back behind one long ear without looking up.
+
+_One made two... was that the work done at this desk?_
+
+Her hand drifts toward the page and stops short of it, and her fingertips come instead to brush softly across her parted lips, her breath held, her eyes travelling over the writing, bright with wonder at whatever it may hold.

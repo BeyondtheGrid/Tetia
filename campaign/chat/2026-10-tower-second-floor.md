@@ -448,3 +448,27 @@ The Wizard's Bedroom.
 The revelation gives the party its first definite clue about what lies buried beneath the collapsed floor. Whatever else might be hidden in these ruins, the rubble conceals the former private quarters of the tower's long-dead wizard.
 
 Pippa's little song echoes down the partially cleared hallway, bringing a welcome touch of levity to the dusty work. With the party now helping in earnest, the buried passage continues to emerge from beneath the collapsed masonry. Two doorways wait ahead, the one to the west opens into Thalivar's bedroom.
+
+*Twentieth paste, supplied on 16 October 2026 without timestamps; the speaker labels are as given. Tetia's post went up as drafted, so its markup is kept.*
+
+Tetia:
+
+Tetia rises from her heels and sways for a breath; she stands quite still until it passes, then comes back to the others and waits for a lull between the pick's strokes.
+
+**"I asked what lies beneath the stone, and was answered: the wizard's bedchamber."**
+
+Her eyes go to the half-buried doorways, then lower.
+
+**"Do any of you expect the wizard to be at home still? And if so, living, after years that may be a lifetime to a mortal, or beneath all of that? You asked me about a wizard below, when we met; I think you may know more of it than I do."**
+
+DM:
+
+As you continue to dig you open the ruined bedchamber that belonged to Thalivar and still contains his bed and writing desk. A journal lies open on the desk next to a recently uncapped ink pot.
+
+Pippa 'Pip':
+
+Pippa's gaze drifts to the writing desk, where the open journal and uncapped ink pot catch her eye. She considers whether Tetia or Zeftina might be better suited to investigating anything potentially magical.
+
+Turning toward Tetia, she lowers her voice thoughtfully. **"The wizard downstairs seems rather vexed that he can't unravel the tower's mysteries. And then there's talk of people being duplicated. Curious, isn't it? Though I confess, I'm still trying to work out how one person becomes two without the second verse ever being written."**
+
+Her thoughts trailing off, Pippa wanders over to inspect the bed, peering beneath the frame and running her fingers along the edges in search of anything unusual. **"Now, what secrets might a wizard, long dead, still living, or somehow doubled, have tucked away in the place he laid his head?"**
