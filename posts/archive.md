@@ -192,7 +192,7 @@ Her eyes go to the half-buried doorways, then lower.
 
 **"Do any of you expect the wizard to be at home still? And if so, living, after years that may be a lifetime to a mortal, or beneath all of that? You asked me about a wizard below, when we met; I think you may know more of it than I do."**
 
-## 2026-10-16 · Session 64 · The wizard's bedchamber is opened and Pip speaks of a vexed wizard below and people made two: she nods her thanks, goes past the bed to the desk and the uncapped ink, and bends over the open journal in wonder · PENDING
+## 2026-10-16 · Session 64 · The wizard's bedchamber is opened and Pip speaks of a vexed wizard below and people made two: she nods her thanks, goes past the bed to the desk and the uncapped ink, and bends over the open journal in wonder
 Tetia answers Pip with a small nod and a soft word of thanks, her brows drawing faintly together at the talk of one person made two, and then the desk draws her past the bed, her steps careful among the broken stone.
 
 The uncapped ink holds her a moment.
@@ -204,3 +204,22 @@ Then the journal takes all of her. Her heavy lids lift wide and her gaze sharpen
 _One made two... was that the work done at this desk?_
 
 Her hand drifts toward the page and stops short of it, and her fingertips come instead to brush softly across her parted lips, her breath held, her eyes travelling over the writing, bright with wonder at whatever it may hold.
+
+## 2026-10-16 · Session 64 · The journal is Thalivar's: she reads its heart aloud to the others (the Planar Beacon, the Ruinstone, a hundred years' silence, his dreams and his dread, his missing faerie servant Soapwort), asks whether anyone has come upon Soapwort, and wonders privately whether his ghost haunts the tower without knowing it · PENDING
+Tetia turns the pages by their very edges, tipping the book down so Pip can see, the gold cuff sliding on her slender wrist, and as the entries go by her reading quickens until it spills out aloud.
+
+**"It is Thalivar's own journal. He kept a lamp of sorts here, the Planar Beacon, to call creatures across from the other planes and hold them in this tower for study; through it he came upon something called the Ruinstone, and from then on he wanted nothing else."**
+
+**"Then nothing for more than a hundred years, until entries dated only days ago, in ink still fresh: each night he dreams of this tower fallen to ruin in a dead world, and is drawn to a heap of stone where the beacon used to stand, and each time he comes near it, dread turns him back; and he longs for his faerie servant, Soapwort, to come and tell him it is only a dream, but Soapwort never comes."**
+
+At that name her head comes up at last, the fine gold chains at her collar chiming faintly, and she looks from one face to the next.
+
+**"Have you come upon Soapwort anywhere in the tower, or heard where the faerie has gone?"**
+
+**"Such a servant could make sense of a great deal of this,"** she adds, more softly, the rounded tip of her nose coloring as she hears how much she has said.
+
+Then her gaze sinks back to the page and goes unfocused there, her long dark lashes half lowered, and her fingers touch to her thumb one by one, as if counting the pieces into their places.
+
+_His ghost, perhaps, held out of the Balance all these years, still sitting at this desk and uncapping his ink, and frightening the workers away without ever knowing it?_
+
+_He does not write like one who means to frighten anyone; he only wants the dreams to end, so he can go back to his work._

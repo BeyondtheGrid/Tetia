@@ -472,3 +472,28 @@ Pippa's gaze drifts to the writing desk, where the open journal and uncapped ink
 Turning toward Tetia, she lowers her voice thoughtfully. **"The wizard downstairs seems rather vexed that he can't unravel the tower's mysteries. And then there's talk of people being duplicated. Curious, isn't it? Though I confess, I'm still trying to work out how one person becomes two without the second verse ever being written."**
 
 Her thoughts trailing off, Pippa wanders over to inspect the bed, peering beneath the frame and running her fingers along the edges in search of anything unusual. **"Now, what secrets might a wizard, long dead, still living, or somehow doubled, have tucked away in the place he laid his head?"**
+
+*Twenty-first paste, supplied on 16 October 2026; all three posts are from 16 October. Tetia's post went up as drafted, so its markup is kept.*
+
+1. Tetia MercuryAPP — 10:03 AM
+Tetia answers Pip with a small nod and a soft word of thanks, her brows drawing faintly together at the talk of one person made two, and then the desk draws her past the bed, her steps careful among the broken stone.
+
+The uncapped ink holds her a moment.
+
+_Who would leave it open, in a room the stone had sealed?_
+
+Then the journal takes all of her. Her heavy lids lift wide and her gaze sharpens on the open page; as she bends over it, the strands the wind pulled loose at her prayer slip forward past her shoulder, and she gathers them back behind one long ear without looking up.
+
+_One made two... was that the work done at this desk?_
+
+Her hand drifts toward the page and stops short of it, and her fingertips come instead to brush softly across her parted lips, her breath held, her eyes travelling over the writing, bright with wonder at whatever it may hold.
+2. Kai VancroftAPP — 3:15 PM
+While Pip and Tetia tackle the desk, Kai goes to search the bed.
+3. Dungeon MasterAPP — 4:13 PM
+The only thing of interest in the room is the Journal.
+
+The Journal : 
+
+THALIVAR'S JOURNAL
+This journal belonged to the wizard Thalivar and details the studies he conducted inside the tower using a device called the Planar Beacon. The light of this artifact drew creatures from across the planes and trapped them inside the tower for him to study. The journal reveals how Thalivar's beacon unearthed a powerful magic item named the Ruinstone. Thalivar devoted himself to acquiring it - but whether he found it or not is a mystery. The entries stop here for over a hundred years.
+Dates on the entries and the freshness of the ink reveal that the later entries have been made in the last few days. Thalivar describes how he visits a ruined version of his tower in his dreams each night. In this dead world, he is drawn to a pile of rubble in the ruined chamber where his beacon once lay. Each time he draws close to the rubble, a terrible dread holds him back. Thalivar wishes his faerie servant Soapwort were here to assure him that he's dreaming, but the faerie never turns up. Thalivar prays that these nightmares will end soon so he may resume his studies in peace.
