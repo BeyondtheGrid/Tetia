@@ -205,21 +205,21 @@ _One made two... was that the work done at this desk?_
 
 Her hand drifts toward the page and stops short of it, and her fingertips come instead to brush softly across her parted lips, her breath held, her eyes travelling over the writing, bright with wonder at whatever it may hold.
 
-## 2026-10-16 · Session 64 · The journal is Thalivar's: she reads its heart aloud to the others (the Planar Beacon, the Ruinstone, a hundred years' silence, his dreams and his dread, his missing faerie servant Soapwort), asks whether anyone has come upon Soapwort, and wonders privately whether his ghost haunts the tower without knowing it · PENDING
-Tetia turns the pages by their very edges, tipping the book down so Pip can see, the gold cuff sliding on her slender wrist, and as the entries go by her reading quickens until it spills out aloud.
+## 2026-10-16 · Session 64 · The journal is Thalivar's: she shares all of it with the others, down to the faerie servant who never comes, asks whether anyone has come upon Soapwort, then sits in his chair to look where he would have looked, and wonders privately whether his ghost haunts the tower without knowing it · PENDING
+Tetia turns the pages by their very edges, the gold cuff sliding on her slender wrist, and tips the book down so Pip can see; as the entries go by, her reading quickens until it spills out aloud, and she shares all of it with the others, down to the faerie servant who never comes.
 
-**"It is Thalivar's own journal. He kept a lamp of sorts here, the Planar Beacon, to call creatures across from the other planes and hold them in this tower for study; through it he came upon something called the Ruinstone, and from then on he wanted nothing else."**
-
-**"Then nothing for more than a hundred years, until entries dated only days ago, in ink still fresh: each night he dreams of this tower fallen to ruin in a dead world, and is drawn to a heap of stone where the beacon used to stand, and each time he comes near it, dread turns him back; and he longs for his faerie servant, Soapwort, to come and tell him it is only a dream, but Soapwort never comes."**
-
-At that name her head comes up at last, the fine gold chains at her collar chiming faintly, and she looks from one face to the next.
+With Soapwort's name still on her lips, her head comes up at last, the fine gold chains at her collar chiming faintly, and she looks from one face to the next.
 
 **"Have you come upon Soapwort anywhere in the tower, or heard where the faerie has gone?"**
 
 **"Such a servant could make sense of a great deal of this,"** she adds, more softly, the rounded tip of her nose coloring as she hears how much she has said.
 
-Then her gaze sinks back to the page and goes unfocused there, her long dark lashes half lowered, and her fingers touch to her thumb one by one, as if counting the pieces into their places.
+Then, with a murmured apology to the absent wizard, she gathers the trailing sheer of her overskirt aside and sits in the chair before the desk, her armor ringing softly as she settles, knees drawn together and feet tucked side by side, and lays her long, tapered fingers flat on either side of the page, where his hands would have rested.
 
-_His ghost, perhaps, held out of the Balance all these years, still sitting at this desk and uncapping his ink, and frightening the workers away without ever knowing it?_
+She looks where he would have looked, from the page to the bed to the doorway, and her gaze goes unfocused, her long dark lashes half lowered, her fingers touching to her thumb one by one as if counting the pieces into their places.
+
+_Wake, and write it down before it fades, and never mind the cap..._
+
+_His ghost, perhaps, held out of the Balance all these years, still keeping to this chair, and frightening the workers away without ever knowing it?_
 
 _He does not write like one who means to frighten anyone; he only wants the dreams to end, so he can go back to his work._
