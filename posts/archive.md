@@ -224,7 +224,7 @@ _His ghost, perhaps, held out of the Balance all these years, still keeping to t
 
 _He does not write like one who means to frighten anyone; he only wants the dreams to end, so he can go back to his work. Perhaps it is the worker who stirs this ghost from its slumber._
 
-## 2026-10-18 · Session 64 · A whisper from the empty corner: she pales, takes it for Thalivar's spirit, touches the fresh entries, and asks the others how a spirit so long gone can write entries only days old · PENDING
+## 2026-10-18 · Session 64 · A whisper from the empty corner: she pales, takes it for Thalivar's spirit, touches the fresh entries, puts the journal into plain words for Kai and the others, and asks how a spirit so long gone can write entries only days old · PENDING
 The color ebbs from Tetia's face until even her lips are pale; only her eyes move, to the corner, and they need no lamp: they find it empty, gray on gray.
 
 _It is he. He has been here all along, and I have read his own words aloud, in his own chair._
@@ -233,6 +233,10 @@ She swallows, and her cool fingertips slide along the margin to the last entries
 
 _A century and more of silence, and then these, written only days ago._
 
-She lifts her eyes to the others, the question plain on her face before she gives it voice, and asks it low, as if the corner might overhear.
+She looks up and finds Kai, still waiting, and the tips of her ears warm at the rush she made of it, though her face stays pale; she gives it again, low and in plainer words, for him and for all of them, her glance going once to the corner.
+
+**"He kept a light that lured creatures from other worlds and held them here for study. It led him to a thing of great power, the Ruinstone; whether he found it, he does not say. Then nothing, for many long years, until these last few nights. He dreams of this tower in ruins, in a dead world, and prays for the dreams to stop."**
+
+The question is plain on her face before she gives it voice, and she asks it lower still, as if the corner might overhear.
 
 **"If that was the wizard... how can a spirit so long gone set down entries only days old?"**
