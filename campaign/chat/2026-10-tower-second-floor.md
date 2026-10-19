@@ -497,3 +497,36 @@ The Journal :
 THALIVAR'S JOURNAL
 This journal belonged to the wizard Thalivar and details the studies he conducted inside the tower using a device called the Planar Beacon. The light of this artifact drew creatures from across the planes and trapped them inside the tower for him to study. The journal reveals how Thalivar's beacon unearthed a powerful magic item named the Ruinstone. Thalivar devoted himself to acquiring it - but whether he found it or not is a mystery. The entries stop here for over a hundred years.
 Dates on the entries and the freshness of the ink reveal that the later entries have been made in the last few days. Thalivar describes how he visits a ruined version of his tower in his dreams each night. In this dead world, he is drawn to a pile of rubble in the ruined chamber where his beacon once lay. Each time he draws close to the rubble, a terrible dread holds him back. Thalivar wishes his faerie servant Soapwort were here to assure him that he's dreaming, but the faerie never turns up. Thalivar prays that these nightmares will end soon so he may resume his studies in peace.
+
+*Twenty-second paste, supplied on 18 October 2026; Tetia's post is from 16 October, the other two from 17 or 18 October (the paste gives times only). Tetia's post went up changed from the draft; Discord copying strips markup, so it is kept here as pasted (the archive restores the markup).*
+
+1. Tetia MercuryAPP — 10/16/26, 7:41 PM
+Tetia turns the pages by their very edges, the gold cuff sliding on her slender wrist, and tips the book down so Pip can see; as the entries go by, her reading quickens until it spills out aloud, and she shares all of it with the others, down to the faerie servant who never comes.
+
+With Soapwort's name still on her lips, her head comes up at last, the fine gold chains at her collar chiming faintly, and she looks from one face to the next.
+
+"Have you come upon Soapwort anywhere in the tower, or heard where the faerie has gone?"
+
+"Such a servant could make sense of a great deal of this," she adds, more softly.
+
+Then, with a murmured apology to the absent wizard, she gathers the trailing sheer of her overskirt aside and sits in the chair before the desk, her armor ringing softly as she settles, knees drawn together and feet tucked side by side, and lays her long, tapered fingers flat on either side of the page, where his hands would have rested.
+
+She looks where he would have looked, from the page to the bed to the doorway, and her gaze goes unfocused, her dark lashes half lowered, her fingers touching to her thumb one by one as if counting the pieces into their places.
+
+Wake, and write it down before it fades, and never mind the cap...
+
+His ghost, perhaps, held out of the Balance all these years, still keeping to this chair, and frightening the workers away without ever knowing it?
+
+He does not write like one who means to frighten anyone; he only wants the dreams to end, so he can go back to his work. Perhaps it is the worker who stirs this ghost from its slumber.
+2. Dungeon MasterAPP — 3:31 AM
+A faint whisper slips from a dark corner of Thalivar’s bedroom. It is so quiet at first that it could easily be mistaken for the wind threading through the tower’s broken stonework. Yet the sound carries something unmistakably deliberate—a voice, speaking softly from the shadows.
+
+Then silence.
+
+There is nobody in the corner. No figure stands between the shelves, and nothing moves in the darkness. 
+
+Tetia sits frozen in Thalivar’s chair, her fingers resting against the open journal. The words she has just read seem to take on a new weight. Had the wizard’s spirit been listening all along?
+
+Or has something else been listening to the party?
+3. Kai VancroftAPP — 4:41 PM
+Kai, not being well-versed in Wizard, waits patiently for someone to translate the journal's contents into plain language.

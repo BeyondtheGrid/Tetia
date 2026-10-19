@@ -205,21 +205,34 @@ _One made two... was that the work done at this desk?_
 
 Her hand drifts toward the page and stops short of it, and her fingertips come instead to brush softly across her parted lips, her breath held, her eyes travelling over the writing, bright with wonder at whatever it may hold.
 
-## 2026-10-16 · Session 64 · The journal is Thalivar's: she shares all of it with the others, down to the faerie servant who never comes, asks whether anyone has come upon Soapwort, then sits in his chair to look where he would have looked, and wonders privately whether his ghost haunts the tower without knowing it · PENDING
+## 2026-10-16 · Session 64 · The journal is Thalivar's: she shares all of it with the others, down to the faerie servant who never comes, asks whether anyone has come upon Soapwort, then sits in his chair to look where he would have looked, and wonders privately whether his ghost haunts the tower without knowing it
 Tetia turns the pages by their very edges, the gold cuff sliding on her slender wrist, and tips the book down so Pip can see; as the entries go by, her reading quickens until it spills out aloud, and she shares all of it with the others, down to the faerie servant who never comes.
 
 With Soapwort's name still on her lips, her head comes up at last, the fine gold chains at her collar chiming faintly, and she looks from one face to the next.
 
 **"Have you come upon Soapwort anywhere in the tower, or heard where the faerie has gone?"**
 
-**"Such a servant could make sense of a great deal of this,"** she adds, more softly, the rounded tip of her nose coloring as she hears how much she has said.
+**"Such a servant could make sense of a great deal of this,"** she adds, more softly.
 
 Then, with a murmured apology to the absent wizard, she gathers the trailing sheer of her overskirt aside and sits in the chair before the desk, her armor ringing softly as she settles, knees drawn together and feet tucked side by side, and lays her long, tapered fingers flat on either side of the page, where his hands would have rested.
 
-She looks where he would have looked, from the page to the bed to the doorway, and her gaze goes unfocused, her long dark lashes half lowered, her fingers touching to her thumb one by one as if counting the pieces into their places.
+She looks where he would have looked, from the page to the bed to the doorway, and her gaze goes unfocused, her dark lashes half lowered, her fingers touching to her thumb one by one as if counting the pieces into their places.
 
 _Wake, and write it down before it fades, and never mind the cap..._
 
 _His ghost, perhaps, held out of the Balance all these years, still keeping to this chair, and frightening the workers away without ever knowing it?_
 
-_He does not write like one who means to frighten anyone; he only wants the dreams to end, so he can go back to his work._
+_He does not write like one who means to frighten anyone; he only wants the dreams to end, so he can go back to his work. Perhaps it is the worker who stirs this ghost from its slumber._
+
+## 2026-10-18 · Session 64 · A whisper from the empty corner: she pales, takes it for Thalivar's spirit, touches the fresh entries, and asks the others how a spirit so long gone can write entries only days old · PENDING
+The color ebbs from Tetia's face until even her lips are pale; only her eyes move, to the corner, and they need no lamp: they find it empty, gray on gray.
+
+_It is he. He has been here all along, and I have read his own words aloud, in his own chair._
+
+She swallows, and her cool fingertips slide along the margin to the last entries, where the ink still lies dark and fresh.
+
+_A century and more of silence, and then these, written only days ago._
+
+She lifts her eyes to the others, the question plain on her face before she gives it voice, and asks it low, as if the corner might overhear.
+
+**"If that was the wizard... how can a spirit so long gone set down entries only days old?"**
