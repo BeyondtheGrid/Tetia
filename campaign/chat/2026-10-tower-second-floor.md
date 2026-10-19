@@ -530,3 +530,60 @@ Tetia sits frozen in Thalivar’s chair, her fingers resting against the open jo
 Or has something else been listening to the party?
 3. Kai VancroftAPP — 4:41 PM
 Kai, not being well-versed in Wizard, waits patiently for someone to translate the journal's contents into plain language.
+
+*Twenty-third paste, supplied on 19 October 2026; Tetia's post is from 18 October, the others from 19 October (the paste gives times only). Tetia's post went up changed from the draft; Discord copying strips markup, so it is kept here as pasted (the archive restores the markup).*
+
+1. Tetia MercuryAPP — Yesterday at 8:14 PM
+The color ebbs from Tetia's face until even her lips are pale; only her eyes move, to the corner, and they need no lamp: they find it empty, gray on gray.
+
+It is he. He has been here all along, and I have read his own words aloud, in his own chair.
+
+She swallows, and her cool fingertips slide along the margin to the last entries, where the ink still lies dark and fresh.
+
+A century and more of silence, and then these, written only days ago.
+
+She looks up at the others, the tips of her ears warm at the rush she made of it, though her face stays pale; she gives it again, low and in plainer words, for all of them, her glance going once to the corner.
+
+"He kept a light that lured creatures from other worlds and held them here for study. It led him to a thing of great power, the Ruinstone; whether he found it, he does not say. Then nothing, for many long years, until these last few nights. He dreams of this tower in ruins, in a dead world, and prays for the dreams to stop."
+
+The question is plain on her face before she gives it voice, and she asks it lower still, as if the corner might overhear.
+
+"If that was the wizard... how can a spirit so long gone set down entries only days old?"
+2. Pippa 'Pip' MorgrinAPP — 1:24 AM
+Pippa's eyes drift toward the shadowed corner before returning to Tetia, curiosity slowly replacing her unease. “We've had a curious encounter back at the warehouse, you know. One night, walking past the tower, I caught a tune upon the air. Just a scrap of melody, really, but it stayed with me.”
+
+She gives her flute a thoughtful twirl between her fingers. “Later, in the warehouse, we came upon a rather dreadful dark creature, and I found myself playing that very same tune. Would you believe it? The entity vanished!”
+
+Her brows lift as she glances toward the empty corner. “It looked nothing like I'd imagine a faerie called Soapwort to look, and I can't say it struck me as a long-dead wizard, either. Whatever it was, though, it took its leave the moment the music reached it. Not a graceful exit, mind you. More a hasty retreat, as if the poor thing had heard a particularly dreadful note.”
+
+Her smile returns, though her fingers tap a little tune against the flute's body. “Now, here's the question that's been plucking at my curiosity. If a song can send something away, might it send it back to wherever it came from? And if music can send something back, could another melody call something forward?” She tilts her head at Tetia, eyes bright with possibility. “I've always believed a good tune can open hearts, but a doorway between worlds? That's a far more interesting sort of encore.”
+3. Dungeon MasterAPP — 2:02 AM
+Before anyone can offer an answer, the whisper returns. This time, the voice is clearer, emerging from the same empty corner. Its words are quiet, yet they carry an unmistakable urgency.
+
+“You have brought it back. Give it to me.” 
+
+The room seems to grow colder.
+4. Kieran ThalorrAPP — 4:56 AM
+In a flash, Kieran draws an arrow and aims at the corner. Looking for something to mark, he readies himself. 
+
+"Show yourself or I start firing arrows in your direction."
+
+The unsettling whisper raises the hairs on his arm, but he steadies his breath and focuses.
+5. Zeftina BronzefellowAPP — 5:23 AM
+Zeftina tightens her hold on the straps of her bag, moving closer to the bigger members of the group but not saying anything.
+6. Pippa 'Pip' MorgrinAPP — 5:31 AM
+Pippa brings her flute up, her fingers settling into position, ready to play if the need arises. Her eyes remain fixed on the empty corner where the voice emerged, watching for the slightest sign of movement. The playful glint in her expression giving way to cautious concentration.
+7. Dungeon MasterAPP — 5:54 AM
+For several heartbeats, nothing happens. Then a faint sound stirs from the corner. Not footsteps. Not breathing. A soft, dry scrape, like a fingernail dragged across stone. The shadows remain empty, but the voice returns, quieter than before, its words stretched thin by an unsettling desperation.
+
+“Give it back…”
+
+The sound seems to come from the very space between the stones, rather than from any living throat. Kieran has his arrow trained on the corner, but there is still nothing to shoot.
+8. Grond the OakfellAPP — 5:57 AM
+"What in the nine hells is speaking?"
+9. 
+
+Zeftina Bronzefellow
+APP
+ — 7:45 AM
+"No." It was the only thing Zeftina could say. Her knuckles becoming white from how hard she is clutching her bag. She swallows hard before attempting to speak once more. "N-not until w-we hav-have some an-answers."

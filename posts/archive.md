@@ -224,7 +224,7 @@ _His ghost, perhaps, held out of the Balance all these years, still keeping to t
 
 _He does not write like one who means to frighten anyone; he only wants the dreams to end, so he can go back to his work. Perhaps it is the worker who stirs this ghost from its slumber._
 
-## 2026-10-18 · Session 64 · A whisper from the empty corner: she pales, takes it for Thalivar's spirit, touches the fresh entries, puts the journal into plain words for Kai and the others, and asks how a spirit so long gone can write entries only days old · PENDING
+## 2026-10-18 · Session 64 · A whisper from the empty corner: she pales, takes it for Thalivar's spirit, touches the fresh entries, puts the journal into plain words for Kai and the others, and asks how a spirit so long gone can write entries only days old
 The color ebbs from Tetia's face until even her lips are pale; only her eyes move, to the corner, and they need no lamp: they find it empty, gray on gray.
 
 _It is he. He has been here all along, and I have read his own words aloud, in his own chair._
@@ -233,10 +233,21 @@ She swallows, and her cool fingertips slide along the margin to the last entries
 
 _A century and more of silence, and then these, written only days ago._
 
-She looks up and finds Kai, still waiting, and the tips of her ears warm at the rush she made of it, though her face stays pale; she gives it again, low and in plainer words, for him and for all of them, her glance going once to the corner.
+She looks up at the others, the tips of her ears warm at the rush she made of it, though her face stays pale; she gives it again, low and in plainer words, for all of them, her glance going once to the corner.
 
 **"He kept a light that lured creatures from other worlds and held them here for study. It led him to a thing of great power, the Ruinstone; whether he found it, he does not say. Then nothing, for many long years, until these last few nights. He dreams of this tower in ruins, in a dead world, and prays for the dreams to stop."**
 
 The question is plain on her face before she gives it voice, and she asks it lower still, as if the corner might overhear.
 
 **"If that was the wizard... how can a spirit so long gone set down entries only days old?"**
+
+## 2026-10-19 · Session 64 · The voice demands "it" back and the room grows cold: she rises in a rush, backs against the desk, and asks what the party carries that the spirit wants, and what the wizard or his servant ever found after the tower crumbled · PENDING
+Tetia rises in a rush, the wizard's chair grating back over the stone, and turns to the corner; she tries to give ground, but half a step brings the edge of his desk against the backs of her thighs, and there is nowhere left to go. Her hands close on it behind her, and in the deepening cold, gooseflesh prickles along the bare skin above her greaves.
+
+She looks to Zeftina first, to the bag clutched tight against her, and then her eyes flick quickly over the others.
+
+**"What is it you carry, that the spirit should want it back?"**
+
+Then, half to herself, though the question is for all of them:
+
+**"What did they ever find, the wizard or his servant, after the tower crumbled?"**
