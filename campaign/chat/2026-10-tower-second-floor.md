@@ -587,3 +587,39 @@ Zeftina Bronzefellow
 APP
  — 7:45 AM
 "No." It was the only thing Zeftina could say. Her knuckles becoming white from how hard she is clutching her bag. She swallows hard before attempting to speak once more. "N-not until w-we hav-have some an-answers."
+1. Tetia MercuryAPP — 7:55 AM
+Tetia rises in a rush, the wizard's chair grating back over the stone, and turns to the corner; she tries to give ground, but half a step brings the edge of his desk against the backs of her thighs, and there is nowhere left to go. Her hands close on it behind her, and in the deepening cold, gooseflesh prickles along the bare skin above her greaves.
+
+She looks to Zeftina first, to the bag clutched tight against her, and then her eyes flick quickly over the others.
+
+"What is it you carry, that the spirit should want it back?"
+
+Then, half to herself, though the question is for all of them:
+
+"What did they ever find, the wizard or his servant, after the tower crumbled? Perhaps this tower has become a tomb for their mortal remains."
+2. Kai VancroftAPP — 10:05 AM
+Kai draws his sword. "Give it back for what purpose?" Kai replies to the shadows and stones. "What do you intend to do with it?"
+3. Pippa 'Pip' MorgrinAPP — 10:09 AM
+Pippa's fingers tighten around her flute, bringing it into readiness without taking her eyes from the empty corner. The scrape of something against stone raises the fine hairs along her arms, but she keeps her expression composed. 
+
+"Now, I do believe we've established that you want it back," she says, her voice gentler than the words might suggest. "Perhaps we might make a little progress if you told us what it is, and why it belongs to you?"
+
+Her gaze stays fixed on the shadows, listening for the smallest change in that impossible voice. Whatever is hiding between those stones, Pippa would rather coax it into a conversation than discover what happens when patience runs out.
+4. Dungeon MasterAPP — 11:27 AM
+As Kai asks his question the voice says "Go home." The words carry no obvious threat, yet something about them feels deeply unsettling. Is it a warning, an instruction, or a plea from something that has forgotten what home truly means? 
+
+The voice turns to Pippa. "It is the key to go home." For a moment, nothing else moves.
+
+Then a faint scraping sound comes from the desk. The pen lying beside Thalivar's journal lifts into the air. It hangs there for a heartbeat, suspended by an invisible hand, before its tip lowers to the open page. Slowly, deliberately, it begins to write. The nib scratches across the parchment, forming letters in dark ink. No hand holds the pen. No figure stands beside the desk. Yet the words appear one by one, as though an unseen scholar is recording a final, urgent discovery. 
+
+The disk activates the portal on the roof.
+
+The pen remains suspended above the page, its tip still wet with ink.
+5. Kieran ThalorrAPP — 11:46 AM
+Kieran exhales as he feels the taught bowstring against his calloused fingers. The more it talks, the less tense he feels, especially with the movement of the pen and a general sense of where this being is.
+
+"Who are you, and why should we trust you?"
+
+The arrow points toward the desk, though he does lower the bow a bit and loosen his draw.
+6. Zeftina BronzefellowAPP — 12:41 PM
+"And to whose home?" Zeftina glances to Tetia before giving a soft sigh. "During our own research into why some of the workers were abandoning their job here, we learned that one of them took something. Something none of us quite understand. And we are reluctant to give it back. Afraid of what it may lead to or open."

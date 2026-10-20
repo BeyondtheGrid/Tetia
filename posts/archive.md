@@ -241,7 +241,7 @@ The question is plain on her face before she gives it voice, and she asks it low
 
 **"If that was the wizard... how can a spirit so long gone set down entries only days old?"**
 
-## 2026-10-19 · Session 64 · The voice demands "it" back and the room grows cold: she rises in a rush, backs against the desk, and asks what the party carries that the spirit wants, and what the wizard or his servant ever found after the tower crumbled · PENDING
+## 2026-10-19 · Session 64 · The voice demands "it" back and the room grows cold: she rises in a rush, backs against the desk, and asks what the party carries that the spirit wants, and what the wizard or his servant ever found after the tower crumbled
 Tetia rises in a rush, the wizard's chair grating back over the stone, and turns to the corner; she tries to give ground, but half a step brings the edge of his desk against the backs of her thighs, and there is nowhere left to go. Her hands close on it behind her, and in the deepening cold, gooseflesh prickles along the bare skin above her greaves.
 
 She looks to Zeftina first, to the bag clutched tight against her, and then her eyes flick quickly over the others.
@@ -250,4 +250,13 @@ She looks to Zeftina first, to the bag clutched tight against her, and then her 
 
 Then, half to herself, though the question is for all of them:
 
-**"What did they ever find, the wizard or his servant, after the tower crumbled?"**
+**"What did they ever find, the wizard or his servant, after the tower crumbled? Perhaps this tower has become a tomb for their mortal remains."**
+
+## 2026-10-19 · Session 64 · The voice says "Go home," the pen writes by itself, and Zeftina tells of a worker's theft: she pulls away from the desk as from someone standing too near, and speaks silently to all but Kai, offering to help them understand what they carry · PENDING
+At the scrape at her back, Tetia snatches her hands from the desk's edge and twists away from it, eyes wide on the pen hanging wet above the page, so near that she might have brushed against whoever holds it. She draws her cloak tight across herself, arms folded close beneath it and shoulders turned inward, as though the empty air beside the desk were someone standing far too near.
+
+Her glance touches Pip, Zeftina, Grond and the man in the green hood in turn, and passes over Kai and his bared blade. _Not him; a voice in his head, with steel already in his hand..._
+
+Her lips move first, shaping the words without breath; then they fall still and her face goes slack and distant as her mind takes up what her mouth began, and her voice comes soft and clear to the four of them, as if from just behind the ear.
+
+**‹Please, do not be alarmed; it is only I, Tetia. I speak this way so the spirit will not hear, if it can listen at all. If you would trust me with what you carry for a few moments, I believe I could help you understand it... only, I do not know what the spirit might do, if it can see us.›**
