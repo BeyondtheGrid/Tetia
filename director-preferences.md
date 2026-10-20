@@ -17,7 +17,7 @@ How the player (the director) wants Tetia's posts written. Standing rules: `CLAU
 - **Party members:** anyone named who is in the party roster is an ally. When a party member matters to the post, the director mentions a detail about them; that is the cue to read their full file. The whole party isn't loaded otherwise.
 - **Length:** set by the director for each post. Combat posts are shorter, posts outside combat longer. Posts must never be so long they become a chore for other players to read. For reference, the table's player combat posts run about 50 to 100 words.
 - **Drafts:** one draft by default; alternatives only when asked.
-- **Kieran's name in narration** (stated 20 October 2026). The narration calls him Kieran even though Tetia hasn't been told his name. Her speech and thoughts still use only names she knows, so to her he stays the man in the green hood until he tells her.
+- **Kieran's name in narration** (stated 20 October 2026). The narration calls him Kieran even though Tetia hasn't been told his name. Her speech and thoughts still use only names she knows, so in those he stays unnamed (the man in the green hood, the man with the bow) until he tells her.
 - **Don't retell the scene** (stated 9 October 2026). The other players have just read the GM's post; Tetia's post shouldn't describe the same events back to them. Reference an event only through her reaction, briefly, and give the post to what she does, how she does it, and what she notices, thinks and says.
 
 ## Creative latitude
