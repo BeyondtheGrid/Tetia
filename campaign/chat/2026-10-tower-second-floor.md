@@ -623,3 +623,21 @@ Kieran exhales as he feels the taught bowstring against his calloused fingers. T
 The arrow points toward the desk, though he does lower the bow a bit and loosen his draw.
 6. Zeftina BronzefellowAPP — 12:41 PM
 "And to whose home?" Zeftina glances to Tetia before giving a soft sigh. "During our own research into why some of the workers were abandoning their job here, we learned that one of them took something. Something none of us quite understand. And we are reluctant to give it back. Afraid of what it may lead to or open."
+7. Dungeon MasterAPP — 5:43 PM
+For several seconds, the room remains silent. Then the pen rises once more. It hovers above the journal, trembling slightly before scratching out a new line. I was the watcher.
+
+The pen stops, then continues. Thalivar opened the way. I watched from the other side. I listened to his thoughts, his dreams, his songs. 
+
+A pause follows, long enough for the ink to glisten on the page. I do not know your kind's words for my home. It is beyond the window. Beyond the Far Threshold. I have been away too long.
+
+The pen drifts to the next line. You ask why you should trust me. You should not trust what you do not understand. Thalivar did not. He watched. He listened. He reached farther.
+
+The pen falters, scraping a crooked mark across the parchment before steadying again. The disc is the key. The portal is the way home. I want to leave.
+
+The pen remains still for a moment. Then, slowly, it writes again. You fear what may come through. So did Thalivar.
+
+The nib presses harder against the parchment, the next words darker than the rest. The portal is not a door that stands open. The disc activates it. The window opens when the key turns.
+
+A final pause. I cannot promise what you will see beyond it. I can only tell you that I wish to go home.
+
+The pen lifts from the page and hangs motionless in the air.
