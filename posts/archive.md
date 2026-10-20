@@ -252,13 +252,26 @@ Then, half to herself, though the question is for all of them:
 
 **"What did they ever find, the wizard or his servant, after the tower crumbled? Perhaps this tower has become a tomb for their mortal remains."**
 
-## 2026-10-19 · Session 64 · The watcher writes that Thalivar opened the way and it only wants to go home: she pulls away from the desk as from someone standing too near, sees it is no ghost, and speaks silently to all but Kai, offering to help them understand what they carry · PENDING
+## 2026-10-19 · Session 64 · The watcher writes that Thalivar opened the way and it only wants to go home: she pulls away from the desk as from someone standing too near, sees it is no ghost, and speaks silently to all but Kai, offering to help them understand what they carry
 At the first scrape at her back, Tetia snatches her hands from the desk's edge and twists away from it, for whoever holds that pen must be standing close enough to touch her. She draws her cloak tight across herself, arms folded close beneath it and shoulders turned in, as if the empty air beside the desk were a stranger pressed too near, and a cloak could keep out what has no body at all.
 
 _Not his ghost, then, but something his light called across and never let go... and all it asks is to go home._
 
-One by one she finds Pip, Zeftina, Grond and the man in the green hood, and passes over Kai: _not with steel already bare in his hand._
+One by one she finds Pip, Zeftina, Grond and Kieran, and passes over Kai: _not with steel already bare in his hand._
 
 Her lips move first, shaping the words without breath; then they fall still, and the muscles of her face go slack as her mind comes alive, and her voice reaches the four of them without a sound, as if from just behind the ear.
 
-**‹Please, do not be alarmed; it is only I, Tetia. I speak this way so it will not hear, if it can be kept from listening at all. If you would give me a few moments with what you carry, I believe I could help you understand it... only, I do not know what it might do, if it can see us.›**
+**‹Please, do not be alarmed; it is only I, Tetia. I speak this way so it will not hear, if it can be kept from listening at all. If you would give me a few moments with this disc you carry, I believe I could help you understand it... only, I do not know what it might do, if it can see us.›**
+
+## 2026-10-20 · Session 64 · Pip's tune drives the watcher back in fear and the party proposes stepping out so she can study the disc: in the colder air she makes for the doorway, answers the man with the bow's wariness, and asks the four, mind to mind, to let her hold it, promising to hide it from the watcher if they will guard her while she works · PENDING
+Her breath clouds now, and the chill finds whatever she cannot cover, bringing the rose up stark on skin gone so pale: the tip of her nose, the bare skin below her collar where the cloak gapes, the knuckles that clutch it shut.
+
+At Pip's gesture she inclines her head and makes for the doorway, wide of the corner, with a single look at the wall where those long fingers drew back.
+
+_So a song can do both._
+
+Her gaze lowers, then lifts to the man with the bow, who answered her in kind, and her silent voice comes to the four of them again, softer now.
+
+**‹No offense is taken; you are right to be wary of me, when you have known me so short a while. I would not ask you to trust me so soon... watch me as closely as you must. I want only to understand it, so that nothing is opened before any of us knows what waits beyond.›**
+
+**‹If you will let me hold it, I will do all I can to hide it from the watcher; I do not yet know how it sees us, or this world, or how much it can do. But while I work I see nothing else, and cannot raise my shield... so I would ask you to stand guard over me until it is done.›**

@@ -641,3 +641,46 @@ The nib presses harder against the parchment, the next words darker than the res
 A final pause. I cannot promise what you will see beyond it. I can only tell you that I wish to go home.
 
 The pen lifts from the page and hangs motionless in the air.
+1. Tetia MercuryAPP — Yesterday at 7:09 PM
+At the first scrape at her back, Tetia snatches her hands from the desk's edge and twists away from it, for whoever holds that pen must be standing close enough to touch her. She draws her cloak tight across herself, arms folded close beneath it and shoulders turned in, as if the empty air beside the desk were a stranger pressed too near, and a cloak could keep out what has no body at all.
+
+Not his ghost, then, but something his light called across and never let go... and all it asks is to go home.
+
+One by one she finds Pip, Zeftina, Grond and Kieran, and passes over Kai: not with steel already bare in his hand.
+
+Her lips move first, shaping the words without breath; then they fall still, and the muscles of her face go slack as her mind comes alive, and her voice reaches the four of them without a sound, as if from just behind the ear.
+
+‹Please, do not be alarmed; it is only I, Tetia. I speak this way so it will not hear, if it can be kept from listening at all. If you would give me a few moments with this disc you carry, I believe I could help you understand it... only, I do not know what it might do, if it can see us.›
+2. Pippa 'Pip' MorgrinAPP — 12:22 AM
+Pippa’s gaze shifts from the hovering pen to the journal, curiosity mingling with unease. 
+A creature that wants to go home is one thing. 
+A creature that needs a mysterious disc to open a portal is quite another. 
+
+She casts Message, directing a whispered thought toward Tetia alone. “It may not be wise to examine the disc in front of our unseen friend. We don't yet know what opening that door might invite through. Let's see if this helps...”
+
+Her fingers settle against her lute, and she begins to play a quiet, haunting melody. It is the same tune she heard once while walking alone near the tower late one night, the one that made the mysterious creature disappear when she played it herself. She watches the empty corner as the final notes fade, waiting to see if the song stirs a response.
+3. Dungeon MasterAPP — 1:35 AM
+The melody winds through the room, soft and mournful, its notes lingering among the ancient books and scattered papers. The last few tones drift toward the shadowed corner. 
+
+At first, nothing happens.
+
+Then the pen above Thalivar’s journal begins to tremble. Its tip jerks toward the parchment, leaving a thin, wavering streak of ink. The temperature drops sharply, and a faint scraping sound rises from the corner—the same dry, deliberate noise the party heard before.
+
+A voice whispers through the fading melody. “No… not that song.”
+
+The words sound different now. The earlier desperation has given way to something closer to fear. The shadows stretch across the stones, gathering into long, crooked lines. For the briefest instant, a tall, impossibly thin silhouette seems to take shape against the wall. Its elongated fingers reach toward the desk, then recoil as the final note of Pippa’s melody fades away. The figure never fully materializes. Instead, the voice speaks again, quieter this time. “Thalivar used it to call. You use it to send away.”
+
+The pen drops onto the journal with a sharp clatter.
+
+Silence returns to the bedroom, but the cold remains.
+4. Kieran ThalorrAPP — 5:02 AM
+Kieran responds telepathically, not at all taken aback by the method of communication. "This is the second time something has tried to get this disk. We should wait until we're away from this room."
+
+Switching to speaking out loud, Kieran addresses the others. "Frankly, I don't trust spooky ghosts. My experiences with them tend to be more bad than good." Turning toward Pip, he adds, "That song is a pretty useful deterrent though. Why don't we step out of this room, let Tetia do her thing, and keep that song at the ready just in case?"
+
+He also turns to Tetia. "And, no offense, but we just met you and it was in a hallway inside this creepy tower, so I've got my eyes on you too. Trusting too quickly has burned me in the past even more than ghosts have."
+5. Pippa 'Pip' MorgrinAPP — 6:38 AM
+Pippa’s face lights up, and she gives Kieran an eager nod, her flute poised between her fingers.
+“An excellent plan! I’ve always found that the best way to deal with a ghost is to put a little distance between you and it.” She casts a wary glance toward the shadowed corner before a playful smile returns. “And if a tune can send our friend scurrying back into the shadows, why, I may have to add it to my repertoire!”
+
+Turning toward Tetia, she gestures grandly toward the doorway. “Shall we clear the stage and let our learned lady work her magic? I’ll keep my flute at the ready. If our unseen audience demands an encore, I should hate to disappoint!”
