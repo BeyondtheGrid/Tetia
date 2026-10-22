@@ -263,7 +263,7 @@ Her lips move first, shaping the words without breath; then they fall still, and
 
 **‹Please, do not be alarmed; it is only I, Tetia. I speak this way so it will not hear, if it can be kept from listening at all. If you would give me a few moments with this disc you carry, I believe I could help you understand it... only, I do not know what it might do, if it can see us.›**
 
-## 2026-10-20 · Session 64 · Pip's tune drives the watcher back in fear and the party proposes stepping out so she can study the disc: in the colder air she makes for the doorway, answers Kieran's wariness, and asks the four, mind to mind, to let her hold it, promising to hide it from the watcher if they will guard her while she works · PENDING
+## 2026-10-20 · Session 64 · Pip's tune drives the watcher back in fear and the party proposes stepping out so she can study the disc: in the colder air she makes for the doorway, answers Kieran's wariness, and asks the four, mind to mind, to let her hold it, promising to hide it from the watcher if they will guard her while she works
 The room has grown so cold that Tetia would swear she can see her own breath; the chill finds whatever she cannot cover, bringing the rose up stark on skin gone so pale: the tip of her nose, the bare skin below her collar where the cloak gapes, the knuckles that clutch it shut.
 
 At Pip's gesture she inclines her head and makes for the doorway, wide of the corner, with a single look at the wall where those long fingers drew back.
@@ -275,3 +275,16 @@ Her gaze lowers, then lifts to Kieran, who answered her in kind, and her silent 
 **‹No offense is taken; you are right to be wary of me, when you have known me so short a while. I would not ask you to trust me so soon... watch me as closely as you must. I want only to understand it, so that nothing is opened before any of us knows what waits beyond.›**
 
 **‹If you will let me hold it, I will do all I can to hide it from the watcher; I do not yet know how it sees us, or this world, or how much it can do. But while I work I see nothing else, and cannot raise my shield... so I would ask you to stand guard over me until it is done.›**
+
+## 2026-10-22 · Session 64 · Out in the hallway after Pip's encouraging tune: she follows the others out of the cold, has only her shield to ready, takes delight in the song and thanks Pip, then asks Zeftina aloud for time with the disc, to learn from the disc itself what the watcher has told them · PENDING
+Tetia is quick to follow the others out, as though the cold might be left behind with the room; out here they stay watchful, steel and bowstring near to hand, and she has nothing to ready but her plain shield.
+
+_I was sent only to observe storms. No one thought I should need a weapon._
+
+At the first bright notes of Pip's flute, something small and warm settles beneath her ribs, as if a little sunlight had been slipped into her keeping; one corner of her mouth draws up without her leave, and for the first time since that room, her fingers let go of her cloak.
+
+**"Thank you, Pip. I shall take care not to spend it carelessly."**
+
+She turns to Zeftina, and her next words are spoken aloud for all of them, though lower and slower, her eyes kept courteously from the bag.
+
+**"Zeftina... if you would permit it, I should like some time with the disc, a little way from that door. The watcher has told us what it is; I would sooner learn that from the disc itself, if it will tell me."**

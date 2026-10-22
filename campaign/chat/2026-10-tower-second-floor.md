@@ -684,3 +684,29 @@ Pippa’s face lights up, and she gives Kieran an eager nod, her flute poised be
 “An excellent plan! I’ve always found that the best way to deal with a ghost is to put a little distance between you and it.” She casts a wary glance toward the shadowed corner before a playful smile returns. “And if a tune can send our friend scurrying back into the shadows, why, I may have to add it to my repertoire!”
 
 Turning toward Tetia, she gestures grandly toward the doorway. “Shall we clear the stage and let our learned lady work her magic? I’ll keep my flute at the ready. If our unseen audience demands an encore, I should hate to disappoint!”
+1. Tetia MercuryAPP — 10/20/26, 9:39 AM
+The room has grown so cold that Tetia would swear she can see her own breath; the chill finds whatever she cannot cover, bringing the rose up stark on skin gone so pale: the tip of her nose, the bare skin below her collar where the cloak gapes, the knuckles that clutch it shut.
+
+At Pip's gesture she inclines her head and makes for the doorway, wide of the corner, with a single look at the wall where those long fingers drew back.
+
+So a song can do both.
+
+Her gaze lowers, then lifts to Kieran, who answered her in kind, and her silent voice comes to the four of them again, softer now.
+
+‹No offense is taken; you are right to be wary of me, when you have known me so short a while. I would not ask you to trust me so soon... watch me as closely as you must. I want only to understand it, so that nothing is opened before any of us knows what waits beyond.›
+
+‹If you will let me hold it, I will do all I can to hide it from the watcher; I do not yet know how it sees us, or this world, or how much it can do. But while I work I see nothing else, and cannot raise my shield... so I would ask you to stand guard over me until it is done.›
+2. Kieran ThalorrAPP — Yesterday at 11:33 AM
+Kieran nods and motions toward the hallway and out of the room. As he enters the hallway, he scans the area for any threats.
+3. Dungeon MasterAPP — 2:28 AM
+Kieran steps into the hallway first, his attention immediately shifting from the strange bedroom to the surrounding passage. His eyes travel along the walls, across the doorways, and toward the staircase, searching for movement or anything that might signal another threat.
+
+The hallway appears quiet. The ruined tower offers no immediate sign of danger, but after the whispering presence and the unnatural cold, Kieran refuses to mistake silence for safety.
+
+Behind him, the others begin to withdraw from Thalivar’s bedroom, leaving the journal and its unanswered questions behind.
+4. Pippa 'Pip' MorgrinAPP — 3:53 AM
+As Pippa heads out of the bedroom, she looks towards Tetia, “Well, if you're going to unravel mysteries that freeze the very air around us, you'll need a little musical assistance!”
+
+She lifts the flute to her lips and plays a lively little flourish, sounding quite like ‘Pocketful of Sunshine’ by Natasha Bedingfield. The notes dance with a faint shimmer of magic as she directs the melody toward Tetia. The tune seems to hop, carrying with it a spark of confidence, a nudge of courage, and the promise that even the darkest mysteries need not be faced alone. 
+
+Pippa finishes with a playful flourish of her flute and a neat curtsey. “There! A little Bardic Inspiration, freshly composed and yours to spend when the moment calls for it!”
