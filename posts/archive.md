@@ -276,7 +276,7 @@ Her gaze lowers, then lifts to Kieran, who answered her in kind, and her silent 
 
 **‹If you will let me hold it, I will do all I can to hide it from the watcher; I do not yet know how it sees us, or this world, or how much it can do. But while I work I see nothing else, and cannot raise my shield... so I would ask you to stand guard over me until it is done.›**
 
-## 2026-10-22 · Session 64 · Out in the hallway after Pip's encouraging tune: she follows the others out of the cold, has only her shield to ready, takes delight in the song and thanks Pip, then asks Zeftina aloud for time with the disc, to learn from the disc itself what the watcher has told them · PENDING
+## 2026-10-22 · Session 64 · Out in the hallway after Pip's encouraging tune: she follows the others out of the cold, has only her shield to ready, takes delight in the song and thanks Pip, then asks Zeftina aloud for time with the disc, to learn from the disc itself what the watcher has told them
 Tetia is quick to follow the others out, as though the cold might be left behind with the room; out here they stay watchful, steel and bowstring near to hand, and she has nothing to ready but her plain shield.
 
 _I was sent only to observe storms. No one thought I should need a weapon._
@@ -288,3 +288,18 @@ At the first bright notes of Pip's flute, something small and warm settles benea
 She turns to Zeftina, and her next words are spoken aloud for all of them, though lower and slower, her eyes kept courteously from the bag.
 
 **"Zeftina... if you would permit it, I should like some time with the disc, a little way from that door. The watcher has told us what it is; I would sooner learn that from the disc itself, if it will tell me."**
+
+## 2026-10-23 · Session 64 · Zeftina hands her the disc with a warning: she sinks to Zeftina's eye level, thanks them for the chance to earn their trust, rises with the disc, inspects it with her back to the bedchamber door, and begins a prayer to learn what it is · PENDING
+Tetia takes the warning gravely, as it is given; then, mindful of how she must tower over someone who does not yet trust her, she lowers her tall frame before Zeftina, sinking slowly, knees drawn close and held just clear of the stone, the long blue panels of her gown settling about her greaves, until her eyes are level with the halfling's, though her gaze, once there, does not quite hold.
+
+**"That is fair warning, and I will remember it. And still you put it in my hands... thank you, all of you; I mean to deserve it."**
+
+She takes the bundle in both hands as though it might bruise, slender fingers cupped beneath it and careful not to brush Zeftina's own, then rises in one slow press, a held breath the only sign of what it costs her in plate.
+
+At her full height she turns so that her back is to the bedchamber door and the bundle lies in plain sight of them all, and only then folds back the cloth.
+
+Her eyes, gray-green and ringed darker at the rim, fix on what lies there; her fingertips travel its edge and find no seam, follow lines finer than a hair across the tarnished face, point to point like paths drawn between stars, and stop short of the small black stone at its heart, at which she does not look for long.
+
+She closes both hands about the disc and bows her silver head over it, and a prayer begins at her lips, murmured in Elvish and too soft to carry; she draws a breath deeper than the last, her palms warming about the cool metal, and a faint light, like moonlight on still water, shows between her fingers.
+
+Then she grows very still, her gaze gone soft and unfocused, and waits for understanding to come.

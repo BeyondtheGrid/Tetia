@@ -710,3 +710,17 @@ As Pippa heads out of the bedroom, she looks towards Tetia, “Well, if you're g
 She lifts the flute to her lips and plays a lively little flourish, sounding quite like ‘Pocketful of Sunshine’ by Natasha Bedingfield. The notes dance with a faint shimmer of magic as she directs the melody toward Tetia. The tune seems to hop, carrying with it a spark of confidence, a nudge of courage, and the promise that even the darkest mysteries need not be faced alone. 
 
 Pippa finishes with a playful flourish of her flute and a neat curtsey. “There! A little Bardic Inspiration, freshly composed and yours to spend when the moment calls for it!”
+1. Tetia MercuryAPP
+Tetia is quick to follow the others out, as though the cold might be left behind with the room; out here they stay watchful, steel and bowstring near to hand, and she has nothing to ready but her plain shield.
+
+_I was sent only to observe storms. No one thought I should need a weapon._
+
+At the first bright notes of Pip's flute, something small and warm settles beneath her ribs, as if a little sunlight had been slipped into her keeping; one corner of her mouth draws up without her leave, and for the first time since that room, her fingers let go of her cloak.
+
+**"Thank you, Pip. I shall take care not to spend it carelessly."**
+
+She turns to Zeftina, and her next words are spoken aloud for all of them, though lower and slower, her eyes kept courteously from the bag.
+
+**"Zeftina... if you would permit it, I should like some time with the disc, a little way from that door. The watcher has told us what it is; I would sooner learn that from the disc itself, if it will tell me."**
+2. Zeftina BronzefellowAPP
+Zeftina looks at Tetia suspiciously, slowly lowering her bag. **"To be honest, I dont fully trust you yet but learning more about this thing could be more beneficial then detrimental. But if you start acting funny or try to take it, I will light you up."** Zeftina was the most serious anyone in the group had heard her be for the entire time they had known her. She opened the bag and removed the covered disk, holding it up and out to Tetia.
