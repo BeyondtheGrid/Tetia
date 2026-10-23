@@ -289,8 +289,8 @@ She turns to Zeftina, and her next words are spoken aloud for all of them, thoug
 
 **"Zeftina... if you would permit it, I should like some time with the disc, a little way from that door. The watcher has told us what it is; I would sooner learn that from the disc itself, if it will tell me."**
 
-## 2026-10-23 · Session 64 · Zeftina hands over the disc with a warning: she kneels to Zeftina's height, acknowledges their distrust and thanks them for the chance to earn their trust, takes the disc with care, shields it from the bedchamber with her body, examines it by eye and fingertip, and begins a long Elvish prayer to learn what it is (result left to the GM) · PENDING
-At that promise of fire Tetia's eyes widen a little, but she gathers her skirts in one hand and sinks into a low kneel before Zeftina, plate chiming softly at hip and knee, her knees pressed close together and held just clear of the rubble, until she can meet those bronze eyes level; this near, she can hear the small ticking at Zeftina's throat.
+## 2026-10-23 · Session 64 · Zeftina hands over the disc with a warning: she kneels to Zeftina's height, acknowledges their distrust and thanks them for the chance to earn their trust, takes the disc with care, shields it from the bedchamber with her body, examines it by eye and fingertip, and begins a long Elvish prayer to learn what it is (result left to the GM)
+At that promise of fire Tetia's eyes widen a little, but sinks into a low kneel before Zeftina, plate chiming softly at hip and knee, her knees pressed close together and held just clear of the rubble, until she can meet those bronze eyes level; this near, she can hear the small ticking at Zeftina's throat.
 
 _Twice her height, and a stranger besides... in her place, I should be wary too._
 
@@ -303,3 +303,14 @@ She receives the covered disc in both hands, palms upturned as if it were someth
 Turning her back to the bedchamber door, so that her own body stands between the disc and that room, she folds back its covering and bends close; her hair slides forward over one shoulder, her soft lids lift wide and her gaze sharpens, and the pads of her fingers travel its rim and over its face, slow and unhurried, as they would the binding of a book far older than herself.
 
 Then a low Elvish murmur rises from her and goes on, patient and unbroken, long past where any common prayer would end; a coolness like spring water runs down her arms and gathers in her cupped palms, she draws one slow, deep breath, and her eyes lose their focus; the hallway seems to fall quiet around her as she waits for understanding to surface, if it will.
+
+## 2026-10-23 · Session 64 · Her prayer reveals what the disc is: she surfaces, covers it again, tells the party aloud that it is the key to the door on the roof that Thalivar built over two centuries ago, and that the watcher wants it to go back to wherever it came from, though she cannot tell whether that is all it wants; then offers it back to Zeftina · PENDING
+Tetia comes back to the hallway by degrees, the coolness ebbing from her palms; she does not look a second time into the black stone, but draws the cloth back over it with quick fingers, and only then looks up.
+
+**"It is a key,"** she says, under the thread of Pip's flute. **"Thalivar made the door upon the roof more than two hundred years ago; before his death he was seeking a way to pass from this world into others, and this is what opens it."**
+
+Her voice has quickened despite her, for a crossing between worlds made by mortal hands lies close to the heart of all she has studied; she catches herself, the toes of her sabatons turning inward on the stone, and begins again, more carefully.
+
+**"The watcher wants it so that it may reach that door, and go back through it to wherever it came from. That it longs to go home, I believe; whether that is all it wants, I cannot tell."**
+
+Then she bends and offers the covered disc back to Zeftina.

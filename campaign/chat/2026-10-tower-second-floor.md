@@ -724,3 +724,33 @@ She turns to Zeftina, and her next words are spoken aloud for all of them, thoug
 **"Zeftina... if you would permit it, I should like some time with the disc, a little way from that door. The watcher has told us what it is; I would sooner learn that from the disc itself, if it will tell me."**
 2. Zeftina BronzefellowAPP
 Zeftina looks at Tetia suspiciously, slowly lowering her bag. **"To be honest, I dont fully trust you yet but learning more about this thing could be more beneficial then detrimental. But if you start acting funny or try to take it, I will light you up."** Zeftina was the most serious anyone in the group had heard her be for the entire time they had known her. She opened the bag and removed the covered disk, holding it up and out to Tetia.
+1. Tetia MercuryAPP
+At that promise of fire Tetia's eyes widen a little, but sinks into a low kneel before Zeftina, plate chiming softly at hip and knee, her knees pressed close together and held just clear of the rubble, until she can meet those bronze eyes level; this near, she can hear the small ticking at Zeftina's throat.
+
+_Twice her height, and a stranger besides... in her place, I should be wary too._
+
+Color rises in her cheeks, and she is a moment finding her words.
+
+**"You need not trust me yet, Zeftina, nor any of you... thank you for letting me try to earn it."**
+
+She receives the covered disc in both hands, palms upturned as if it were something holy, careful that her fingers do not brush Zeftina's, then presses herself back up to her full height, slower than she would like, a breath held against the weight of the plate.
+
+Turning her back to the bedchamber door, so that her own body stands between the disc and that room, she folds back its covering and bends close; her hair slides forward over one shoulder, her soft lids lift wide and her gaze sharpens, and the pads of her fingers travel its rim and over its face, slow and unhurried, as they would the binding of a book far older than herself.
+
+Then a low Elvish murmur rises from her and goes on, patient and unbroken, long past where any common prayer would end; a coolness like spring water runs down her arms and gathers in her cupped palms, she draws one slow, deep breath, and her eyes lose their focus; the hallway seems to fall quiet around her as she waits for understanding to surface, if it will.
+2. Kieran ThalorrAPP
+Kieran looks to Pip as Tetia studies the disk.
+
+**"Pip, it may be a good idea to softly play the song that scared the creature away, just to make sure nothing invisible gets the drop on us..."**
+
+His breath slows as he aims toward the doorway of the bedchamber, eyes focused for any movement.
+3. Pippa 'Pip' MorgrinAPP
+She flashes Kieran a bright, appreciative grin. **"Forethought, perrrrfection!."** She raises her flute and plays the curious melody, swaying to its rhythm and turning lightly on her toes, as though the hallway were her stage. But even a bard must mind her audience. Her gaze slips between the bedchamber doorway and the hall beyond, keeping watch as the haunting notes dance through the air.
+4. Dungeon MasterAPP
+The disc's dark, tarnished surface catches the dim light. Fine markings trace its rim like a map of unfamiliar stars, while the small black glass-like stone at its center seems to hold something moving far beneath its surface.
+
+Around Tetia, the hallway grows quiet. Then understanding comes. The disc is the key to the dimensional portal atop Thalivar's Tower. The portal was constructed by Thalivar more than two centuries ago. Before his death, the wizard had been experimenting with dimensional travel, attempting to explore the boundaries between worlds. The disc was an essential component of that work—the key that activates the portal.
+
+The Watcher's desperate demands suddenly make more sense. It has not merely been asking for an interesting artifact. It wants the means to reach the portal and return to whatever lies beyond it.
+
+The disc rests in Tetia's hands, its purpose finally revealed.
