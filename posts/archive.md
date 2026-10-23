@@ -289,17 +289,17 @@ She turns to Zeftina, and her next words are spoken aloud for all of them, thoug
 
 **"Zeftina... if you would permit it, I should like some time with the disc, a little way from that door. The watcher has told us what it is; I would sooner learn that from the disc itself, if it will tell me."**
 
-## 2026-10-23 · Session 64 · Zeftina hands her the disc with a warning: she sinks to Zeftina's eye level, thanks them for the chance to earn their trust, rises with the disc, inspects it with her back to the bedchamber door, and begins a prayer to learn what it is · PENDING
-Tetia takes the warning gravely, as it is given; then, mindful of how she must tower over someone who does not yet trust her, she lowers her tall frame before Zeftina, sinking slowly, knees drawn close and held just clear of the stone, the long blue panels of her gown settling about her greaves, until her eyes are level with the halfling's, though her gaze, once there, does not quite hold.
+## 2026-10-23 · Session 64 · Zeftina hands over the disc with a warning: she kneels to Zeftina's height, acknowledges their distrust and thanks them for the chance to earn their trust, takes the disc with care, shields it from the bedchamber with her body, examines it by eye and fingertip, and begins a long Elvish prayer to learn what it is (result left to the GM) · PENDING
+At that promise of fire Tetia's eyes widen a little, but she gathers her skirts in one hand and sinks into a low kneel before Zeftina, plate chiming softly at hip and knee, her knees pressed close together and held just clear of the rubble, until she can meet those bronze eyes level; this near, she can hear the small ticking at Zeftina's throat.
 
-**"That is fair warning, and I will remember it. And still you put it in my hands... thank you, all of you; I mean to deserve it."**
+_Twice her height, and a stranger besides... in her place, I should be wary too._
 
-She takes the bundle in both hands as though it might bruise, slender fingers cupped beneath it and careful not to brush Zeftina's own, then rises in one slow press, a held breath the only sign of what it costs her in plate.
+Color rises in her cheeks, and she is a moment finding her words.
 
-At her full height she turns so that her back is to the bedchamber door and the bundle lies in plain sight of them all, and only then folds back the cloth.
+**"You need not trust me yet, Zeftina, nor any of you... thank you for letting me try to earn it."**
 
-Her eyes, gray-green and ringed darker at the rim, fix on what lies there; her fingertips travel its edge and find no seam, follow lines finer than a hair across the tarnished face, point to point like paths drawn between stars, and stop short of the small black stone at its heart, at which she does not look for long.
+She receives the covered disc in both hands, palms upturned as if it were something holy, careful that her fingers do not brush Zeftina's, then presses herself back up to her full height, slower than she would like, a breath held against the weight of the plate.
 
-She closes both hands about the disc and bows her silver head over it, and a prayer begins at her lips, murmured in Elvish and too soft to carry; she draws a breath deeper than the last, her palms warming about the cool metal, and a faint light, like moonlight on still water, shows between her fingers.
+Turning her back to the bedchamber door, so that her own body stands between the disc and that room, she folds back its covering and bends close; her hair slides forward over one shoulder, her soft lids lift wide and her gaze sharpens, and the pads of her fingers travel its rim and over its face, slow and unhurried, as they would the binding of a book far older than herself.
 
-Then she grows very still, her gaze gone soft and unfocused, and waits for understanding to come.
+Then a low Elvish murmur rises from her and goes on, patient and unbroken, long past where any common prayer would end; a coolness like spring water runs down her arms and gathers in her cupped palms, she draws one slow, deep breath, and her eyes lose their focus; the hallway seems to fall quiet around her as she waits for understanding to surface, if it will.
