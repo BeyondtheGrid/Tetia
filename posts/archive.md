@@ -304,7 +304,7 @@ Turning her back to the bedchamber door, so that her own body stands between the
 
 Then a low Elvish murmur rises from her and goes on, patient and unbroken, long past where any common prayer would end; a coolness like spring water runs down her arms and gathers in her cupped palms, she draws one slow, deep breath, and her eyes lose their focus; the hallway seems to fall quiet around her as she waits for understanding to surface, if it will.
 
-## 2026-10-23 · Session 64 · Her prayer reveals what the disc is: she surfaces, covers it again, tells the party aloud that it is the key to the door on the roof that Thalivar built over two centuries ago, and that the watcher wants it to go back to wherever it came from, though she cannot tell whether that is all it wants; then offers it back to Zeftina · PENDING
+## 2026-10-23 · Session 64 · Her prayer reveals what the disc is: she surfaces, covers it again, tells the party aloud that it is the key to the door on the roof that Thalivar built over two centuries ago, and that the watcher wants it to go back to wherever it came from, though she cannot tell whether that is all it wants; then offers it back to Zeftina
 Tetia comes back to the hallway by degrees, the coolness ebbing from her palms; she does not look a second time into the black stone, but draws the cloth back over it with quick fingers, and only then looks up.
 
 **"It is a key,"** she says, under the thread of Pip's flute. **"Thalivar made the door upon the roof more than two hundred years ago; before his death he was seeking a way to pass from this world into others, and this is what opens it."**
@@ -314,3 +314,14 @@ Her voice has quickened despite her, for a crossing between worlds made by morta
 **"The watcher wants it so that it may reach that door, and go back through it to wherever it came from. That it longs to go home, I believe; whether that is all it wants, I cannot tell."**
 
 Then she bends and offers the covered disc back to Zeftina.
+
+## 2026-10-24 · Session 64 · The party weighs what to do with the key: she says nothing, her idle hands restless and her gaze kept low so as not to seem to take a side; she warms at Pip's thought of anyone stranded far from home, nearly speaks at Kai's mention of the parchment, and stops her hand short of the gem at her collar · PENDING
+With the disc out of her keeping, Tetia's hands are left with nothing to hold, and they go looking for some purpose: one smooths a blue panel of her skirt that needs no smoothing, both settle a moment on the gold-trimmed edge of her waist plate, then they part again to tug a wide sleeve cuff down over one wrist.
+
+Her weight shifts from one hip to the other and back again as the talk goes round, the little blue-gemmed pendants down the front of her skirt swaying with each change; her gaze she keeps on the dusty stone between their feet, where no one could take it for a vote either way.
+
+_Whichever way I lean, they will wonder why. Better to keep silent, and hope they trust me a little further for it._
+
+At Pip's words of anyone stranded far from home, her restless hands go still in the folds of her gown; at Kai's parchment her chin lifts, eager, and she draws a breath to speak, then lets it go unspoken, and her gaze finds the floor again.
+
+Once, her cool fingers rise toward the blue gem at her collar, and she lowers them before anyone might take it for the beginning of a prayer.

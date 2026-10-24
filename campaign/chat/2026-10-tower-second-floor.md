@@ -754,3 +754,25 @@ Around Tetia, the hallway grows quiet. Then understanding comes. The disc is the
 The Watcher's desperate demands suddenly make more sense. It has not merely been asking for an interesting artifact. It wants the means to reach the portal and return to whatever lies beyond it.
 
 The disc rests in Tetia's hands, its purpose finally revealed.
+1. Tetia MercuryAPP — Yesterday at 9:57 AM
+Tetia comes back to the hallway by degrees, the coolness ebbing from her palms; she does not look a second time into the black stone, but draws the cloth back over it with quick fingers, and only then looks up.
+
+"It is a key," she says, under the thread of Pip's flute. "Thalivar made the door upon the roof more than two hundred years ago; before his death he was seeking a way to pass from this world into others, and this is what opens it."
+
+Her voice has quickened despite her, for a crossing between worlds made by mortal hands lies close to the heart of all she has studied; she catches herself, the toes of her sabatons turning inward on the stone, and begins again, more carefully.
+
+"The watcher wants it so that it may reach that door, and go back through it to wherever it came from. That it longs to go home, I believe; whether that is all it wants, I cannot tell."
+
+Then she bends and offers the covered disc back to Zeftina.
+2. Zeftina BronzefellowAPP — 6:52 AM
+Zeftina takes the disc back, making sure to cover it with out touching the metal. "I guess we need to decide if we put this key where it belongs and let them go back and take care of anything that may come through or not do anything. Do we tell Gallio about it? What if they want to use it for something nefarious? Like control of this Watcher?"
+3. Pippa 'Pip' MorgrinAPP — 7:27 AM
+Pippa’s expression softens at the thought of a creature longing for home, though her fingers tap a thoughtful rhythm against her flute. “Oh, I do hate the thought of leaving anyone stranded far from home. There’s a particular sadness in that sort of tale, wouldn’t you say?” Her lips purse. “But our friend in the corner hasn’t exactly struck me as the welcoming sort. I’m not sure I’d care to open a door for it without knowing what might come through.”
+
+She glances between her companions, her usual ready smile turning uncertain. “And as for Gallio, I’m still not convinced we know whether he’s been duplicated or not. Telling him might help, or it might hand the wrong person a rather dangerous key.” She lets out a small, thoughtful sigh. “I confess, I’m rather torn. I’d like to give someone the chance to go home, but I’d prefer not to turn that kindness into the opening verse of a very unfortunate ballad.”
+4. Kai VancroftAPP — 8:22 AM
+"It sounds like trust is in short supply when it comes to this disc, which is totally understandable. How do we move forward as we try to determine how all these pieces are connected and who to trust?" 
+
+Kai tries to imagine the links between everything that has happened in his head but nothing aligns perfectly, at least not yet. "What about the parchment? The shadow seems open to communicating. Maybe it can read it. None of us seemed to have any luck."
+
+"That doesn't mean we can trust what it says...necessarily...but it couldn't hurt to ask right?"
