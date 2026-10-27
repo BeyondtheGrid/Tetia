@@ -776,3 +776,15 @@ She glances between her companions, her usual ready smile turning uncertain. “
 Kai tries to imagine the links between everything that has happened in his head but nothing aligns perfectly, at least not yet. "What about the parchment? The shadow seems open to communicating. Maybe it can read it. None of us seemed to have any luck."
 
 "That doesn't mean we can trust what it says...necessarily...but it couldn't hurt to ask right?"
+1. Tetia MercuryAPP — 10/24/26, 1:23 PM
+With the disc out of her keeping, Tetia's hands are left with nothing to hold, and they go looking for some purpose: one smooths a blue panel of her skirt that needs no smoothing, both settle a moment on the gold-trimmed edge of her waist plate, then they part again to tug a wide sleeve cuff down over one wrist.
+
+Her weight shifts from one hip to the other and back again as the talk goes round, the little blue-gemmed pendants down the front of her skirt swaying with each change; her gaze she keeps on the dusty stone between their feet, where no one could take it for a vote either way.
+
+Whichever way I lean, they will wonder why. Better to keep silent, and hope they trust me a little further for it.
+2. Dungeon MasterAPP — Yesterday at 4:47 PM
+For now, the disc remains covered in Zeftina’s hands.
+
+The portal above remains unopened.
+
+And the party stands at a crossroads where compassion, caution, and curiosity pull them in different directions.

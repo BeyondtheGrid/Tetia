@@ -315,13 +315,22 @@ Her voice has quickened despite her, for a crossing between worlds made by morta
 
 Then she bends and offers the covered disc back to Zeftina.
 
-## 2026-10-24 · Session 64 · The party weighs what to do with the key: she says nothing, her idle hands restless and her gaze kept low so as not to seem to take a side; she warms at Pip's thought of anyone stranded far from home, nearly speaks at Kai's mention of the parchment, and stops her hand short of the gem at her collar · PENDING
+## 2026-10-24 · Session 64 · The party weighs what to do with the key: she says nothing, her idle hands restless and her gaze kept low so as not to seem to take a side
 With the disc out of her keeping, Tetia's hands are left with nothing to hold, and they go looking for some purpose: one smooths a blue panel of her skirt that needs no smoothing, both settle a moment on the gold-trimmed edge of her waist plate, then they part again to tug a wide sleeve cuff down over one wrist.
 
 Her weight shifts from one hip to the other and back again as the talk goes round, the little blue-gemmed pendants down the front of her skirt swaying with each change; her gaze she keeps on the dusty stone between their feet, where no one could take it for a vote either way.
 
 _Whichever way I lean, they will wonder why. Better to keep silent, and hope they trust me a little further for it._
 
-At Pip's words of anyone stranded far from home, her restless hands go still in the folds of her gown; at Kai's parchment her chin lifts, eager, and she draws a breath to speak, then lets it go unspoken, and her gaze finds the floor again.
+## 2026-10-26 · Session 64 · The table falls quiet over the key: her gaze goes round them, nerves drying her throat, and she suggests helping the watcher home, if that is truly all it seeks, so the workers can return and the voices may stop; she cannot say what may have been worked on their wizard, and waits to learn whether she ought to have spoken · PENDING
+At last Tetia's gaze lifts from the floor and moves from one to the next, Kai and Kieran, Pip and Grond, and comes last to Zeftina, whose warning of fire is not yet cold in her memory.
 
-Once, her cool fingers rise toward the blue gem at her collar, and she lowers them before anyone might take it for the beginning of a prayer.
+Her fingers lace together before her, tight enough to pale the knuckles, and she swallows against a throat gone dry. She clears it softly and presses her lips together to wet them, less to ready her voice than to keep it from wavering.
+
+**"Perhaps, if going home is truly all it seeks, helping the watcher on its way would let the workers return and finish what they began here. What is to become of the tower afterward, I do not know; but it might put an end to the voices that drove them off."**
+
+Once begun, her voice holds clear and even, a century of study behind it; it is her place among them she is unsure of, not her learning.
+
+**"As for your wizard,"** she adds, more softly, **"whether anything has been worked upon him, I cannot say, and I would not guess."**
+
+She falls quiet after that, her laced hands no looser, and waits to learn whether she ought to have spoken at all.
