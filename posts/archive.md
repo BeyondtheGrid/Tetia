@@ -322,7 +322,7 @@ Her weight shifts from one hip to the other and back again as the talk goes roun
 
 _Whichever way I lean, they will wonder why. Better to keep silent, and hope they trust me a little further for it._
 
-## 2026-10-26 · Session 64 · The table falls quiet over the key: her gaze goes round them, nerves drying her throat, and she suggests helping the watcher home, if that is truly all it seeks, so the workers can return and the voices may stop; she cannot say what may have been worked on their wizard, and waits to learn whether she ought to have spoken · PENDING
+## 2026-10-26 · Session 64 · The table falls quiet over the key: her gaze goes round them, nerves drying her throat, and she suggests helping the watcher home, if that is truly all it seeks, so the workers can return and the voices may stop; she cannot say what may have been worked on their wizard; then, after a long hesitation, she offers to be the one to turn the key, almost lightly, and a small sadness crosses her face · PENDING
 At last Tetia's gaze lifts from the floor and moves from one to the next, Kai and Kieran, Pip and Grond, and comes last to Zeftina, whose warning of fire is not yet cold in her memory.
 
 Her fingers lace together before her, tight enough to pale the knuckles, and she swallows against a throat gone dry. She clears it softly and presses her lips together to wet them, less to ready her voice than to keep it from wavering.
@@ -333,4 +333,8 @@ Once begun, her voice holds clear and even, a century of study behind it; it is 
 
 **"As for your wizard,"** she adds, more softly, **"whether anything has been worked upon him, I cannot say, and I would not guess."**
 
-She falls quiet after that, her laced hands no looser, and waits to learn whether she ought to have spoken at all.
+She falls quiet after that, her laced hands no looser, and for a long moment seems to weigh whether to say more; then her fingers come apart and fall to her sides.
+
+**"If it comes to turning the key, I could be the one to do it,"** she ventures, almost lightly. **"I may be the only one among us who has spent years on doors like this one; it would be a pity to let all that reading go to waste."**
+
+Yet even as she says it, a small sadness steals across her face, her lashes lowering, as though she has just offered to walk a road with no way back.
