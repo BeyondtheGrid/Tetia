@@ -788,3 +788,21 @@ For now, the disc remains covered in Zeftina’s hands.
 The portal above remains unopened.
 
 And the party stands at a crossroads where compassion, caution, and curiosity pull them in different directions.
+1. Tetia MercuryAPP — Yesterday at 11:32 PM
+At last Tetia's gaze lifts from the floor and moves from one to the next, Kai and Kieran, Pip and Grond, and comes last to Zeftina, whose warning of fire is not yet cold in her memory.
+
+Her fingers lace together before her, tight enough to pale the knuckles, and she swallows against a throat gone dry. She clears it softly and presses her lips together to wet them, less to ready her voice than to keep it from wavering.
+
+"Perhaps, if going home is truly all it seeks, helping the watcher on its way would let the workers return and finish what they began here. What is to become of the tower afterward, I do not know; but it might put an end to the voices that drove them off."
+
+Once begun, her voice holds clear and even, a century of study behind it; it is her place among them she is unsure of, not her learning.
+
+"As for your wizard," she adds, more softly, "whether anything has been worked upon him, I cannot say, and I would not guess."
+
+She falls quiet after that, her laced hands no looser, and waits to learn whether she ought to have spoken at all.
+2. Pippa 'Pip' MorgrinAPP — 3:01 AM
+Pippa’s gaze shifts to Tetia, her expression softening as the elf finishes speaking. “Well, that’s a point in its favor, isn’t it? If we can send our unwelcome guest home and let the workers reclaim their tower, I’d call that a rather respectable ending to this particular tale.” She tilts her head, a faint smile playing at her lips. “Though I’d prefer we read a few more pages before handing anyone the keys to the kingdom.”
+
+Her brows pulled together thoughtfully, she raises her flute and taps it lightly against her palm with each point as if she was keeping count. “We’ve got the possibility of duplicated people, (tap) no clear verse explaining what really happened to Thalivar and the Ruinstone, (tap) and not the faintest idea what might come through that portal once we open it. (Tap, tap, tap) 
+
+Her head tilts more as she continues, “And those journal entries? Dreams of the tower in ruins, which it currently is, (tap tap), a dead world, and desperate and RECENT pleas for the dreams to stop? That’s a rather grim refrain to keep cropping up.” Her concern continues as she glances around the group. “I’m not against helping our shadow find its way home. I’d just rather know what we’re inviting onto the stage before we raise the curtain.”
