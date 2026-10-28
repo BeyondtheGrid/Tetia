@@ -806,3 +806,17 @@ Pippa’s gaze shifts to Tetia, her expression softening as the elf finishes spe
 Her brows pulled together thoughtfully, she raises her flute and taps it lightly against her palm with each point as if she was keeping count. “We’ve got the possibility of duplicated people, (tap) no clear verse explaining what really happened to Thalivar and the Ruinstone, (tap) and not the faintest idea what might come through that portal once we open it. (Tap, tap, tap) 
 
 Her head tilts more as she continues, “And those journal entries? Dreams of the tower in ruins, which it currently is, (tap tap), a dead world, and desperate and RECENT pleas for the dreams to stop? That’s a rather grim refrain to keep cropping up.” Her concern continues as she glances around the group. “I’m not against helping our shadow find its way home. I’d just rather know what we’re inviting onto the stage before we raise the curtain.”
+1. Tetia MercuryAPP — Yesterday at 10:36 PM
+At Pip's kind reply Tetia seems to have her answer, for the tightness goes out of her laced fingers, and she inclines her head to the bard, grave and grateful.
+
+"I am of your mind, Pip: the more we understand before that door is opened, the better."
+
+Her gaze strays past them to the bedchamber, where the journal still lies open, and she goes on slowly, as though thinking it through aloud.
+
+"The watcher, I think, is what has driven the workers away, and it wants to return to wherever Thalivar first called it from. The entries of these last nights, though, seem to me his own: his spirit walking the tower as it stands now while remembering it whole, so that every fallen stone looks to him like a dream of ruin, and the world he knew, a dead one. What troubles me is whether the years alone brought this floor down, or his work; I should hope his pursuit of the Ruinstone was not what ended him, but if it was, then I share your caution about whose hands that key comes to."
+
+She hesitates, and her hand finds the rim of her shield, as if she is unsure the offer is hers to make.
+
+"And the wizard you call Gallio... if you would bring me to him, I might see what ails him, if anything does, I promise I will try to help him."
+2. Kieran ThalorrAPP — 7:48 AM
+Kieran steps forward. "I don't trust Gallio. There's something off about him for sure. If you want to meet him before we head to the tower, we can, but let's continue to keep the stone and potentially opening that portal secret. And, if we do open it, I'll shoot anything that comes out of it. This is a one way trip for one creature only. Are we all aligned on this?"

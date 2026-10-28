@@ -335,7 +335,7 @@ Once begun, her voice holds clear and even, a century of study behind it; it is 
 
 She falls quiet after that, her laced hands no looser, and waits to learn whether she ought to have spoken at all.
 
-## 2026-10-27 · Session 64 · Pip answers warmly but wants to read more pages first: she agrees the more they understand the better, gives her reading aloud (the watcher drove the workers off and wants to go home; the recent journal entries are Thalivar's spirit walking the tower as it is now while remembering it whole; whether the years or his pursuit of the Ruinstone brought the floor down and ended him, she can't tell, so she shares Pip's caution about whose hands the key comes to), and offers, unsure it is hers to offer, to look at the wizard they call Gallio if they bring her to him · PENDING
+## 2026-10-27 · Session 64 · Pip answers warmly but wants to read more pages first: she agrees the more they understand the better, gives her reading aloud (the watcher drove the workers off and wants to go home; the recent journal entries are Thalivar's spirit walking the tower as it is now while remembering it whole; whether the years or his pursuit of the Ruinstone brought the floor down and ended him, she can't tell, so she shares Pip's caution about whose hands the key comes to), and offers, unsure it is hers to offer, to look at the wizard they call Gallio if they bring her to him
 At Pip's kind reply Tetia seems to have her answer, for the tightness goes out of her laced fingers, and she inclines her head to the bard, grave and grateful.
 
 **"I am of your mind, Pip: the more we understand before that door is opened, the better."**
@@ -346,4 +346,13 @@ Her gaze strays past them to the bedchamber, where the journal still lies open, 
 
 She hesitates, and her hand finds the rim of her shield, as if she is unsure the offer is hers to make.
 
-**"And the wizard you call Gallio... if you would bring me to him, I might see what ails him, if anything does, though I promise nothing."**
+**"And the wizard you call Gallio... if you would bring me to him, I might see what ails him, if anything does, I promise I will try to help him."**
+
+## 2026-10-28 · Session 64 · Kieran asks whether they are aligned (keep the key secret, see Gallio first if she wants, shoot anything that comes through): she needn't see Gallio first, only meant to see how he fares and help; agrees to keep the key quiet, since who holds it and why matters more than what it opens; sorrow at the thought that opening the door may have ended Thalivar; offers, if they would trust her with it, to turn the key herself, since crossings between worlds were her study at court · PENDING
+Tetia lets a moment pass before she answers Kieran, as if to be sure she has understood.
+
+**"There is no need for me to meet him first; I meant only to see how he fares, and help if I can, and that can wait until our business here is done."** A faint color rises in her cheeks, and the rest comes softer. **"In keeping the key quiet, I am with you: it is worth a great deal for what it opens, but who holds it, and to what end, matters more, I think."**
+
+Then her eyes rise to the broken ceiling and the roof beyond it, and sorrow settles into her features; her lashes drop, and her shoulders draw in a little beneath her pauldrons. Thalivar is the last she knows of to open that door, and it may have been the opening that ended him.
+
+**"If you mean to open it, and would trust me with it, I would turn the key myself,"** she says, more quietly. **"Crossings between worlds were my study at court; unless one of you knows them better, I may know enough of them to try, and you would all be free to meet whatever comes through..."**
