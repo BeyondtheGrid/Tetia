@@ -348,11 +348,18 @@ She hesitates, and her hand finds the rim of her shield, as if she is unsure the
 
 **"And the wizard you call Gallio... if you would bring me to him, I might see what ails him, if anything does, I promise I will try to help him."**
 
-## 2026-10-28 · Session 64 · Kieran asks whether they are aligned (keep the key secret, see Gallio first if she wants, shoot anything that comes through): she needn't see Gallio first, only meant to see how he fares and help; agrees to keep the key quiet, since who holds it and why matters more than what it opens; sorrow at the thought that opening the door may have ended Thalivar; offers, if they would trust her with it, to turn the key herself, since crossings between worlds were her study at court · PENDING
+## 2026-10-28 · Session 64 · Kieran asks whether they are aligned (keep the key secret, see Gallio first if she wants, shoot anything that comes through): she needn't see Gallio first, only meant to see how he fares and help; agrees to keep the key quiet, since who holds it and why matters more than what it opens; sorrow at the thought that opening the door may have ended Thalivar; offers, if they would trust her with it, to turn the key herself, since crossings between worlds were part of her study at court
 Tetia lets a moment pass before she answers Kieran, as if to be sure she has understood.
 
 **"There is no need for me to meet him first; I meant only to see how he fares, and help if I can, and that can wait until our business here is done."** A faint color rises in her cheeks, and the rest comes softer. **"In keeping the key quiet, I am with you: it is worth a great deal for what it opens, but who holds it, and to what end, matters more, I think."**
 
 Then her eyes rise to the broken ceiling and the roof beyond it, and sorrow settles into her features; her lashes drop, and her shoulders draw in a little beneath her pauldrons. Thalivar is the last she knows of to open that door, and it may have been the opening that ended him.
 
-**"If you mean to open it, and would trust me with it, I would turn the key myself,"** she says, more quietly. **"Crossings between worlds were my study at court; unless one of you knows them better, I may know enough of them to try, and you would all be free to meet whatever comes through..."**
+**"If you mean to open it, and would trust me with it, I would turn the key myself,"** she says, more quietly. **"Crossings between worlds were part of my study at court; unless one of you knows them better, I may know enough of them to try, and you would all be free to meet whatever comes through..."**
+
+## 2026-10-28 · Session 64 · Pip vouches for her (kindness, no weapon, "you remind me of a fairy") and asks the others to let her turn the key; Kai agrees and repeats Kieran's one-way trip: she flushes shy, a giggle escapes at "fairy" and she covers her smile, gives Pip a shy nod of thanks without a word, then composes herself for Kai with the amusement still showing · PENDING
+Tetia is not ready for so much kindness: heat creeps up to the very tips of her ears, and the pointed toes of her sabatons turn in toward one another.
+
+At being likened to a fairy, though, a giggle slips out of her, small and bright, before she can catch it, and her hand flies up to cover her mouth, too late to hide the smile beneath. Over her fingers she gives the bard a quick, shy nod of thanks, and leaves it at that.
+
+When Kai gives his agreement, she lowers her hand and draws herself straight, her pauldrons settling with a faint clink, and turns to listen with all the composure of a court audience. It does not quite hold: one corner of her mouth will not stay down, a brightness lingers in her eyes, and her shoulders, so lately drawn in beneath the silver, sit easier now.

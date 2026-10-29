@@ -820,3 +820,16 @@ She hesitates, and her hand finds the rim of her shield, as if she is unsure the
 "And the wizard you call Gallio... if you would bring me to him, I might see what ails him, if anything does, I promise I will try to help him."
 2. Kieran ThalorrAPP — 7:48 AM
 Kieran steps forward. "I don't trust Gallio. There's something off about him for sure. If you want to meet him before we head to the tower, we can, but let's continue to keep the stone and potentially opening that portal secret. And, if we do open it, I'll shoot anything that comes out of it. This is a one way trip for one creature only. Are we all aligned on this?"
+1. Tetia MercuryAPP — 10:14 AM
+Tetia lets a moment pass before she answers Kieran, as if to be sure she has understood.
+
+"There is no need for me to meet him first; I meant only to see how he fares, and help if I can, and that can wait until our business here is done." A faint color rises in her cheeks, and the rest comes softer. "In keeping the key quiet, I am with you: it is worth a great deal for what it opens, but who holds it, and to what end, matters more, I think."
+
+Then her eyes rise to the broken ceiling and the roof beyond it, and sorrow settles into her features; her lashes drop, and her shoulders draw in a little beneath her pauldrons. Thalivar is the last she knows of to open that door, and it may have been the opening that ended him.
+
+"If you mean to open it, and would trust me with it, I would turn the key myself," she says, more quietly. "Crossings between worlds were part of my study at court; unless one of you knows them better, I may know enough of them to try, and you would all be free to meet whatever comes through..."
+2. Pippa 'Pip' MorgrinAPP — 1:44 PM
+Pippa gives Tetia a thoughtful look and then a reassuring smile. “Well, in the short time we’ve been acquainted, you’ve shown us kindness, courtesy, and a willingness to help. Besides, there are rather more of us than there are of you, and I haven’t spotted a weapon on your person.” She tilts her head, her smile turning a touch more playful. “And you remind me of a fairy. I’ve always been rather fond of fairies, you see. It would be a shame to distrust someone simply for being willing to help.”
+With that, Pippa lifts her flute and gives it another light, thoughtful twirl and turns to the others, one brow arched in invitation. “Now, my fine friends, have I missed some dreadful verse in this tale? If we decide to open said portal, will there be any objections to letting Tetia lend her expertise and see what a little trust and a clever hand at the key might bring?”
+3. Kai VancroftAPP — 8:09 PM
+"Sounds like a reasonable plan to me." Kai looks toward Kieran. "And, as Kieran said, this is a one way trip for one creature only."
