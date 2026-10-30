@@ -357,9 +357,18 @@ Then her eyes rise to the broken ceiling and the roof beyond it, and sorrow sett
 
 **"If you mean to open it, and would trust me with it, I would turn the key myself,"** she says, more quietly. **"Crossings between worlds were part of my study at court; unless one of you knows them better, I may know enough of them to try, and you would all be free to meet whatever comes through..."**
 
-## 2026-10-28 · Session 64 · Pip vouches for her (kindness, no weapon, "you remind me of a fairy") and asks the others to let her turn the key; Kai agrees and repeats Kieran's one-way trip: she flushes shy, a giggle escapes at "fairy" and she covers her smile, gives Pip a shy nod of thanks without a word, then composes herself for Kai with the amusement still showing · PENDING
-Tetia is not ready for so much kindness: heat creeps up to the very tips of her ears, and the pointed toes of her sabatons turn in toward one another.
+## 2026-10-28 · Session 64 · Pip vouches for her (kindness, no weapon, "you remind me of a fairy") and asks the others to let her turn the key; Kai agrees and repeats Kieran's one-way trip: she flushes shy, a giggle escapes at "fairy" and she covers her smile, gives Pip a shy nod of thanks without a word, then composes herself for Kai with the amusement still showing
+Tetia is not ready for so much kindness: heat creeps up to the very tips of her ears, and the pointed toes of her boots turn in toward one another.
 
 At being likened to a fairy, though, a giggle slips out of her, small and bright, before she can catch it, and her hand flies up to cover her mouth, too late to hide the smile beneath. Over her fingers she gives the bard a quick, shy nod of thanks, and leaves it at that.
 
-When Kai gives his agreement, she lowers her hand and draws herself straight, her pauldrons settling with a faint clink, and turns to listen with all the composure of a court audience. It does not quite hold: one corner of her mouth will not stay down, a brightness lingers in her eyes, and her shoulders, so lately drawn in beneath the silver, sit easier now.
+When Kai gives his agreement, she lowers her hand and draws herself straighter, her pauldrons settling with a faint clink, and turns to listen with all the composure of a court audience. It does not quite hold: one corner of her mouth will not stay down, a brightness lingers in her eyes, and her shoulders, so lately drawn in beneath the silver, sit easier now.
+
+## 2026-10-30 · Session 64 · Kieran asks her the way to the portal and Pip would hear the other verses first, perhaps from Gallio: the cold from the bedchamber reaches her in the hallway and her pendants betray a shiver; she puts off her questions about his journey between worlds, says the door is at the top of the tower but she has yet to learn how to reach it, tells Pip she knows the wizard only by their account and can't say whether going to him is wise, and offers to help wherever she can with what is to be learned here · PENDING
+The cold she believed she had left behind that door finds her out here, gets in under her cloak and raises gooseflesh the length of her arms. She holds in the shiver for propriety's sake, but the small pendants on their gold chains chime against one another and give her away.
+
+Turning so as not to have the door at her back, she sets aside the questions she has been saving for Kieran about his journey between worlds, and answers the one he has asked.
+
+**"At the top of this tower, I believe."** A pause, as it occurs to her that he asked rather more than that. **"How one reaches it, I have yet to learn."**
+
+**"I know the wizard only by what you have told me,"** she says to Pip, her gaze resting somewhere near the flute, **"so I could not tell you whether it would be wise to go to him, or whether he could help us. But if there is more to be learned here before the key is turned, I will help wherever I can."**

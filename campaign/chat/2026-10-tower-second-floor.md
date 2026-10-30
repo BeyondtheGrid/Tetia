@@ -833,3 +833,41 @@ Pippa gives Tetia a thoughtful look and then a reassuring smile. “Well, in the
 With that, Pippa lifts her flute and gives it another light, thoughtful twirl and turns to the others, one brow arched in invitation. “Now, my fine friends, have I missed some dreadful verse in this tale? If we decide to open said portal, will there be any objections to letting Tetia lend her expertise and see what a little trust and a clever hand at the key might bring?”
 3. Kai VancroftAPP — 8:09 PM
 "Sounds like a reasonable plan to me." Kai looks toward Kieran. "And, as Kieran said, this is a one way trip for one creature only."
+1. Tetia MercuryAPP — 10/28/26, 11:15 PM
+Tetia is not ready for so much kindness: heat creeps up to the very tips of her ears, and the pointed toes of her boots turn in toward one another.
+
+At being likened to a fairy, though, a giggle slips out of her, small and bright, before she can catch it, and her hand flies up to cover her mouth, too late to hide the smile beneath. Over her fingers she gives the bard a quick, shy nod of thanks, and leaves it at that.
+
+When Kai gives his agreement, she lowers her hand and draws herself straighter, her pauldrons settling with a faint clink, and turns to listen with all the composure of a court audience. It does not quite hold: one corner of her mouth will not stay down, a brightness lingers in her eyes, and her shoulders, so lately drawn in beneath the silver, sit easier now.
+2. Kieran ThalorrAPP — Yesterday at 7:02 AM
+"Works for me. The quori I'm bonded with speaks softly through intuition, so I've only the stories I've heard of Dal Quor when it comes to crossing between worlds. Well that, and I guess my journey from Eberron here, but that was a relatively quick jump with a mage many years ago. How he did it, I have no idea."
+3. Pippa 'Pip' MorgrinAPP — Yesterday at 7:27 AM
+Pippa’s eyes sparkle, her face lights up and she sweeps her flute through an exuberant flourish, nearly conducting an invisible orchestra. “A mysterious mage, a leap between worlds, and no one knows how he managed it? Kieran, you’ve a magical song hiding in there!” She gives a little hop, then a playful curtsey, as though accepting an invitation to a grand performance. “Oh, I do so hope you will honor me the telling of the tale, properly one day! I’ll bring the music, you bring the memories, and we can see to making a mystery sing!”
+4. Dungeon MasterAPP — Yesterday at 8:44 AM
+From somewhere behind the bedchamber door comes a faint creak. The sound is slight enough to be mistaken for settling timber or shifting rubble, but it is followed by a soft scrape, like the tip of a quill being drawn across parchment.
+
+Then silence.
+
+A cool draft slips through the corridor, stirring the edges of loose parchment and carrying with it the faint, metallic scent that has haunted the tower since they arrived. For a heartbeat, the shadows beneath the bedroom door seem darker than the surrounding gloom.
+
+No voice follows. No words appear on the page.
+
+The Watcher may be listening. It may be waiting. Or perhaps the melody has left it too unsettled to answer.
+5. Kieran ThalorrAPP — Yesterday at 12:19 PM
+"Look, we know you're here. If you have a way to not be creepy and invisible, we would all collectively prefer it. It sounds like we're in agreement with helping you, but don't try anything that gives us pause, or that could change."
+
+With that, Kieran motions to Tetia. "If you know the way to the portal, I'll follow with my eyes peeled."
+6. Grond the OakfellAPP — Yesterday at 3:06 PM
+Grond has remained unusually quiet throughout the discussion, his arms crossed as he listens to the others debate the strange creature and its desire to return home.
+
+"So we're going to open a portal to some unknown place, trust that this thing only wants to leave, and hope nothing else comes crawling through?"
+
+He lets out a low grunt, glancing toward the bedchamber door.
+
+"Can't say I like it. But if we're doing this, then let's get on with it. Tetia can work the magic, and the rest of us can make sure nothing comes through that shouldn't."
+
+He adjusts his grip on his battleaxe and looks toward the others.
+
+"And if something does come through, I'll make sure it regrets the journey."
+7. Pippa 'Pip' MorgrinAPP — Yesterday at 3:20 PM
+Pippa’s gaze moves from Grond’s battleaxe to the bedchamber door, as she lightly taps the end of her flute to her chin. “Before we make a grand entrance through a portal to who-knows-where, should we consider our other verses? We could investigate more, or pay Gallio another visit and see if he has anything else useful to share?” She tilts her head, “I do love a dramatic finale, but I’m a tad bit wary for us to rush into one before we’ve heard all the clues.”
