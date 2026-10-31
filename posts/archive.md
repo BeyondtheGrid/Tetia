@@ -364,7 +364,7 @@ At being likened to a fairy, though, a giggle slips out of her, small and bright
 
 When Kai gives his agreement, she lowers her hand and draws herself straighter, her pauldrons settling with a faint clink, and turns to listen with all the composure of a court audience. It does not quite hold: one corner of her mouth will not stay down, a brightness lingers in her eyes, and her shoulders, so lately drawn in beneath the silver, sit easier now.
 
-## 2026-10-30 · Session 64 · Kieran asks her the way to the portal and Pip would hear the other verses first, perhaps from Gallio: the cold from the bedchamber reaches her in the hallway and her pendants betray a shiver; she puts off her questions about his journey between worlds, says the door is at the top of the tower but she has yet to learn how to reach it, tells Pip she knows the wizard only by their account and can't say whether going to him is wise, and offers to help wherever she can with what is to be learned here · PENDING
+## 2026-10-30 · Session 64 · Kieran asks her the way to the portal and Pip would hear the other verses first, perhaps from Gallio: the cold from the bedchamber reaches her in the hallway and her pendants betray a shiver; she puts off her questions about his journey between worlds, says the door is at the top of the tower but she has yet to learn how to reach it, tells Pip she knows the wizard only by their account and can't say whether going to him is wise, and offers to help wherever she can with what is to be learned here
 The cold she believed she had left behind that door finds her out here, gets in under her cloak and raises gooseflesh the length of her arms. She holds in the shiver for propriety's sake, but the small pendants on their gold chains chime against one another and give her away.
 
 Turning so as not to have the door at her back, she sets aside the questions she has been saving for Kieran about his journey between worlds, and answers the one he has asked.
@@ -372,3 +372,12 @@ Turning so as not to have the door at her back, she sets aside the questions she
 **"At the top of this tower, I believe."** A pause, as it occurs to her that he asked rather more than that. **"How one reaches it, I have yet to learn."**
 
 **"I know the wizard only by what you have told me,"** she says to Pip, her gaze resting somewhere near the flute, **"so I could not tell you whether it would be wise to go to him, or whether he could help us. But if there is more to be learned here before the key is turned, I will help wherever I can."**
+
+## 2026-10-31 · Session 64 · The watcher writes that it won't force the key and invites questions, and Pip pours out hers: Tetia reads the wet ink from where she stands, interest coming to stand beside her fear; she murmurs that it hears them, reasons and would sooner answer than take, it seems; she glances toward the dark corner and privately hopes it has forgiven them the tune · PENDING
+From where she stands, over Pip's copper curls, Tetia can make out the wet ink; she reads it through, her lips moving faintly, and then she reads it again. The fear has not left her, but interest has come to stand beside it, and her gaze fixes on the page as it would on a text that has argued back.
+
+**"It hears us, and it reasons, and it would sooner answer than take, it seems..."** she murmurs, to no one in particular.
+
+Then her glance steals toward the dark corner between the shelves, and she stands very still.
+
+_I do hope it has forgiven us the tune._

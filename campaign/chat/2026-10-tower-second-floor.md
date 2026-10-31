@@ -871,3 +871,42 @@ He adjusts his grip on his battleaxe and looks toward the others.
 "And if something does come through, I'll make sure it regrets the journey."
 7. Pippa 'Pip' MorgrinAPP — Yesterday at 3:20 PM
 Pippa’s gaze moves from Grond’s battleaxe to the bedchamber door, as she lightly taps the end of her flute to her chin. “Before we make a grand entrance through a portal to who-knows-where, should we consider our other verses? We could investigate more, or pay Gallio another visit and see if he has anything else useful to share?” She tilts her head, “I do love a dramatic finale, but I’m a tad bit wary for us to rush into one before we’ve heard all the clues.”
+1. Tetia MercuryAPP — Yesterday at 1:08 AM
+The cold she believed she had left behind that door finds her out here, gets in under her cloak and raises gooseflesh the length of her arms. She holds in the shiver for propriety's sake, but the small pendants on their gold chains chime against one another and give her away.
+
+Turning so as not to have the door at her back, she sets aside the questions she has been saving for Kieran about his journey between worlds, and answers the one he has asked.
+
+"At the top of this tower, I believe." A pause, as it occurs to her that he asked rather more than that. "How one reaches it, I have yet to learn."
+
+"I know the wizard only by what you have told me," she says to Pip, her gaze resting somewhere near the flute, "so I could not tell you whether it would be wise to go to him, or whether he could help us. But if there is more to be learned here before the key is turned, I will help wherever I can."
+2. Kieran ThalorrAPP — Yesterday at 7:46 AM
+Looking to Grond, Kieran nods. "Keep your axe ready. We may need it."
+
+Turning to the others, Kieran adds, "If you want to look around more or speak to Gallio, do as you'd like, but I'm ready to ascend when you are. Hopefully this ends amicably, but I have an arrow ready if it goes south."
+3. Pippa 'Pip' MorgrinAPP — Yesterday at 9:54 AM
+"I do think it would be a good idea to stay together - we still have that possible duplication issue...." She pauses, takes a deep breath and makes a firm nod, "All right, let's do this!" She raises her flute in readiness.
+4. Kai VancroftAPP — Yesterday at 12:20 PM
+Kai draws his sword and gives a swift nod.
+5. Zeftina BronzefellowAPP — Yesterday at 12:44 PM
+"So we are going to do this? Place this stone in the portal?" Zeftina asks as she is already making her way to the staircase, wrapped stone still in hand. She looks up the stairwell before looking back to the others. "It sounded like the pen was writing once more. Shall we at least check before going up?"
+6. Dungeon MasterAPP — 6:16 AM
+From the bedchamber comes another faint scrape. Then, unmistakably, the sound of a quill moving across paper. A moment later, the bedroom door eases open by an inch. No hand touches it. No figure stands beyond it. The darkness inside the room seems to gather around the open journal on Thalivar’s desk, and the familiar chill creeps into the hallway.
+
+A few seconds pass before the door swings wider. On the open page, fresh ink slowly forms into words: “You speak of trust, yet you do not listen.” 
+
+The quill lifts, hangs motionless, then begins writing again. “I have shown you what I can. I will not force the key from your hands. If you wish to help me, come to the roof. If you wish to learn more, ask.”
+
+The quill drops onto the journal with a soft tap. The words remain wet and dark against the parchment.
+7. Pippa 'Pip' MorgrinAPP — 10:55 AM
+Tilting her head, Pippa studies the fresh writing and steps a little closer to the journal. Her fingers give thoughtful taps along her flute. "Well, if you're inviting questions, I do believe I've collected a few!" she says, her curiosity winning out over her caution. 
+
+She spills out all the questions she has collected since the warehouse. 
+Were exactly is your home, as you call it? 
+What really happened to Thalivar? 
+Is it possible he’s stuck somewhere on the other side of the portal? 
+How did you come to be here, and how did you originally become trapped here?
+How does the melody I played both call and dismiss? 
+Does it do anything else? 
+What do you know about people being duplicated?
+
+She pauses, thinking a moment before returning her attention to the page. "And perhaps most importantly, what happens if we open the portal? What will come through? Could anything or anyone get pulled into it unwillingly?" She nods, marking the end of her list, then turns to the others, “Anything else?”
