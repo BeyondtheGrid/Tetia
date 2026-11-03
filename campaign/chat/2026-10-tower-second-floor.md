@@ -910,3 +910,85 @@ Does it do anything else?
 What do you know about people being duplicated?
 
 She pauses, thinking a moment before returning her attention to the page. "And perhaps most importantly, what happens if we open the portal? What will come through? Could anything or anyone get pulled into it unwillingly?" She nods, marking the end of her list, then turns to the others, “Anything else?”
+1. Tetia MercuryAPP — 10/31/26, 2:11 PM
+From where she stands, over Pip's copper curls, Tetia can make out the wet ink; she reads it through, her lips moving faintly, and then she reads it again. The fear has not left her, but interest has come to stand beside it, and her gaze fixes on the page as it would on a text that has argued back.
+
+"It hears us, and it reasons, and it would sooner answer than take, it seems..." she murmurs, to no one in particular.
+
+Then her glance steals toward the dark corner between the shelves, and she stands very still.
+
+I do hope it has forgiven us the tune.
+2. Dungeon MasterAPP — 11/1/26, 5:35 AM
+For several moments, nothing happens. The journal lies open beneath the faint light filtering through the ruined tower. The ink remains wet, and the quill rests beside the page. Pippa's questions hang in the silence, one after another, each adding another thread to a mystery that has grown far larger than the party first imagined.
+
+Then the quill rises. It hovers over the page, trembling slightly, before beginning to write.
+
+"You ask many questions. I will answer what I can." The first answer appears slowly. "My home is beyond the Far Threshold. Your words have no proper name for it. It is not a place beneath your sky, nor among your stars. It is a place between places, where distance and time do not behave as they do here."
+
+The quill pauses. "I came here because Thalivar called. His light reached beyond the boundary. His songs gave me a path to follow. I watched through the window he made, listened to his thoughts, and learned the shape of this world through him."
+
+The next words come more slowly. "I was not trapped at first. I could come and go through the opening while it remained stable. But Thalivar changed his work. He reached farther than before. The window faltered. The way closed, and I remained on this side."
+
+A pause follows, longer than the others. "What happened to Thalivar, I do not know completely. I felt his thoughts grow troubled. His dreams became filled with things he could not understand. Then there was silence."
+
+The quill scratches again. "He is not here with me. Whether he remains somewhere beyond the window, I cannot say. I have not heard him in a very long time."
+
+At the mention of the melody, the quill stops altogether. For a moment, the room seems colder. "The song was his. He used it to call across the boundary. It gave shape to the opening and drew attention from beyond it. But songs may carry more than one meaning. The same notes can summon, guide, or turn away. You have changed its purpose in your hands."
+3. ---
+The quill makes a small, uncertain movement. "I do not know what else it may do."
+
+Pippa's final question about duplication seems to give the Watcher pause. The quill hangs over the page before writing: "I have seen reflections that were not reflections. Shapes that wore familiar faces. I do not know your word for them. Thalivar feared such things. He wrote of echoes, of copies, of things that might cross without their originals."
+
+The pen lifts, then settles again. "As for the window…" The next lines appear with greater care. "The disc opens the way. It does not choose what crosses. I intend to leave. I cannot promise that nothing else will follow. I cannot promise that nothing will be drawn toward it. The boundary is thin, and there are things beyond it that have heard the call."
+
+The journal falls silent.
+4. Pippa 'Pip' MorgrinAPP — 11/1/26, 6:01 AM
+"If I may… just one more question!" Pippa pipes up, raising her flute high into the air like a schoolgirl eagerly hoping to be called upon. "If we open the way to beyond the far threshold for you, would the workers be free to return to their duties without fear of whatever has been troubling them?"
+
+She lowers her flute, tapping it lightly against her chin as she considers something else. Then her eyes brighten. "Oh! And I really must ask… what is your name? It seems terribly rude to have a conversation of such importance without knowing whom we're speaking to!"
+5. Dungeon MasterAPP — 11/1/26, 6:30 AM
+For a moment, the journal remains still. Then the quill slowly rises from the desk, its tip hovering over the parchment. "If you give me the key, I will leave." The words appear carefully, one letter at a time. "The portal will remain open long enough for me to cross. Once I have passed through, the window will collapse. The passage will close behind me, and the key will be destroyed when I reach home. It will not open again."
+
+The quill pauses, then adds: "There will be no return. No second crossing. Whatever waits beyond the threshold will remain beyond it." A faint chill moves through the bedroom. The quill shifts toward the next line. "If I am gone, the workers should be free to return. I have no wish to remain in this tower, and I have no reason to trouble them once the way home is open."
+
+There is a longer pause before the final question is answered. "My name…" The quill hesitates, as though searching for a word that might fit. "Names are different where I come from. Thalivar called me the Watcher. It is the name I have carried here, and the one by which you may know me."
+
+The quill lowers, leaving one final line beneath the others. "I have been alone for a very long time. I would like to go home." The pen settles against the journal.
+6. Kai VancroftAPP — 11/1/26, 2:19 PM
+Cautiously, "It, the Watcher, seemed to answer everything." Kai takes a beat. "Shall we help it return home now?"
+7. Zeftina BronzefellowAPP — 1:39 AM
+Zeftina nods, beginning to walk up the stairs. "Yeah. I think we should."
+8. Dungeon MasterAPP — 5:05 AM
+Kai's question settles over the group, and for a moment no one speaks. The Watcher's answers have done little to remove the uncertainty surrounding the portal, but they have offered something the party has been seeking since this mystery began: a possible end to the disturbances at Thalivar's Tower.
+
+Zeftina gives a small nod and starts toward the staircase, keeping the wrapped disc firmly in hand.
+
+The others fall in behind her, weapons at the ready. 
+
+The stairs wind through the ruined tower, growing narrower and more exposed as they climb. Dust shifts beneath their boots, and cold air moves through cracks in the ancient masonry. Above them, somewhere beyond the broken upper floors, waits the rooftop mechanism Thalivar built more than two centuries ago.
+
+As they climb, a faint whisper drifts down through the stairwell. "The key…" The voice is unmistakable. The Watcher is following their progress, or perhaps it has been waiting for them all along. "You have chosen. I will wait."
+
+At last, the staircase opens toward the uppermost level. Beyond the shattered stonework lies the rooftop, exposed to the open sky. Whatever Thalivar built is waiting up there.
+9. .
+
+The party climbs the final stretch of stairs and emerges onto the rooftop of Thalivar's Tower. The open sky stretches above them, and the cold wind sweeps across the exposed stone. Broken masonry and scattered debris mark the rooftop, remnants of the tower's long decline. Yet at its center stands something that has weathered the centuries far better than the structure around it.
+
+The portal.
+
+A circular arrangement of dark metal and ancient stone rises from the rooftop, its surface covered in intricate markings and symbols. Several of the markings resemble those etched into the mysterious disc Zeftina carries. 
+
+Faint lines of magical energy trace the outer ring, though they remain dim and dormant. The air around the structure feels strangely still, as if the wind itself avoids passing through it.
+10. 
+11. Standing directly in front of the portal is the Watcher. Its tall, unnaturally thin form is now fully visible. Long limbs hang at its sides, ending in fingers that seem far too numerous and far too slender. Its body appears almost humanoid, though its proportions are subtly wrong, as if something from beyond the Far Threshold has tried to imitate a shape it does not fully understand. 
+
+It does not advance. It simply stands before the portal, waiting. "You have brought the key." Its voice is quieter now. There is no demand in it, no threat. Only an unmistakable sense of anticipation. "You have my word. I will cross, and the window will close. You will be free of me."
+
+The Watcher turns slightly toward the portal, then looks back at the party. "May I go home?"
+12. 
+13. Pippa 'Pip' MorgrinAPP — 7:02 AM
+PPM: Pippa's expression softens slightly as she studies the Watcher, though her eyes remain wary of the portal. She carefully stows her flute and brings her ornate, star-adorned lute into her hands, settling it into a ready position. "Well, two centuries is quite long enough to be a guest in someone else's home, especially one as drafty as this!" She offers the Watcher a small, sympathetic smile. "Everyone deserves a place to belong."
+
+She takes a cautious step back from the portal, fingers poised over her lute strings.
+14. Zeftina BronzefellowAPP — 8:50 AM
+Zeftina looks on the portal and the entity known as the Watcher in awe. It was all so extraordinary. Her gaze softens when it asks if it can go home. She gives the Watcher a nod and removes the disc from the wrapping she had around it and approaches the figure and the portal, holding it out. "Yes. You may."

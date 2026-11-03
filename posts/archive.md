@@ -373,7 +373,7 @@ Turning so as not to have the door at her back, she sets aside the questions she
 
 **"I know the wizard only by what you have told me,"** she says to Pip, her gaze resting somewhere near the flute, **"so I could not tell you whether it would be wise to go to him, or whether he could help us. But if there is more to be learned here before the key is turned, I will help wherever I can."**
 
-## 2026-10-31 · Session 64 · The watcher writes that it won't force the key and invites questions, and Pip pours out hers: Tetia reads the wet ink from where she stands, interest coming to stand beside her fear; she murmurs that it hears them, reasons and would sooner answer than take, it seems; she glances toward the dark corner and privately hopes it has forgiven them the tune · PENDING
+## 2026-10-31 · Session 64 · The watcher writes that it won't force the key and invites questions, and Pip pours out hers: Tetia reads the wet ink from where she stands, interest coming to stand beside her fear; she murmurs that it hears them, reasons and would sooner answer than take, it seems; she glances toward the dark corner and privately hopes it has forgiven them the tune
 From where she stands, over Pip's copper curls, Tetia can make out the wet ink; she reads it through, her lips moving faintly, and then she reads it again. The fear has not left her, but interest has come to stand beside it, and her gaze fixes on the page as it would on a text that has argued back.
 
 **"It hears us, and it reasons, and it would sooner answer than take, it seems..."** she murmurs, to no one in particular.
@@ -381,3 +381,14 @@ From where she stands, over Pip's copper curls, Tetia can make out the wet ink; 
 Then her glance steals toward the dark corner between the shelves, and she stands very still.
 
 _I do hope it has forgiven us the tune._
+
+## 2026-11-03 · Session 64 · Atop the tower the Watcher asks to go home and Zeftina holds out the disc: the portal catches her, a door built to reach past every world her books name; the Watcher's shape drains her color until she reasons it learned this world's shapes through Thalivar, and not well; with Zeftina within its reach, she studies it for what it truly means to do · PENDING
+The wind snatches her hair across her face, and she catches it back at her nape without looking, for her eyes have gone to the ring of dark metal and stone and will not come away. She grew up in a city that can slip between worlds, and has herself crossed where they lie thin, but a door built by one wizard's hand, reaching past every world her books can name, she had thought only a thing of theory and old argument.
+
+_And yet here it stands._
+
+Then her gaze finds the Watcher, and what little color the wind has stung into her cheeks drains away, her lips paling with it. Deep inside her, something small and frightened wants to back away from those long limbs and that crowd of too-slender fingers; her breath goes short and shallow, and she makes herself look again, and look properly.
+
+_It learned the shapes of this world through Thalivar, and has not learned them well._
+
+The thought slows her breathing, if not her heart. With Zeftina carrying the stone within its reach, Tetia studies the Watcher as closely as she has ever studied anything, searching past its words for what it truly means to do.
