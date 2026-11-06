@@ -992,3 +992,66 @@ PPM: Pippa's expression softens slightly as she studies the Watcher, though her 
 She takes a cautious step back from the portal, fingers poised over her lute strings.
 14. Zeftina BronzefellowAPP — 8:50 AM
 Zeftina looks on the portal and the entity known as the Watcher in awe. It was all so extraordinary. Her gaze softens when it asks if it can go home. She gives the Watcher a nod and removes the disc from the wrapping she had around it and approaches the figure and the portal, holding it out. "Yes. You may."
+1. Dungeon MasterAPP — 11/4/26, 4:27 AM
+The Watcher looks toward Zeftina as she offers the disc. For a moment, it makes no movement. Its long fingers hover just above the artifact, almost as though it cannot quite believe the key is truly being returned. Then it reaches forward and carefully takes it. “You have my gratitude.” Its voice is quieter than before. The Watcher turns toward the portal, holding the disc in its many-fingered hand. The dark stone at its center catches the light, and the markings around its surface begin to glow.
+
+A low vibration rolls through the rooftop. The ancient structure awakens. Lines of light race around the circular frame, growing brighter with each passing moment. The air shimmers, and the empty space within the ring begins to distort. For an instant, the party catches a glimpse of somewhere else—a place beyond anything familiar, where strange shapes move beneath an unfamiliar sky. The Watcher steps toward the opening. It pauses at the threshold and turns its shadowed face toward the party one final time.
+
+“You have given me back what I thought I had lost forever. I will remember your kindness.”
+
+Then it crosses. Its elongated silhouette passes through the shimmering opening and disappears beyond the threshold. The portal flares brilliantly. A deep, resonant sound echoes across the rooftop, like a great bell heard from beneath the earth. The light collapses inward, the shimmering opening vanishes, and the ancient metal framework shudders. Cracks race through the stone base.
+
+With a sudden rumble, the entire structure gives way, crumbling into countless small stones and clouds of dust. The last fragments of magical light fade into the morning air. And then there is silence. The Watcher is gone. The portal is gone. The disc is gone. Only broken stones and dust remain where Thalivar's doorway once stood.
+
+The unnatural chill seems to lift. The wind moves freely across the rooftop, and the oppressive feeling that has lingered over the tower begins to fade.
+2. .
+Whatever else lies beyond the Far Threshold, the Watcher has made its journey home.
+
+And perhaps, at long last, the workers of Thalivar's Tower will be able to return.
+
+Among the stones and dust left behind after the portal collapses you see six small objects, each bearing a faint symbol resembling the markings on the disc. A final thank-you from a creature you chose to trust. (Tetia got the attached item)
+
+[Attached item card, transcribed from the director's image: "Tetia – The Lens of the Far Threshold. Uncommon · Wondrous item. A delicate silver lens that can be worn over one eye. Strange symbols appear along its rim when viewed in moonlight. Tetia can use it once per long rest to cast Detect Magic without expending a spell slot. Additionally, while looking through the lens, she can see the faint outline of portals, dimensional tears, and planar boundaries within 60 feet. The Watcher remembers the scholar who understood the significance of its journey and offered to help guide it home."]
+
+1. Zeftina BronzefellowAPP — 11/4/26, 1:42 PM
+Zeftina places the shard around her neck, looking into the stone and swirling points of light. "Well, that's incredible." With a sigh, she lets the stone drop and rest against her chest. "I suppose we can tell Gallio that the workers can come back and continue with out any troubles."
+2. Grond the OakfellAPP — 11/4/26, 2:39 PM
+Checking the balance and weight of the axe, Grond gives a grunt of approval. "Good. Now let's get out of here."
+3. Dungeon MasterAPP — 11/4/26, 2:49 PM
+The party makes its way down from the rooftop, leaving behind the scattered stones and dust where Thalivar’s portal once stood. The strange pressure that had hung over the tower is gone. The air feels lighter, and the oppressive chill that followed them through the upper floors has finally disappeared.
+
+As they descend, the tower seems almost ordinary again. No whispers follow them. No shadows move where they shouldn't. Even the unsettling silence has given way to the familiar sounds of wind passing through broken windows.
+
+Eventually, they reach the first floor and make their way to the study.
+
+Gallio Elibro is seated at the desk, surrounded by Thalivar’s notes and scattered parchment. He looks up as the party enters, adjusting his spectacles.
+4. Pippa 'Pip' MorgrinAPP — Yesterday at 4:43 AM
+Pippa’s eyes sparkle as she admires her new flute’s starry decorations. She gives it a delighted little turn, watching the light catch its details. "Well, aren't you a lovely little treasure?" she murmurs before giving it a quick, affectionate hug. With a final flourish, she carefully tucks the flute away, then skips after the others as they make their way down the tower. Whatever awaits them with Gallio, surely there's a tale or two worth hearing... or telling.
+5. Zeftina BronzefellowAPP — Yesterday at 9:31 AM
+Zeftina tucks the stone away beneath her clothes before entering the study where Gallio sat. "We have good news. The tower is clear. Your workers should be able to continue their work unimpeded."
+6. Dungeon MasterAPP — Yesterday at 11:51 AM
+Gallio looks up sharply, his expression shifting from weary concern to cautious relief. “Clear? You mean the disturbances have stopped?” 
+
+He rises from his chair, pushing it back slightly as he studies the party. His gaze moves from one adventurer to the next, as though searching for some indication of what they encountered. “Remarkable. I had hoped you might find a way to resolve the situation, but I confess I wasn't certain what we were dealing with.” He removes his spectacles and rubs the bridge of his nose. “The workers will be relieved to hear this. They have already lost enough time, and the reconstruction cannot continue while the tower remains unsafe.”
+
+He replaces his spectacles and looks toward the staircase. “Did you discover what was responsible for the disturbances? And more importantly, is there anything else I should know before I send the workers back inside?”
+
+His tone is genuinely inquisitive, though there is a hint of apprehension beneath it. Whatever happened in the upper floors, Gallio clearly wants to know whether the danger has truly passed.
+7. Zeftina BronzefellowAPP — Yesterday at 1:02 PM
+Zeftina shakes her head. "It was a creature that needed help going home. It is now there and we have its word that the tower is now undisturbed. Thats all that is needed to know."
+8. Dungeon MasterAPP — Yesterday at 3:33 PM
+Gallio listens carefully, his expression growing more thoughtful as Zeftina explains. At the mention of a creature that needed help returning home, his eyebrows rise slightly. “A creature from beyond the boundaries of our world?” he asks, almost to himself. He looks toward the upper floors, then back at the party. 
+
+“Well, I suppose that explains some of what we've experienced here. If it has truly departed and the disturbances have stopped, then I won't press you for details.” He pauses, studying the group for another moment. “You have my gratitude. Whatever you encountered up there, you seem to have handled it. I'll arrange for the workers to return, though I suspect they'll need some convincing.”
+
+A faint smile crosses his face. “Thalivar's Tower may finally have a chance to be restored. You've done Leilon a considerable service.” He returns to his desk, gathering several scattered pages into a neat stack. “If there's anything else you need before you leave, please let me know. And again, thank you.”
+9. Kai VancroftAPP — Yesterday at 4:43 PM
+With the new emerald stone for Arrow in his pocket and the knowledge that the Watcher has returned home, Kai finds himself pleased with the results of their mission. If Gallio is a body double fell to the bottom of his list of concerns; this version of Gallio seems happy enough with their solution.
+
+Kai turns to the group, "Are we done here?"
+10. Pippa 'Pip' MorgrinAPP — Yesterday at 6:20 PM
+Pippa gives Gallio a bright smile and a playful little flourish of her flute. "Well, I'd say that's a rather happy ending to a rather peculiar tale! One tower restored, one creature safely home, and hopefully a few less mysteries lurking about." She glances toward Kai and nods. "I believe we are, unless anyone has a final verse they'd like to add to this song?" A mischievous smile tugs at her lips as she turns toward the others, ready to follow their lead.
+11. Zeftina BronzefellowAPP — 8:41 AM
+"Thank you, Gallio. We will take our leave. If you ever need anymore help with anything, just reach out." Zeftina gives him a small nod of the head and exits the study toward the main hall.
+
+(Dates: "Yesterday" = 11/5/26; the last post, with no date, = 11/6/26.)

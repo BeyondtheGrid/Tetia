@@ -392,3 +392,16 @@ Then her gaze finds the Watcher, and what little color the wind has stung into h
 _It learned the shapes of this world through Thalivar, and has not learned them well._
 
 The thought slows her breathing, if not her heart. With Zeftina carrying the stone within its reach, Tetia studies the Watcher as closely as she has ever studied anything, searching past its words for what it truly means to do.
+
+## 2026-11-06 · Session 64 · Gallio hears the tower is clear: Tetia keeps by the door and adds nothing, tries the Watcher's lens and lowers it when it comes to rest on him, wonders how she would know a second of a man whose first she never knew; grieves Thalivar's door gone to dust before she could sketch it, yet beneath reason is glad; a silent bow as Zeftina takes their leave · PENDING
+While the others speak with Gallio, Tetia keeps near the door and adds nothing; what they choose to tell him is theirs to tell.
+
+Her fingers are busy instead with the Watcher's gift, turning the little silver lens over low in her hand and tilting its rim to the light, as though, examined long enough, it might give up its purpose. She raises it to her eye only once: finding it has come to rest on the wizard himself, she lowers it quickly, like someone caught reading another's letters, and watches him without it.
+
+_I never knew the first of him; how should I know a second?_
+
+Her gaze strays to the papers on his desk, written in a hand she knows now from the journal, and her thoughts climb from them to the roof, where Thalivar's door has gone to dust before she could so much as sketch it. The scholar in her grieves.
+
+And yet the workers may now come back to finish what they began, and a creature that wished only to go home is home; and somewhere beneath reason, where she has never thought to look, she is glad.
+
+When Zeftina takes their leave, Tetia gives the wizard a small, silent bow and follows, the lens cupped in her hand.
