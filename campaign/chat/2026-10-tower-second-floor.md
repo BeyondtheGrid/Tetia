@@ -1055,3 +1055,24 @@ Pippa gives Gallio a bright smile and a playful little flourish of her flute. "W
 "Thank you, Gallio. We will take our leave. If you ever need anymore help with anything, just reach out." Zeftina gives him a small nod of the head and exits the study toward the main hall.
 
 (Dates: "Yesterday" = 11/5/26; the last post, with no date, = 11/6/26.)
+
+---
+
+Pasted 14 November 2026 (session 64). The first two posts end the tower scene; the party leaves the tower in the next post, which begins `2026-11-party-house.md`.
+
+1. Tetia MercuryAPP — 11/6/26, 9:17 AM
+While the others speak with Gallio, Tetia keeps near the door and adds nothing; what they choose to tell him is theirs to tell.
+
+Her fingers are busy instead with the Watcher's gift, turning the little silver lens over low in her hand and tilting its rim to the light, as though, examined long enough, it might give up its purpose. She raises it to her eye only once: finding it has come to rest on the wizard himself, she lowers it quickly, like someone caught reading another's letters, and watches him without it.
+
+I never knew the first of him; how should I know a second?
+
+Her gaze strays to the papers on his desk, written in a hand she knows now from the journal, and her thoughts climb from them to the roof, where Thalivar's door has gone to dust before she could so much as sketch it. The scholar in her grieves.
+
+And yet the workers may now come back to finish what they began, and a creature that wished only to go home is home; and somewhere beneath reason, where she has never thought to look, she is glad.
+
+When Zeftina takes their leave, Tetia gives the wizard a small, silent bow and follows, the lens cupped in her hand.
+2. Kieran ThalorrAPP — 11/6/26, 11:14 AM
+Kieran stows his gifted arrow in his quiver and quietly listens, watching Gallio as he speaks. His distrust remains, but Gallio's lack of questions and probing helps him simmer. Following Zeftina and the others, he admires the architecture of the building once more before preparing to leave the tower.
+
+"Well, what's next? Shall we head to the cliffs, or is there something more pressing in mind?"

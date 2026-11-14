@@ -393,7 +393,7 @@ _It learned the shapes of this world through Thalivar, and has not learned them 
 
 The thought slows her breathing, if not her heart. With Zeftina carrying the stone within its reach, Tetia studies the Watcher as closely as she has ever studied anything, searching past its words for what it truly means to do.
 
-## 2026-11-06 · Session 64 · Gallio hears the tower is clear: Tetia keeps by the door and adds nothing, tries the Watcher's lens and lowers it when it comes to rest on him, wonders how she would know a second of a man whose first she never knew; grieves Thalivar's door gone to dust before she could sketch it, yet beneath reason is glad; a silent bow as Zeftina takes their leave · PENDING
+## 2026-11-06 · Session 64 · Gallio hears the tower is clear: Tetia keeps by the door and adds nothing, tries the Watcher's lens and lowers it when it comes to rest on him, wonders how she would know a second of a man whose first she never knew; grieves Thalivar's door gone to dust before she could sketch it, yet beneath reason is glad; a silent bow as Zeftina takes their leave
 While the others speak with Gallio, Tetia keeps near the door and adds nothing; what they choose to tell him is theirs to tell.
 
 Her fingers are busy instead with the Watcher's gift, turning the little silver lens over low in her hand and tilting its rim to the light, as though, examined long enough, it might give up its purpose. She raises it to her eye only once: finding it has come to rest on the wizard himself, she lowers it quickly, like someone caught reading another's letters, and watches him without it.
@@ -405,3 +405,14 @@ Her gaze strays to the papers on his desk, written in a hand she knows now from 
 And yet the workers may now come back to finish what they began, and a creature that wished only to go home is home; and somewhere beneath reason, where she has never thought to look, she is glad.
 
 When Zeftina takes their leave, Tetia gives the wizard a small, silent bow and follows, the lens cupped in her hand.
+
+## 2026-11-14 · Session 64 · At the party's house, three knocks bring Gallio with the payment and a sealed letter from the Council of Leilon slips under the door: Tetia doesn't answer a door that isn't hers and reads the others' faces; concern settles on her at Pip's doubt of Gallio and a letter left with no knock; she rises to read it where it lies, and "along the coast" calls her back, since this coast's storms are what sent her across the sea · PENDING
+At the first knock, the cup Tetia has been warming her hands on goes still halfway to her mouth, and she has counted three before she knows she is counting. She does not rise, for it is not her door to answer; her eyes go instead to the faces of those whose home this is, to learn from them whether a knock here is a thing to fear.
+
+The ease she had found in the morning's quiet does not wholly return after that: not with Pip's doubts of the wizard's polish, and not with a letter that comes with no knock at all. A faint crease has settled between her brows, the softness has gone from her mouth, and her fingers lace together at the table's edge.
+
+She rises to her full height, gathering back one long sleeve before it can trail through the teacups, and comes near enough to read the letter for herself, leaving it where it lies. She takes it in at a reader's pace, swift and exact, until one phrase calls her back.
+
+_Along the coast._
+
+It was this coast's storms that sent her across the sea.
