@@ -97,3 +97,17 @@ Pippa glances toward Kai with a little smile. "Gallio was at the door, deliverin
 Turning to Zeftina, she lifts her teacup with a playful little flourish. "And it seems the next tale has already found us! The Council of Leilon is calling. I do hope they have something interesting in mind... preferably with no portals, keys or watchers, yeah?" She grins as she picks up the parchment and places it on the table for everyone to read.
 20. Kai VancroftAPP — 6:33 PM
 Kai leans over the table and skims the parchment. "Word travels fast."
+21. Tetia MercuryAPP — 11/14/26, 3:16 AM
+At the first knock, the cup Tetia has been warming her hands on goes still halfway to her mouth, and she has counted three before she knows she is counting. She does not rise, for it is not her door to answer; her eyes go instead to the faces of those whose home this is, to learn from them whether a knock here is a thing to fear.
+
+The ease she had found in the morning's quiet does not wholly return after that: not with Pip's doubts of the wizard's polish, and not with a letter that comes with no knock at all. A faint crease has settled between her brows, the softness has gone from her mouth, and her fingers lace together at the table's edge.
+
+She rises to her full height, gathering back one long sleeve before it can trail through the teacups, and comes near enough to read the letter for herself, leaving it where it lies. She takes it in at a reader's pace, swift and exact, until one phrase calls her back.
+
+Along the coast.
+
+It was this coast's storms that sent her across the sea.
+22. Dungeon MasterAPP — Yesterday at 6:01 AM
+What do you do next?
+23. Pippa 'Pip' MorgrinAPP — Yesterday at 6:09 AM
+Pippa taps her flute on her chin, a grin tugging at the corners of her mouth. "Well, every good tale needs a new adventure, doesn't it? I say we see what awaits us! And, if we happen upon a merchant along the way, I'd love to stop. I'm in the market for a new set of dice, I've got a mighty craving for a game. After all, a little luck, a little music, and a well-rolled die can make for a very fine evening!"

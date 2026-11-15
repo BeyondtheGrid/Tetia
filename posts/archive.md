@@ -406,7 +406,7 @@ And yet the workers may now come back to finish what they began, and a creature 
 
 When Zeftina takes their leave, Tetia gives the wizard a small, silent bow and follows, the lens cupped in her hand.
 
-## 2026-11-14 · Session 64 · At the party's house, three knocks bring Gallio with the payment and a sealed letter from the Council of Leilon slips under the door: Tetia doesn't answer a door that isn't hers and reads the others' faces; concern settles on her at Pip's doubt of Gallio and a letter left with no knock; she rises to read it where it lies, and "along the coast" calls her back, since this coast's storms are what sent her across the sea · PENDING
+## 2026-11-14 · Session 64 · At the party's house, three knocks bring Gallio with the payment and a sealed letter from the Council of Leilon slips under the door: Tetia doesn't answer a door that isn't hers and reads the others' faces; concern settles on her at Pip's doubt of Gallio and a letter left with no knock; she rises to read it where it lies, and "along the coast" calls her back, since this coast's storms are what sent her across the sea
 At the first knock, the cup Tetia has been warming her hands on goes still halfway to her mouth, and she has counted three before she knows she is counting. She does not rise, for it is not her door to answer; her eyes go instead to the faces of those whose home this is, to learn from them whether a knock here is a thing to fear.
 
 The ease she had found in the morning's quiet does not wholly return after that: not with Pip's doubts of the wizard's polish, and not with a letter that comes with no knock at all. A faint crease has settled between her brows, the softness has gone from her mouth, and her fingers lace together at the table's edge.
@@ -416,3 +416,10 @@ She rises to her full height, gathering back one long sleeve before it can trail
 _Along the coast._
 
 It was this coast's storms that sent her across the sea.
+
+## 2026-11-15 · Session 64 · At the party's house, Pip proposes they see what awaits them and stop at any merchant on the way, for she wants new dice and a game: Tetia's interest lifts at the game; she asks to hear what the matters along the coast may be, if they will have her, and would stop at a merchant too, for one or two things her prayers have need of; she gathers her journal and pens, wraps the Watcher's lens in linen and puts on her cloak, then waits a little apart for whoever will lead · PENDING
+Tetia straightens from the letter, and at the promise of a game her glance goes to Pip with an interest she does not quite manage to hide. A soft clearing of her throat readies her voice.
+
+**"Whatever these matters along the coast may be, I should like to hear of them, if you will have me."** Her gaze dips to the tabletop and comes back. **"And should we pass a merchant, I would be glad to stop as well. There are one or two things my prayers have need of... if it would be no trouble."**
+
+Then, half afraid of keeping them all waiting, she goes to gather what little she keeps about her: her journal and pens, the Watcher's lens wrapped in a scrap of linen and tucked safely away, and last her cloak, drawn close about her shoulders. That done, she waits a little apart for whoever will lead.
