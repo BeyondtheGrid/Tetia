@@ -417,9 +417,20 @@ _Along the coast._
 
 It was this coast's storms that sent her across the sea.
 
-## 2026-11-15 · Session 64 · At the party's house, Pip proposes they see what awaits them and stop at any merchant on the way, for she wants new dice and a game: Tetia's interest lifts at the game; she asks to hear what the matters along the coast may be, if they will have her, and would stop at a merchant too, for one or two things her prayers have need of; she gathers her journal and pens, wraps the Watcher's lens in linen and puts on her cloak, then waits a little apart for whoever will lead · PENDING
+## 2026-11-15 · Session 64 · At the party's house, Pip proposes they see what awaits them and stop at any merchant on the way, for she wants new dice and a game: Tetia's interest lifts at the game; she asks to hear what the matters along the coast may be, if they will have her, and would stop at a merchant too, for one or two things her prayers have need of; she gathers her journal and pens, wraps the Watcher's lens in linen and puts on her cloak, then waits a little apart for whoever will lead
 Tetia straightens from the letter, and at the promise of a game her glance goes to Pip with an interest she does not quite manage to hide. A soft clearing of her throat readies her voice.
 
 **"Whatever these matters along the coast may be, I should like to hear of them, if you will have me."** Her gaze dips to the tabletop and comes back. **"And should we pass a merchant, I would be glad to stop as well. There are one or two things my prayers have need of... if it would be no trouble."**
 
 Then, half afraid of keeping them all waiting, she goes to gather what little she keeps about her: her journal and pens, the Watcher's lens wrapped in a scrap of linen and tucked safely away, and last her cloak, drawn close about her shoulders. That done, she waits a little apart for whoever will lead.
+
+## 2026-11-16 · Session 64 · In Leilon's town square on the way to Town Hall: Tetia comes up to a merchant's table at arm's length, her purse in both hands; all the coin she brought from home and her share of the wizard's payment ought to buy two small stones; she asks herself what price a life has, her studies answering exactly and her heart refusing any price; the asking gives her pause, since no task the court set her ever required her to make ready for a death and this one does; she softly asks the merchant for two small diamonds · PENDING
+Tetia skirts the square along its edges, and when she comes up to a merchant's table it is at a courteous arm's length, her purse held in both hands as though it might spill. All the coin she brought from home is in it, and her share of the wizard's payment besides, and it ought to buy two stones small enough to lose in a fold of her sleeve.
+
+_What price has a life?_
+
+Her studies answer it exactly, the worth her prayer demands of each stone and not a copper less; her heart cannot think of a life as having a price at all. It is the asking that gives her pause, for no task the court ever set her has required her to make ready for a death, and this one does.
+
+She does not let it hold her longer than that, and when her voice comes it is soft, and softer still by its end.
+
+**"Forgive me. Might you have any diamonds? Two small ones, if you can spare them."**

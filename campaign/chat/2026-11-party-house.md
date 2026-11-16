@@ -111,3 +111,17 @@ It was this coast's storms that sent her across the sea.
 What do you do next?
 23. Pippa 'Pip' MorgrinAPP — Yesterday at 6:09 AM
 Pippa taps her flute on her chin, a grin tugging at the corners of her mouth. "Well, every good tale needs a new adventure, doesn't it? I say we see what awaits us! And, if we happen upon a merchant along the way, I'd love to stop. I'm in the market for a new set of dice, I've got a mighty craving for a game. After all, a little luck, a little music, and a well-rolled die can make for a very fine evening!"
+24. Tetia MercuryAPP — Yesterday at 10:47 AM
+Tetia straightens from the letter, and at the promise of a game her glance goes to Pip with an interest she does not quite manage to hide. A soft clearing of her throat readies her voice.
+
+"Whatever these matters along the coast may be, I should like to hear of them, if you will have me." Her gaze dips to the tabletop and comes back. "And should we pass a merchant, I would be glad to stop as well. There are one or two things my prayers have need of... if it would be no trouble."
+
+Then, half afraid of keeping them all waiting, she goes to gather what little she keeps about her: her journal and pens, the Watcher's lens wrapped in a scrap of linen and tucked safely away, and last her cloak, drawn close about her shoulders. That done, she waits a little apart for whoever will lead.
+25. Zeftina BronzefellowAPP — Yesterday at 10:48 AM
+"Shall we split the funds and make our way to the Council. If they are calling directly, it may of big import." Zeftina grabs one more pastry from the dish and makes her way toward the door.
+26. Kai VancroftAPP — Yesterday at 3:35 PM
+Kai finishes his tea, grabs his equipment, and follows Zeftina out the door.
+27. Dungeon MasterAPP — Yesterday at 5:09 AM
+DM: With the party ready to depart, the invitation from the Council of Leilon is no longer just a piece of parchment on the table. Whatever troubles are stirring along the coast, the adventurers are about to learn more.
+
+The streets of Leilon await, with a stop at the town square to visit a couple of merchants along the way. Their destination is Leilon Town Hall, where the Council has requested their presence.
