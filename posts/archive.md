@@ -424,13 +424,15 @@ Tetia straightens from the letter, and at the promise of a game her glance goes 
 
 Then, half afraid of keeping them all waiting, she goes to gather what little she keeps about her: her journal and pens, the Watcher's lens wrapped in a scrap of linen and tucked safely away, and last her cloak, drawn close about her shoulders. That done, she waits a little apart for whoever will lead.
 
-## 2026-11-16 · Session 64 · In Leilon's town square on the way to Town Hall: Tetia comes up to a merchant's table at arm's length, her purse in both hands; all the coin she brought from home and her share of the wizard's payment ought to buy two small stones; she asks herself what price a life has, her studies answering exactly and her heart refusing any price; the asking gives her pause, since no task the court set her ever required her to make ready for a death and this one does; she softly asks the merchant for two small diamonds · PENDING
-Tetia skirts the square along its edges, and when she comes up to a merchant's table it is at a courteous arm's length, her purse held in both hands as though it might spill. All the coin she brought from home is in it, and her share of the wizard's payment besides, and it ought to buy two stones small enough to lose in a fold of her sleeve.
+## 2026-11-16 · Session 64 · Through Leilon's town square toward Town Hall: Tetia comes away from the merchants with two small diamonds and very little else, all the coin she brought from home and her share of the wizard's payment spent on them; she asks herself what price a life has, her studies answering exactly and her heart refusing any price; the asking gives her pause, since no task the court set her ever required her to make ready for a death and this one does; she knots the purse away beneath her cloak, falls in with the others toward Town Hall, and wonders what the Council wants with those who cleared its tower; if it is the storms, her duty and the party's may share a road, and if not she must learn what she owes to each · PENDING
+Tetia comes away from the merchants' stalls with two small diamonds in her purse and very little else, for all the coin she brought from home, and her share of the wizard's payment besides, has gone on stones small enough to lose in a fold of her sleeve.
 
 _What price has a life?_
 
-Her studies answer it exactly, the worth her prayer demands of each stone and not a copper less; her heart cannot think of a life as having a price at all. It is the asking that gives her pause, for no task the court ever set her has required her to make ready for a death, and this one does.
+Her studies answer it exactly; her heart cannot think of a life as having a price at all. It is the asking that gives her pause, for no task the court ever set her has required her to make ready for a death, and this one does.
 
-She does not let it hold her longer than that, and when her voice comes it is soft, and softer still by its end.
+She knots the purse's cord twice over and tucks it beneath her cloak, close against her, one more small thing made ready, and when the others are done she falls in with them toward Town Hall, her thoughts going on ahead.
 
-**"Forgive me. Might you have any diamonds? Two small ones, if you can spare them."**
+_What should a town's council want with those who cleared its tower?_
+
+If its business is the storms, her duty and the party's may lie along one road for a while; if not, she will have to learn what she owes to each.
