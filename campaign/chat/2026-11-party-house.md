@@ -125,3 +125,26 @@ Kai finishes his tea, grabs his equipment, and follows Zeftina out the door.
 DM: With the party ready to depart, the invitation from the Council of Leilon is no longer just a piece of parchment on the table. Whatever troubles are stirring along the coast, the adventurers are about to learn more.
 
 The streets of Leilon await, with a stop at the town square to visit a couple of merchants along the way. Their destination is Leilon Town Hall, where the Council has requested their presence.
+28. Tetia MercuryAPP — Yesterday at 7:29 AM
+Tetia skirts the square along its edges, and when she comes up to a merchant's table it is at a courteous arm's length, her purse held in both hands as though it might spill. All the coin she brought from home is in it, and her share of the wizard's payment besides, and it ought to buy two stones small enough to lose in a fold of her sleeve.
+
+What price has a life?
+Her studies answer it exactly, the worth her prayer demands of each stone and not a copper less; her heart cannot think of a life as having a price at all. It is the asking that gives her pause, for no task the court ever set her has required her to make ready for a death, and this one feels like it may.
+She does not let it hold her longer than that, and when her voice comes it is soft, and softer still by its end.
+"Forgive me. Might you have any diamonds? Two small ones, if you can spare them."
+29. Kai VancroftAPP — Yesterday at 7:25 PM
+Evaluating the situation, Kai decides this could take a minute and heads to the pub. Never turn down an opportunity for a quick drink and some gossip.
+30. Dungeon MasterAPP — 1:15 AM
+The town square proves a promising stop for the party. Pippa soon spots a merchant with a selection of gaming supplies spread across a small wooden stall. Among the trinkets, carved pieces, and other curiosities sits a collection of dice in various colors and materials. Some are simple wooden cubes, while others are polished bone, painted ceramic, and finely cut stone. The merchant notices Pippa's interest and gives her an inviting smile. “Looking for a little luck, are we? You've come to the right stall! I've got sets for casual games and a few finer pieces for those who take their rolls seriously.” He gestures toward the display, leaving Pippa to browse.
+A short distance away, Tetia finds a merchant whose wares include a small collection of gemstones. When she asks about diamonds, the merchant opens a padded wooden case and reveals several stones nestled in individual compartments. “Diamonds, you say? Not something everyone comes looking for. I have a few small ones, though. What size were you after?” He studies Tetia's expression, then adds, “They're genuine, of course. Not cheap, but good quality.” He carefully sets the case on the counter so she can inspect the stones and discuss the price.
+Kai finds a seat at the nearby pub and orders himself a drink. The common room is comfortably busy, with merchants, dockworkers, and locals exchanging the latest news over their meals and ales. At a nearby table, a few locals are speaking in low but animated voices. One mentions the Wayside Inn, drawing the attention of the others.
+“I'm telling you, something strange happened out there,” says a weathered-looking man, shaking his head. “The place hasn't been the same since.”
+Another local leans forward. “You mean the trouble with the children?”
+“Aye. Cultists, from what I heard. And those strange marks they leave behind. Three lightning bolts, all in a row.”
+31. ---
+A woman seated beside him lowers her voice. “Some say the inn was attacked by more than just ordinary folk. Whatever was happening there, it wasn't natural.”
+The first man takes a long drink before continuing. “Adventurers dealt with it, apparently. Rescued the children and put an end to the trouble. But I'd wager there's more to that story than anyone's telling.”
+The conversation carries on, with the locals offering bits and pieces of rumor. Kai has found himself with an unexpected opportunity to learn more about the Wayside Inn—and perhaps discover whether the trouble there is truly over.
+32. Pippa 'Pip' MorgrinAPP — 7:01 AM
+Pippa's eyes sparkle as she spots the collection of dice. She leans over the stall, admiring the colors and materials before selecting a particularly pretty set. "Well now, luck is a fickle friend, but a clever player knows how to keep her close, yes?" she says with a playful grin. "I'm hoping to find something that'll bring me a small fortune, preferably without emptying my purse before the fun begins!"
+She gives the dice a shake in her palm, listening to their cheerful clatter. "You have quite the lovely collection, my friend. It takes a discerning eye to gather such fine pieces!" She offers the merchant a warm, appreciative smile before leaning in conspiratorially. "But tell me, with your fine taste, which of these has earned the best reputation? I do like to know my companions before trusting them with my fortune, especially when they shimmer with a bit of stardust."
