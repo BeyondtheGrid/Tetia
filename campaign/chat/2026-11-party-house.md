@@ -148,3 +148,21 @@ The conversation carries on, with the locals offering bits and pieces of rumor. 
 32. Pippa 'Pip' MorgrinAPP — 7:01 AM
 Pippa's eyes sparkle as she spots the collection of dice. She leans over the stall, admiring the colors and materials before selecting a particularly pretty set. "Well now, luck is a fickle friend, but a clever player knows how to keep her close, yes?" she says with a playful grin. "I'm hoping to find something that'll bring me a small fortune, preferably without emptying my purse before the fun begins!"
 She gives the dice a shake in her palm, listening to their cheerful clatter. "You have quite the lovely collection, my friend. It takes a discerning eye to gather such fine pieces!" She offers the merchant a warm, appreciative smile before leaning in conspiratorially. "But tell me, with your fine taste, which of these has earned the best reputation? I do like to know my companions before trusting them with my fortune, especially when they shimmer with a bit of stardust."
+33. Tetia MercuryAPP — 11/19/26, 9:36 AM
+Tetia comes the last step to the counter and studies the stones one compartment at a time, as carefully as specimens she means to record, until her hand drifts toward them, its fingers nearly as pale as the diamonds themselves. Just short of the nearest they pause, and her eyes lift to the merchant's to ask the leave the open case has likely already given, before her fingers go on. Passing over the larger stones, she chooses two of the smallest, so evenly matched that, laid side by side in her palm, she has to look twice to tell them apart.
+
+Not cheap, he said, and she supposes most folk would put some cost on a life, right up until it is their own, or a dear one's, on the scale; and then living is the only thing they value at all.
+
+The pair takes nearly all her purse holds, counted out slowly, coin by uncertain coin, and she thinks it well spent.
+34. Dungeon MasterAPP — 3:54 AM
+The dice merchant chuckles at Pippa’s words, clearly enjoying her enthusiasm. He watches as she rolls the chosen set between her fingers, then leans forward with a conspiratorial smile of his own. “Ah, now there’s a question worth asking! A clever player indeed knows that luck favors the prepared—or at least those who know when to stop rolling.” He gestures toward the display. “The blue-and-silver set has earned quite a following among the local players. Some swear they bring good fortune. Others claim the red bone dice never seem to roll poorly when the stakes are high. Personally, I suspect the player has more to do with it than the dice!”
+
+He gives Pippa a wink. “Still, if you’re looking for a companion with a little stardust, that set you’ve chosen has a rather striking appearance. I can’t promise it will bring you a fortune, but it will certainly look splendid while you lose one!”
+
+The diamond merchant watches Tetia examine the stones, his hands resting patiently beside the open case. When she selects the two smallest diamonds, he nods approvingly. “Fine choices, madam. Small, clear, and well matched. Not the largest stones in my collection, certainly, but good quality.”
+
+He gathers the coins as Tetia counts them out, checking the payment before carefully wrapping each diamond in a small square of soft cloth. He places the pair into a little leather pouch and slides it across the counter. “May they serve you well,” he says, his tone quieter now. “Whatever purpose you have for them, I hope you never have cause to regret their purchase.”
+
+The two merchants return to their customers as the marketplace continues its busy morning rhythm. Around them, merchants call out their wares, travelers barter over supplies, and the distant sound of gulls carries in from the coast.
+35. ---
+For Pippa, a new set of dice awaits its first game. For Tetia, two small diamonds now rest safely in her possession—precious little stones carrying the promise of a second chance when one is needed most.
