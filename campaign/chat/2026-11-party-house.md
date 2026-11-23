@@ -175,3 +175,21 @@ I ought to have watched where they went.
 Pippa beams up at the merchant, rolling her new dice between her fingers. “Well, if they bring me luck, I’ll be sure to sing your praises from here to the next tavern! And if they don’t, I shall simply compose a very tragic ballad about them.” She gives him a mischievous wink before tucking her purchase safely away and bidding him farewell.
 Turning from the stall, she scans the bustling marketplace for a now familiar face. It doesn't take long before she spots Tetia standing amongst the crowd. Pippa's face lights up, and she skips over, practically bouncing the last few steps to her side.
 “There you are! she chirps, flashing her a huge smile. “Look what I've found! A shiny new set of dice. Perhaps fortune shall favor me, and not just my audience!” She giggles, giving her new purchase a proud little pat. She looks up at Tetia with a very pleased with herself grin, “How did you do? Find what you were looking for?”
+38. Tetia MercuryAPP — Yesterday at 2:59 PM
+At that bright voice, already grown familiar, Tetia turns, and her eyes drop from the crowd to find Pip already at her side; the stiffness she has held in her shoulders since she found herself alone eases at once. She bends a little at the waist, so as not to speak down to her from twice her height, and at the talk of fortune a shy smile pulls unbidden at one corner of her lips.
+
+Dice fall as they are thrown, and yet nothing falls outside the Balance.
+
+"Then may the Earthmother favor you," she says softly, "and the rest of us as well."
+
+To the question she gives only "I did, thank you," and no more; but her next breath comes deeper, and against her side the pouch answers it: both stones, safe where she hid them.
+
+"Do you know where the others have gone?" she asks, her gaze lifting over the crowd again. "I am afraid I have lost them..."
+39. Pippa 'Pip' MorgrinAPP — Yesterday at 4:45 PM
+Pippa smiles, one thumb hooked lightly on the straps of her pack. "I do believe the tavern was mentioned! Where better to gather a wandering troupe than somewhere with good company, good drink, and perhaps a song or two? Come on, let's see if the others have settled in!" She skips off in the general direction of the tavern.
+40. Dungeon MasterAPP — 3:36 AM
+The marketplace’s lively bustle followed Pippa and Tetia as they finished their purchases and made their way toward the nearby tavern. The scent of roasting meat, spilled ale, and woodsmoke drifted through the open doorway, offering a welcome respite from the busy square.
+
+Inside, Kai had settled in with a drink, taking advantage of the opportunity to listen to the local conversation. A few patrons remained gathered near the bar, speaking in low voices about the trouble at the Wayside Inn.
+
+Pippa spotted Kai and approached with a cheerful smile, her newly acquired dice safely tucked away.
