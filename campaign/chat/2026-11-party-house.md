@@ -193,3 +193,34 @@ The marketplace’s lively bustle followed Pippa and Tetia as they finished thei
 Inside, Kai had settled in with a drink, taking advantage of the opportunity to listen to the local conversation. A few patrons remained gathered near the bar, speaking in low voices about the trouble at the Wayside Inn.
 
 Pippa spotted Kai and approached with a cheerful smile, her newly acquired dice safely tucked away.
+41. Tetia MercuryAPP — Yesterday at 11:04 AM
+Just inside the door Tetia stops, as she might in an unfamiliar library, and lets her eyes go round the room before she will take a step into it: the low, smoke-darkened beams, the hearth, the tables and the faces bent over their cups, the knot of patrons at the bar whose voices sit lower than the rest. The softly rounded tip of her nose lifts, by the smallest degree, so that she takes in the air along with the sights: tallow, damp wool, and beneath them both the roasting meat she would rather not have found.
+
+Only when Pip is halfway to Kai does it come to her that she has stood here a heartbeat or two longer than a doorway is meant for. She is following Pip, close along the wall, before she has decided what she will do when she gets there; it puts her, at least, somewhere other than the doorway.
+42. Dungeon MasterAPP — 3:58 AM
+Tetia followed Pippa along the wall, allowing the tavern's noise to settle around her. The room was warmer than the street, though the smoke hanging beneath the beams made the air feel close. Tankards clinked, chairs scraped against the floorboards, and conversations rose and fell in overlapping murmurs.
+
+Near the bar, however, the voices remained noticeably subdued. The patrons gathered there seemed more interested in their conversation than their drinks. One man leaned close to his companions, speaking with a furrowed brow.
+
+“I'm telling you, it wasn't just a bit of trouble at the Wayside. Those children were lucky someone got there when they did.”
+
+Another patron glanced toward the tavern door before answering. “And those marks they found? Three lightning bolts. I've heard that symbol has been turning up in places it shouldn't.”
+
+A third man shook his head and lowered his voice further. “Best not to go poking around in things you don't understand. Trouble like that has a way of finding you.”
+
+The barkeeper looked up as Pippa and Tetia entered, wiping his hands on a well-worn cloth. His eyes moved briefly between the two newcomers before settling on Pippa, whose cheerful expression was hard to miss.
+
+“Welcome! What can I get for you ladies? Ale, perhaps? We have a decent cider, too, if you'd prefer something sweeter. And there's hot food coming out of the kitchen if you're hungry.”
+
+He nodded toward the tables, then glanced at Kai.
+
+“Your friend there has already found himself a drink and a seat.”
+
+The tavern carried on around them, though the low conversation near the bar continued. Every so often, the words Wayside Inn and cultists drifted above the general murmur.
+
+The barkeeper waited for their orders, giving Tetia a polite nod as she stood near the wall.
+43. Pippa 'Pip' MorgrinAPP — 6:47 AM
+Pippa's smile brightens at the barkeeper's offer, and she steps a little closer to the bar, her eyes wandering over the room with the sort of cheerful interest one might expect from someone who never met a tavern she didn't like. ”Oh, something sweet, please! The sweetest thing you have, if you don't mind.” She gives the barkeeper a playful little smile. "”A girl ought to reward herself after a successful trip to the marketplace, don't you think?"
+At the mention of food, her expression grew even more enthusiastic. ”And I'd absolutely love some food! Whatever's fresh from the kitchen sounds wonderful. Something hearty, perhaps? I've worked up quite an appetite."
+Then she turns toward Tetia, her smile softening into an inviting one, ”What do you think? Anything take your fancy? Something to drink, something to eat?" She gestures toward the room with a little flourish, as though presenting the tavern as a grand banquet hall rather than a rather smoky establishment. ”We've earned ourselves a proper sit-down, I think!"
+Her gaze briefly wanders toward Kai, and then toward the patrons gathered near the bar. The mention of the Wayside Inn and the children caught her ear, though she made no immediate comment. There was enough time for questions after a little refreshment.
