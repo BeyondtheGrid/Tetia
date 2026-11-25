@@ -224,3 +224,31 @@ Pippa's smile brightens at the barkeeper's offer, and she steps a little closer 
 At the mention of food, her expression grew even more enthusiastic. ”And I'd absolutely love some food! Whatever's fresh from the kitchen sounds wonderful. Something hearty, perhaps? I've worked up quite an appetite."
 Then she turns toward Tetia, her smile softening into an inviting one, ”What do you think? Anything take your fancy? Something to drink, something to eat?" She gestures toward the room with a little flourish, as though presenting the tavern as a grand banquet hall rather than a rather smoky establishment. ”We've earned ourselves a proper sit-down, I think!"
 Her gaze briefly wanders toward Kai, and then toward the patrons gathered near the bar. The mention of the Wayside Inn and the children caught her ear, though she made no immediate comment. There was enough time for questions after a little refreshment.
+44. Tetia MercuryAPP — Yesterday at 10:08 AM
+At Pip's flourish Tetia's eyes follow the small hand out over the room, as though she has been invited to choose from it, and linger there a moment after the question. They settle longest on the bar, where the talk still keeps itself low. In the archives at court she would know which shelf held what she wished to learn; here it passes from mouth to mouth over cups and reaches her only in scraps, like leaves torn loose from a book whose cover she cannot see, and she has no notion how one asks for the rest.
+
+Still, whatever waits at Town Hall is better met fed than fasting, and she means to eat as she would trim a lamp before a long night's work: from need, not appetite. The warm air from the kitchen brings the roasting meat to her again, and she breathes a little shallower until it passes.
+
+There is a small pause before she answers the barkeeper. "Some bread, if you would be so kind," she says, "and anything else your kitchen has made without meat," the last of it softer than the first.
+45. Pippa 'Pip' MorgrinAPP — Yesterday at 10:47 AM
+Pippa gives a delighted little clap, her smile spreading into a grin. "Oh, I do love that idea! Bread is always a fine place to begin, and a little variety at the table never hurt anyone!" She turns back to the barkeeper, counting off the order with a cheerful little flourish of her fingers. "Then we'll have some bread, two dishes from your delightfully aromatic kitchen preferably one with and one without meat, please! Some water for the table, the sweetest drink you have for me, and a refill for our friend there." She lifts her chin in Kai's direction then beams at the barkeeper, looking thoroughly pleased with the arrangements. "Thank you kindly!"
+46. Dungeon MasterAPP — 4:25 AM
+The barkeeper listened to Pippa's order with an amused smile, nodding along as she counted off each item. "Certainly! Sweet cider for you, then. Fresh bread, a meat dish, and something from the kitchen without meat. Water for the table, and another round for your friend."
+
+He glanced toward Kai and gave him a knowing nod before turning toward the kitchen. "Won't be long. Find yourselves a seat, and I'll have it brought over."
+
+A moment later, he returned to the bar to fill a mug for Kai and prepare Pippa's cider. The sweet scent of apples rose from the drink as he set it down, while a serving of water followed. Pippa's cheerful presence seemed to bring a little brightness to the smoke-darkened room. Tetia, meanwhile, remained more reserved, finding a place where she could sit without being too close to the kitchen's roasting aromas.
+
+At the bar, the earlier conversation continued in subdued tones. "I'm telling you, it wasn't just ordinary trouble at the Wayside," one of the locals muttered. "Those cultists were up to something."
+
+"Aye," another replied. "And those lightning marks they carried? Three bolts, all in a row. Don't much like the sound of that."
+
+The barkeeper gave the men a brief look but said nothing, returning his attention to the kitchen.
+
+The food would soon arrive, and the party had a little time to enjoy their refreshments before continuing on to Town Hall.
+47. Kieran ThalorrAPP — 6:41 AM
+Kieran stands against a wall, listening to the music and conversation.
+
+He scans the decorations and the faces. He smiles and watches as people eat and enjoy their evening. He thinks of his friends in the High Forest as the melody plays out. It's a song he'd heard before. His mind wanders to home, far off in a distant world, and he wonders how his family is.
+
+The smell of sweet pastries snap him out of his revelry and he looks around for the source.
